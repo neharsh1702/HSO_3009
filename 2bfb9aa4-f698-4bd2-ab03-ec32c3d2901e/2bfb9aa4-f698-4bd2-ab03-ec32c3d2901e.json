@@ -1155,8 +1155,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:57 AM +00:00",
-      "DateModify": "9/30/2026 8:10:57 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:15 AM +00:00",
+      "DateModify": "9/30/2026 11:50:15 AM +00:00",
       "Title": "Select date in the row wd Section name",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -6874,7 +6874,7 @@
         "Id": "45d4e614-f04f-4791-abee-4cf846b3b3ca"
       },
       {
-        "MetadataId": "5b766161-f840-45eb-a40b-f1c5583c48f2",
+        "MetadataId": "8e565499-3d0d-4146-80e6-a0f39806ff60",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Reviewed subflow",
         "Description": "",
@@ -6900,7 +6900,7 @@
         "Id": "83135919-a480-4996-b094-ea4c57817a59"
       },
       {
-        "MetadataId": "c25315fe-9718-4484-ac26-f9d04f2f2682",
+        "MetadataId": "9db9cdc8-97fd-40b5-9d05-05b96074aa35",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -6926,7 +6926,7 @@
         "Id": "8e1b0042-fe8e-4b75-962a-d9c20fdcbf57"
       },
       {
-        "MetadataId": "e43b00a3-2299-4bce-9fc5-8b2ce43ef1b7",
+        "MetadataId": "5cd0646a-7e43-49cd-855a-03fe8ec97363",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -7054,11 +7054,11 @@
         "Id": "57ce83cd-30c3-4a0f-8b8b-e25d416ef51d"
       },
       {
-        "Title": "Reviewed subflow",
+        "Title": "Standard Test Cases",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "5b766161-f840-45eb-a40b-f1c5583c48f2"
+        "Id": "5cd0646a-7e43-49cd-855a-03fe8ec97363"
       },
       {
         "Title": "Capability Description Expiration Level Priority <div>",
@@ -7082,11 +7082,25 @@
         "Id": "735e3741-c4ec-494d-9a21-ecc6cfb011f4"
       },
       {
+        "Title": "Reviewed subflow",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "8e565499-3d0d-4146-80e6-a0f39806ff60"
+      },
+      {
         "Title": "Expiration date <input> 3 - Copy",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "986e23ad-cfb6-4c4f-a326-4b3e70fbbc66"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "9db9cdc8-97fd-40b5-9d05-05b96074aa35"
       },
       {
         "Title": "25 <td>",
@@ -7101,20 +7115,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "b8086155-b70e-4673-ac11-242e0e0a990b"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "c25315fe-9718-4484-ac26-f9d04f2f2682"
-      },
-      {
-        "Title": "Standard Test Cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e43b00a3-2299-4bce-9fc5-8b2ce43ef1b7"
       },
       {
         "Title": "Month <input> 3",
@@ -7432,7 +7432,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=WrkCtrTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "befcc89f-15d9-4ac9-a172-8e16cd5a9a9b",
+        "StrategyListSource": "04e9e9c9-c2ca-4261-8c76-7119d7532b68",
         "HasImage": "False",
         "RawId": "df162b1e-8257-44ad-ac93-cb30306fdbe0",
         "SelectedStrategyId": "8ed4fdca-3321-412d-a3f7-eb9d7db8d4fb",
@@ -7448,7 +7448,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchAgreementListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "db7a0d34-f3c4-465d-bb6f-1f915eb061a3",
+        "StrategyListSource": "2c0cf97d-d2a1-4977-9b78-1b5d1c25ff5c",
         "HasImage": "False",
         "RawId": "0bf3024c-bd28-4484-a943-b0b3b00a6ad9",
         "SelectedStrategyId": "3d2ed415-22d8-4a25-a0a0-5dfd3c5918ac",
@@ -7464,7 +7464,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchAgreementListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c3912c43-4cc9-4bab-b617-66e0145be65a",
+        "StrategyListSource": "4387fdb6-d4c5-4122-a8e0-e8d69b4196c8",
         "HasImage": "False",
         "RawId": "cfa26666-821c-4ffc-8325-e22709b5f287",
         "SelectedStrategyId": "7e9101c7-4a49-4bfe-ba00-dc9767e32b46",
@@ -7480,7 +7480,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchAgreementListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "eef43b39-1371-42e6-baf6-de453cf38c35",
+        "StrategyListSource": "777bc6be-ad0e-44be-b1d1-650f89d63fd3",
         "HasImage": "False",
         "RawId": "27c21476-e14a-466b-b87e-0575d1704b47",
         "SelectedStrategyId": "b5de2a56-3527-4c6f-8a0f-b9d3f5708804",
@@ -7496,7 +7496,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PriceDiscAdmTable_Purch",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "9bf95df2-487c-452f-9811-8e9c71da9009",
+        "StrategyListSource": "9c338d03-1d31-448d-9dfa-86137de65c6c",
         "HasImage": "False",
         "RawId": "d01b1a8e-82db-446c-9dbd-665f0e1a1cc1",
         "SelectedStrategyId": "04875f01-78d6-4c9f-ba38-a6a69d218682",
@@ -7512,7 +7512,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PriceDiscAdmTable_Purch",
         "Fields": "",
-        "StrategyListSource": "5e0e3bd6-d0c2-4622-ab0c-d2b68d28ea85",
+        "StrategyListSource": "f42adc2d-66a9-4cf6-99a9-4d0079013003",
         "HasImage": "False",
         "RawId": "e27b73d3-6830-4ded-8dce-db1f9e6e7750",
         "SelectedStrategyId": "e6b4dfc3-7370-453f-bd2d-c70944559559",
@@ -7528,7 +7528,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchAgreementListPage",
         "Fields": "",
-        "StrategyListSource": "754b1195-be96-42d4-8bea-0aae2f06237c",
+        "StrategyListSource": "cf9ee867-a875-4d30-95df-5e6d1c374b95",
         "HasImage": "False",
         "RawId": "89e40469-6d94-41af-a3b6-27911cecb5e8",
         "SelectedStrategyId": "f085142a-6d1d-4bdf-b8f3-a8c41fcca824",
@@ -7544,7 +7544,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchTableListPage",
         "Fields": "",
-        "StrategyListSource": "1f58d0b7-a65b-4248-b0c1-ce7cf1c04ed2",
+        "StrategyListSource": "a07a51cb-763c-41f4-a6cd-64700faf9f3d",
         "HasImage": "False",
         "RawId": "0ebd2343-7a3b-4c06-8438-a010dd1e6e5e",
         "SelectedStrategyId": "9fa48e93-526d-4201-bb8d-214ec6805882",

@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:41 AM +00:00",
-      "DateModify": "9/30/2026 8:10:41 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:13 AM +00:00",
+      "DateModify": "9/30/2026 11:50:13 AM +00:00",
       "Title": "Toggle switch in a dialog",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2137,7 +2137,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "0504fcb3-8ee6-46d5-a226-677debcc0e42",
+        "MetadataId": "f0bc9023-bd3f-4028-970b-77d792bff0ad",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -2176,7 +2176,7 @@
         "Id": "764e65fe-4a45-48f6-a51b-f3eba0af8924"
       },
       {
-        "MetadataId": "bb38d630-1e79-4c98-99c5-c40ef2c97ae8",
+        "MetadataId": "75f67a5d-678e-4d92-b367-812a073457f5",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -2202,7 +2202,7 @@
         "Id": "cb4e7231-aae2-45ac-8745-6f5b0797ed34"
       },
       {
-        "MetadataId": "90b9cc0b-cfd6-4201-aa45-798c8e14398f",
+        "MetadataId": "530c73ad-0ea1-4cea-b0c8-2764fd7224a8",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -2243,13 +2243,6 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "New functionalities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "0504fcb3-8ee6-46d5-a226-677debcc0e42"
-      },
-      {
         "Title": "Auto-expand result <div>",
         "Description": "",
         "Type": "WebElement",
@@ -2264,6 +2257,20 @@
         "Id": "1c65dc69-d927-4471-a007-e4369751d3e3"
       },
       {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "530c73ad-0ea1-4cea-b0c8-2764fd7224a8"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "75f67a5d-678e-4d92-b367-812a073457f5"
+      },
+      {
         "Title": "Toggle switch in a dialog",
         "Description": "",
         "Type": "SubFlow",
@@ -2271,18 +2278,11 @@
         "Id": "763a547d-57fd-4126-a10f-7fd4edfc53f8"
       },
       {
-        "Title": "D365 FO Framework",
+        "Title": "New functionalities",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "90b9cc0b-cfd6-4201-aa45-798c8e14398f"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "bb38d630-1e79-4c98-99c5-c40ef2c97ae8"
+        "Id": "f0bc9023-bd3f-4028-970b-77d792bff0ad"
       }
     ],
     "UsedTypes": [
@@ -2549,7 +2549,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASReleasedProductsSearch",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "7c00161c-014f-4689-a6f8-6dd783868601",
+        "StrategyListSource": "638491d2-5964-4c19-995e-58d0ef6b69aa",
         "HasImage": "False",
         "RawId": "02f38979-c126-4a70-b26b-2bedd490f622",
         "SelectedStrategyId": "ed771691-dd62-4df2-ac06-90f29d4d743c",
@@ -2565,7 +2565,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASReleasedProductsSearch",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "05f09b78-d0b4-41b4-84b9-d2de005b9cb1",
+        "StrategyListSource": "e9df59e2-9068-419e-a8ea-6994af5d94d6",
         "HasImage": "False",
         "RawId": "74c090e3-80a3-4c45-a0c6-4d2a3ddf1f02",
         "SelectedStrategyId": "e6935e65-a0ea-4553-85fd-26bc980d5c5e",

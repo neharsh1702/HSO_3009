@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:41 AM +00:00",
-      "DateModify": "9/30/2026 8:10:41 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:13 AM +00:00",
+      "DateModify": "9/30/2026 11:50:13 AM +00:00",
       "Title": "Change legal entity",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2406,7 +2406,7 @@
         "Id": "2111fe50-6550-4a91-8f7f-33ac006e7437"
       },
       {
-        "MetadataId": "59268c34-5147-42a8-a31e-4492e6b3e145",
+        "MetadataId": "73e23fc2-d39e-4068-affc-0c2155661f0f",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Common Utilities",
         "Description": "",
@@ -2432,7 +2432,7 @@
         "Id": "7b028d6d-8b47-4605-a19c-f4ac56d90284"
       },
       {
-        "MetadataId": "2c25e534-9abb-4ac3-91b9-16020f84251a",
+        "MetadataId": "13463ae1-f56f-456d-94f1-4fdced4db5db",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -2445,7 +2445,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "9312af01-c09a-47ab-90df-0d2a4882f584",
+        "MetadataId": "5a7126ba-209d-472f-a701-c40cef390fd5",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -2484,7 +2484,7 @@
         "Id": "f0642590-392c-4de4-91dc-e86f1bef9228"
       },
       {
-        "MetadataId": "44db2e6c-4245-4ec9-a024-56b0ad81aec9",
+        "MetadataId": "0bb0acb4-47aa-4b13-bcc5-27ccdfff5e49",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -2554,25 +2554,25 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "Change legal entity",
+        "Title": "D365 FO Framework",
         "Description": "",
-        "Type": "SubFlow",
+        "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "1b39a6af-f2eb-44d6-a308-34f95d22498c"
+        "Id": "0bb0acb4-47aa-4b13-bcc5-27ccdfff5e49"
       },
       {
         "Title": "Reusable Subflows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "2c25e534-9abb-4ac3-91b9-16020f84251a"
+        "Id": "13463ae1-f56f-456d-94f1-4fdced4db5db"
       },
       {
-        "Title": "D365 FO Framework",
+        "Title": "Change legal entity",
         "Description": "",
-        "Type": "Folder",
+        "Type": "SubFlow",
         "LinkedWith": "None",
-        "Id": "44db2e6c-4245-4ec9-a024-56b0ad81aec9"
+        "Id": "1b39a6af-f2eb-44d6-a308-34f95d22498c"
       },
       {
         "Title": "workspace-image Home-symbol <span>",
@@ -2582,11 +2582,11 @@
         "Id": "4e74a70e-584c-4de0-a66e-1733fafe5fe2"
       },
       {
-        "Title": "Common Utilities",
+        "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "59268c34-5147-42a8-a31e-4492e6b3e145"
+        "Id": "5a7126ba-209d-472f-a701-c40cef390fd5"
       },
       {
         "Title": "970A <button>",
@@ -2603,11 +2603,11 @@
         "Id": "738e021c-205e-41af-9958-79fe1f285274"
       },
       {
-        "Title": "D365 Framework",
+        "Title": "Common Utilities",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "9312af01-c09a-47ab-90df-0d2a4882f584"
+        "Id": "73e23fc2-d39e-4068-affc-0c2155661f0f"
       },
       {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
@@ -2882,7 +2882,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=defaultdashboard",
         "Fields": "",
-        "StrategyListSource": "d38b26b3-2534-44c4-b571-84de2ba4fb28",
+        "StrategyListSource": "4714fb0f-07e0-420b-a76b-e4540b5873fb",
         "HasImage": "False",
         "RawId": "8430b54f-ca43-4edf-ba23-b303fb5aaead",
         "SelectedStrategyId": "ee91e242-a7ce-40a5-86c9-2943518939ff",
@@ -2898,7 +2898,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=970A&mi=LedgerTransSettlement",
         "Fields": "",
-        "StrategyListSource": "28407f29-c7f3-4ca9-bee5-1a54f6c8f7f8",
+        "StrategyListSource": "c28788ba-b3a3-4607-b4b2-eed0377f9cee",
         "HasImage": "False",
         "RawId": "7e1c07d2-6b5b-4026-b449-4451faf76d86",
         "SelectedStrategyId": "c69c1d8e-4d81-43e6-ae83-4f5b2a0400bc",
@@ -2914,7 +2914,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=defaultdashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "aa88a7ed-7e0f-4137-b7db-2bc641196b61",
+        "StrategyListSource": "bd63baa2-2cad-4309-aa7b-c18de31afc5e",
         "HasImage": "False",
         "RawId": "ac8c1575-ee75-4358-b80b-a5df3bdf0591",
         "SelectedStrategyId": "34edcb52-a1b4-4bce-86a0-c7b138b71052",
@@ -2930,7 +2930,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "45e58280-7091-4e61-a84b-bd0524c5ee95",
+        "StrategyListSource": "63dc293b-c24f-4d2e-beee-e289af707e1b",
         "HasImage": "False",
         "RawId": "86d2c941-e05e-48a7-a183-c4cd8d2878c0",
         "SelectedStrategyId": "9a7b74eb-4092-4977-a110-c148af683402",
@@ -2946,7 +2946,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "5363554a-0e81-4ae0-ade0-09e6cd8dc2ce",
+        "StrategyListSource": "b6b62772-b89e-4b92-a870-fb9eba6f406f",
         "HasImage": "False",
         "RawId": "b3286ba6-f12c-4362-8a44-8c76f5ae41e7",
         "SelectedStrategyId": "01273658-c8f6-4083-89fe-fb9e79080409",
