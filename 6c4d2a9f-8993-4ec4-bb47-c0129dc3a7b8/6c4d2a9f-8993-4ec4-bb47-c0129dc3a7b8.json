@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:09 AM +00:00",
-      "DateModify": "9/30/2026 8:10:09 AM +00:00",
+      "DateCreation": "9/30/2026 11:49:41 AM +00:00",
+      "DateModify": "9/30/2026 11:49:41 AM +00:00",
       "Title": "URL",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -791,7 +791,7 @@
         "Id": "43db2fc2-fa8b-4ff0-b671-c18be01573ee"
       },
       {
-        "MetadataId": "bed392ab-3326-4e11-a2d4-9738f966637e",
+        "MetadataId": "b8b6b34f-292d-4706-8037-c4348f8d4d4f",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -817,7 +817,7 @@
         "Id": "a3f988ac-ad11-400b-8c6e-34b382e4d4f0"
       },
       {
-        "MetadataId": "adc3601c-46a7-4ddf-8dbd-6be36aab7f8c",
+        "MetadataId": "c78580d0-5796-45c4-8cc3-fd4c486869fb",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -830,7 +830,7 @@
         "Id": "a4043b70-aace-4791-8abf-8e91bdcaa8b8"
       },
       {
-        "MetadataId": "af6e3a24-e977-49ce-943f-54e719839d48",
+        "MetadataId": "ba1e2249-d719-4eed-bbdf-47a51d4b4827",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Reusable Flows",
         "Description": "",
@@ -881,25 +881,25 @@
         "Id": "19d28fb7-128e-4f4c-b086-ee24ca1ec87b"
       },
       {
-        "Title": "Standard Test Cases",
+        "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "adc3601c-46a7-4ddf-8dbd-6be36aab7f8c"
+        "Id": "b8b6b34f-292d-4706-8037-c4348f8d4d4f"
       },
       {
         "Title": "Reusable Flows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "af6e3a24-e977-49ce-943f-54e719839d48"
+        "Id": "ba1e2249-d719-4eed-bbdf-47a51d4b4827"
       },
       {
-        "Title": "D365 Framework",
+        "Title": "Standard Test Cases",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "bed392ab-3326-4e11-a2d4-9738f966637e"
+        "Id": "c78580d0-5796-45c4-8cc3-fd4c486869fb"
       }
     ],
     "UsedTypes": [
@@ -1152,7 +1152,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=LedgerJournalTable5",
         "Fields": "",
-        "StrategyListSource": "f8da20f4-86d9-469e-a03d-b53ad9c9ae34",
+        "StrategyListSource": "9045b7be-32d4-43f3-8724-ad85ca260053",
         "HasImage": "False",
         "RawId": "45fbebf3-ddd5-49b7-8ccf-7cf755ddf1f2",
         "SelectedStrategyId": "c36d2bb3-0467-49dd-b8e9-0b66c40d266b",
