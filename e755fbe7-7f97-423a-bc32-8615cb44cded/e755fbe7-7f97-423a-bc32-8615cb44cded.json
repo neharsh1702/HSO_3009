@@ -1285,8 +1285,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:09:03 AM +00:00",
-      "DateModify": "9/30/2026 8:09:03 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:54 AM +00:00",
+      "DateModify": "9/30/2026 11:48:54 AM +00:00",
       "Title": "On Page Tabs",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2592,7 +2592,7 @@
         "Id": "0b9c2cd5-75e3-4fad-a5e3-5589fcb4320d"
       },
       {
-        "MetadataId": "e6aa0394-d08e-4675-9991-7a09d41a8791",
+        "MetadataId": "d32e940e-ec40-4db6-82a7-ad685ddf658a",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -2605,7 +2605,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "a9ff4b70-5e76-465e-b183-c23184c81124",
+        "MetadataId": "4cfceaca-5e0b-4e03-a6f8-a41754801ece",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -2618,7 +2618,7 @@
         "Id": "10673412-0548-491d-8884-016d4731fa2a"
       },
       {
-        "MetadataId": "cc8c35f0-022c-4521-b431-2a13a4bde8e3",
+        "MetadataId": "a26213c3-d0c3-4ce2-82d0-7dceb0e17b81",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Test Flows",
         "Description": "",
@@ -2644,7 +2644,7 @@
         "Id": "6dea7ead-aafa-4a36-8bab-facd7867cbf8"
       },
       {
-        "MetadataId": "f6aa4736-2688-4df5-8615-72d7b74f3278",
+        "MetadataId": "b6bdafab-9de3-40a4-b49c-3459a7129b98",
         "ParentId": "58fe6274-7ca8-4b8e-be76-761949899942",
         "Title": "Order to Cash",
         "Description": "",
@@ -2657,7 +2657,7 @@
         "Id": "70707c1a-be70-4eda-87c0-735506226e47"
       },
       {
-        "MetadataId": "9d3bdf56-9806-460e-8c32-1148f6e2c360",
+        "MetadataId": "be69cc10-095f-4092-9e9b-9cc78c9511aa",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -2670,7 +2670,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "34824bab-7682-489d-b031-f5dd5f4ea31d",
+        "MetadataId": "cf56e930-8d56-49ba-a4d8-2fd71230386c",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -2683,7 +2683,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "d88cb600-e373-405f-be80-969ce8bb0d96",
+        "MetadataId": "2393c5c4-e552-4c06-9c93-7c8146a3bf4c",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -2722,7 +2722,7 @@
         "Id": "c9c9cae3-0f90-4cbc-b1b5-c5d7e03ec1b1"
       },
       {
-        "MetadataId": "dd97a045-4e0b-4834-8d2f-bf62273277d7",
+        "MetadataId": "2d61d26f-da2e-4999-9e10-10236387d771",
         "ParentId": "70707c1a-be70-4eda-87c0-735506226e47",
         "Title": "O2C-Main test cases",
         "Description": "",
@@ -2735,7 +2735,7 @@
         "Id": "dc37df51-ed0a-479b-9a8f-df00cb807fba"
       },
       {
-        "MetadataId": "ed41ea8c-01f8-46d1-94bd-08f41af79fe3",
+        "MetadataId": "919ef450-9f9b-41b3-8da1-c0b686abc277",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -2748,7 +2748,7 @@
         "Id": "f0b59641-21bb-4206-b054-a9a6443573c7"
       },
       {
-        "MetadataId": "4e3a6b21-42c3-4150-8375-fc22aacbf0b7",
+        "MetadataId": "13c6bac7-26d4-48a4-8e09-619342d6e419",
         "ParentId": "dc37df51-ed0a-479b-9a8f-df00cb807fba",
         "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
         "Description": "",
@@ -2828,11 +2828,25 @@
         "Id": "0d486928-a72f-4372-b971-6938c9a9d074"
       },
       {
-        "Title": "D365 Framework",
+        "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "34824bab-7682-489d-b031-f5dd5f4ea31d"
+        "Id": "13c6bac7-26d4-48a4-8e09-619342d6e419"
+      },
+      {
+        "Title": "Standard Test Cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2393c5c4-e552-4c06-9c93-7c8146a3bf4c"
+      },
+      {
+        "Title": "O2C-Main test cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2d61d26f-da2e-4999-9e10-10236387d771"
       },
       {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
@@ -2842,11 +2856,11 @@
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
       },
       {
-        "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
+        "Title": "Application Processing",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "4e3a6b21-42c3-4150-8375-fc22aacbf0b7"
+        "Id": "4cfceaca-5e0b-4e03-a6f8-a41754801ece"
       },
       {
         "Title": "Wait Until Req Processing Msg Disappear",
@@ -2856,6 +2870,13 @@
         "Id": "6be2d6e1-1424-4d83-accc-7737a10f8eab"
       },
       {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "919ef450-9f9b-41b3-8da1-c0b686abc277"
+      },
+      {
         "Title": "On Page Tabs",
         "Description": "",
         "Type": "SubFlow",
@@ -2863,60 +2884,39 @@
         "Id": "9b878475-1875-4c82-a8fc-ea0a897c1947"
       },
       {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "9d3bdf56-9806-460e-8c32-1148f6e2c360"
-      },
-      {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "a9ff4b70-5e76-465e-b183-c23184c81124"
-      },
-      {
         "Title": "Test Flows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "cc8c35f0-022c-4521-b431-2a13a4bde8e3"
-      },
-      {
-        "Title": "Standard Test Cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "d88cb600-e373-405f-be80-969ce8bb0d96"
-      },
-      {
-        "Title": "O2C-Main test cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "dd97a045-4e0b-4834-8d2f-bf62273277d7"
-      },
-      {
-        "Title": "Action Utilites",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e6aa0394-d08e-4675-9991-7a09d41a8791"
-      },
-      {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "ed41ea8c-01f8-46d1-94bd-08f41af79fe3"
+        "Id": "a26213c3-d0c3-4ce2-82d0-7dceb0e17b81"
       },
       {
         "Title": "Order to Cash",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "f6aa4736-2688-4df5-8615-72d7b74f3278"
+        "Id": "b6bdafab-9de3-40a4-b49c-3459a7129b98"
+      },
+      {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "be69cc10-095f-4092-9e9b-9cc78c9511aa"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "cf56e930-8d56-49ba-a4d8-2fd71230386c"
+      },
+      {
+        "Title": "Action Utilites",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d32e940e-ec40-4db6-82a7-ad685ddf658a"
       }
     ],
     "UsedTypes": [
@@ -3177,7 +3177,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=SalesTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "96a1cbdb-d6f0-4643-adc5-2da8aef0c95c",
+        "StrategyListSource": "f38a9b1f-e5b9-4c3b-aef6-27f2fbea9ee6",
         "HasImage": "False",
         "RawId": "4f13816b-6a55-4b22-8dd7-4f6a65abd252",
         "SelectedStrategyId": "18e72f1a-4f09-4ab7-b535-e299ece37ab8",
@@ -3193,7 +3193,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "8eab53f5-76a1-46d7-864f-83c147f03f81",
+        "StrategyListSource": "701288ab-e453-4597-bffa-16c2d68e27f8",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
