@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:39 AM +00:00",
-      "DateModify": "9/30/2026 8:04:39 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:59 AM +00:00",
+      "DateModify": "9/30/2026 11:47:59 AM +00:00",
       "Title": "Move To Previous Form",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -963,7 +963,7 @@
         "Id": "2776ea7b-ec7b-4d37-b1ab-db2743860ea2"
       },
       {
-        "MetadataId": "4fed19bc-eb5a-4724-acd5-3450576f5a9e",
+        "MetadataId": "22b07517-5467-4e25-b4cc-cdb9847168cb",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -976,7 +976,7 @@
         "Id": "42f1a24b-4ce5-4fad-9bac-06250e601b4f"
       },
       {
-        "MetadataId": "d42c58ed-899d-4e3e-a96c-4c694a624c4f",
+        "MetadataId": "df703179-4053-4c24-99e6-e232dc9b2ab6",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -1002,7 +1002,7 @@
         "Id": "d0407eaa-e39e-40bf-8e2d-d13a2d87ea77"
       },
       {
-        "MetadataId": "63e8a74e-9157-445e-9c0e-e5af55fed1a0",
+        "MetadataId": "78370024-5686-407c-8412-3cb40cbaab84",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -1039,6 +1039,13 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "New functionalities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "22b07517-5467-4e25-b4cc-cdb9847168cb"
+      },
+      {
         "Title": "Move To Previous Form",
         "Description": "",
         "Type": "SubFlow",
@@ -1046,18 +1053,11 @@
         "Id": "4e679b53-06bf-4e40-9314-3c6728417dbc"
       },
       {
-        "Title": "New functionalities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "4fed19bc-eb5a-4724-acd5-3450576f5a9e"
-      },
-      {
         "Title": "D365 FO Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "63e8a74e-9157-445e-9c0e-e5af55fed1a0"
+        "Id": "78370024-5686-407c-8412-3cb40cbaab84"
       },
       {
         "Title": "button-commandRing Back-symbol <span>",
@@ -1071,7 +1071,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "d42c58ed-899d-4e3e-a96c-4c694a624c4f"
+        "Id": "df703179-4053-4c24-99e6-e232dc9b2ab6"
       }
     ],
     "UsedTypes": [
@@ -1324,7 +1324,7 @@
       {
         "Uri": "https://tt-uat1.sandbox.operations.dynamics.com/?cmp=USTI&mi=SysUserInfoPage",
         "Fields": "",
-        "StrategyListSource": "c021b879-6d1d-4e9f-821d-9848eed140e6",
+        "StrategyListSource": "1dd9fee1-edc8-485e-a54a-47038f58c12c",
         "HasImage": "False",
         "RawId": "691d395e-5dd1-4611-b76d-c40cb38d6c9b",
         "SelectedStrategyId": "ca7fae69-d6ec-4579-802f-f4839c9925f1",

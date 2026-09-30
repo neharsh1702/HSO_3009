@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:34 AM +00:00",
-      "DateModify": "9/30/2026 8:04:34 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:22 AM +00:00",
+      "DateModify": "9/30/2026 11:48:22 AM +00:00",
       "Title": "Click to Add attributes in selected from available",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -680,7 +680,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "e5db761b-5422-4b1c-bab2-2322eefa1e23",
+        "MetadataId": "fe3a5512-3ca0-45a4-86aa-7bab6d1ae5bb",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -693,7 +693,7 @@
         "Id": "42f1a24b-4ce5-4fad-9bac-06250e601b4f"
       },
       {
-        "MetadataId": "5673b7cb-26b5-4178-9d98-bef7e856367d",
+        "MetadataId": "e0ab2bd7-21d8-463b-b7b0-c6dcf6aee085",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -732,7 +732,7 @@
         "Id": "a0c4e9f3-b48a-4411-8274-7d943f8390d8"
       },
       {
-        "MetadataId": "3304d3c3-627a-4d02-9f12-30ebfab0830f",
+        "MetadataId": "7267f4f1-b009-4b8b-8881-d5daaecc2ccf",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -769,25 +769,18 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3304d3c3-627a-4d02-9f12-30ebfab0830f"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5673b7cb-26b5-4178-9d98-bef7e856367d"
-      },
-      {
         "Title": "button-container <div>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "635a2b37-c253-45e7-8f7f-53fe57c1682b"
+      },
+      {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "7267f4f1-b009-4b8b-8881-d5daaecc2ccf"
       },
       {
         "Title": "Click to Add attributes in selected from available",
@@ -797,11 +790,18 @@
         "Id": "c6006b09-35dc-4942-90c0-2c5731cee644"
       },
       {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e0ab2bd7-21d8-463b-b7b0-c6dcf6aee085"
+      },
+      {
         "Title": "New functionalities",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "e5db761b-5422-4b1c-bab2-2322eefa1e23"
+        "Id": "fe3a5512-3ca0-45a4-86aa-7bab6d1ae5bb"
       }
     ],
     "UsedTypes": [
@@ -1054,7 +1054,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSASBRetailCategory",
         "Fields": "",
-        "StrategyListSource": "e371bb70-f4c1-4867-9f32-c7bf36a4c165",
+        "StrategyListSource": "20418ed4-20b8-4584-ab7e-9f63b8cf96cb",
         "HasImage": "False",
         "RawId": "43536200-0ac3-4d95-888a-41cdaa1b6291",
         "SelectedStrategyId": "fba6f5c8-eb15-4e73-8c8c-27fec59604df",

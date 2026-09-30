@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:34 AM +00:00",
-      "DateModify": "9/30/2026 8:04:34 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:19 AM +00:00",
+      "DateModify": "9/30/2026 11:48:19 AM +00:00",
       "Title": "Click Information icon button",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1325,7 +1325,7 @@
         "Id": "409a2c30-39a7-4580-b4ee-193ebe9ed267"
       },
       {
-        "MetadataId": "c202e0d4-9d25-4559-903a-2e9799efd170",
+        "MetadataId": "c23c867a-8eb2-4172-b028-4479e54b4c0c",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -1351,7 +1351,7 @@
         "Id": "58b03afd-a907-44fd-9df0-bc98f04cb088"
       },
       {
-        "MetadataId": "b63f6520-5c37-43bc-b367-211077ffe67d",
+        "MetadataId": "e4d041a2-6a03-47c1-b262-83e3ff338df7",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -1364,7 +1364,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "9ebe3e1c-52e5-430d-90c4-36ba693b5548",
+        "MetadataId": "6c7c31f5-57b3-4d5e-993e-ed1df6ec7372",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -1412,7 +1412,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "9ebe3e1c-52e5-430d-90c4-36ba693b5548"
+        "Id": "6c7c31f5-57b3-4d5e-993e-ed1df6ec7372"
       },
       {
         "Title": "Click Information icon button",
@@ -1422,18 +1422,18 @@
         "Id": "aecef2ce-db76-451f-ac73-1aa195aa4319"
       },
       {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b63f6520-5c37-43bc-b367-211077ffe67d"
-      },
-      {
         "Title": "New functionalities",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "c202e0d4-9d25-4559-903a-2e9799efd170"
+        "Id": "c23c867a-8eb2-4172-b028-4479e54b4c0c"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e4d041a2-6a03-47c1-b262-83e3ff338df7"
       }
     ],
     "UsedTypes": [
@@ -1694,7 +1694,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=CaseListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c4ef120d-62df-4d2b-b0ea-4648b0cca6c0",
+        "StrategyListSource": "f0609cf5-c5e1-4244-918b-7cd269e2e865",
         "HasImage": "False",
         "RawId": "700af43c-f72d-48a9-b5a5-7dbd6136cd0b",
         "SelectedStrategyId": "44e1d6b4-c0e6-41c9-96aa-721e1d44221d",
