@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:05:19 AM +00:00",
-      "DateModify": "9/30/2026 8:05:19 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:45 AM +00:00",
+      "DateModify": "9/30/2026 11:47:45 AM +00:00",
       "Title": "Get Text By Controlname",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -981,7 +981,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "3ba9495b-58b3-4c4f-b621-e0da409b046c",
+        "MetadataId": "b7e08220-b7b7-43a7-93c3-d3d7d6ee1887",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Enable the parameter \"Enable order cost calculation\"(Order Cost)",
         "Description": "",
@@ -994,7 +994,7 @@
         "Id": "6ed1d520-a3ac-4c33-ad14-87f6bd3b2614"
       },
       {
-        "MetadataId": "9ee49853-aca8-495b-9631-34f74726c5e8",
+        "MetadataId": "b6861fe4-15ab-48db-b603-f898d4751b45",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -1007,7 +1007,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "5e51adba-2b18-4b9d-8fa4-c01ad25d202f",
+        "MetadataId": "ffb107e9-2ba3-401e-babd-72aee74a53f4",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -1046,7 +1046,7 @@
         "Id": "c70de79a-599c-4aa5-8e7d-965b66848468"
       },
       {
-        "MetadataId": "0bd64a90-140e-407c-989e-6656e347de17",
+        "MetadataId": "19bb19d6-d934-43b1-a09f-b98b7f4e2d53",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -1091,28 +1091,21 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "0bd64a90-140e-407c-989e-6656e347de17"
-      },
-      {
-        "Title": "Enable the parameter \"Enable order cost calculation\"(Order Cost)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3ba9495b-58b3-4c4f-b621-e0da409b046c"
-      },
-      {
-        "Title": "Order costs",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5e51adba-2b18-4b9d-8fa4-c01ad25d202f"
+        "Id": "19bb19d6-d934-43b1-a09f-b98b7f4e2d53"
       },
       {
         "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "9ee49853-aca8-495b-9631-34f74726c5e8"
+        "Id": "b6861fe4-15ab-48db-b603-f898d4751b45"
+      },
+      {
+        "Title": "Enable the parameter \"Enable order cost calculation\"(Order Cost)",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "b7e08220-b7b7-43a7-93c3-d3d7d6ee1887"
       },
       {
         "Title": "text <input>",
@@ -1127,6 +1120,13 @@
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "ff42fcff-6800-4595-8157-b310eefc2e7a"
+      },
+      {
+        "Title": "Order costs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "ffb107e9-2ba3-401e-babd-72aee74a53f4"
       }
     ],
     "UsedTypes": [
@@ -1379,7 +1379,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "6fbf261b-f850-4738-9b08-70ead9925274",
+        "StrategyListSource": "36545a90-7752-4d9b-bb7a-5b0ffa064a58",
         "HasImage": "False",
         "RawId": "1bc9f5ce-7d87-41bf-8050-709f145166dd",
         "SelectedStrategyId": "da719786-3ddb-4188-beec-2c4f5f92bf2e",

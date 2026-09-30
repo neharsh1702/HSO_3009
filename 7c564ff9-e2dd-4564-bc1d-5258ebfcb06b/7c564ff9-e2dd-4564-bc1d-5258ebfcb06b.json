@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:05:20 AM +00:00",
-      "DateModify": "9/30/2026 8:05:20 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:42 AM +00:00",
+      "DateModify": "9/30/2026 11:47:42 AM +00:00",
       "Title": "Verify Dialog Header",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -888,7 +888,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "fc97441d-0053-4e39-b6ba-64266b2120e4",
+        "MetadataId": "af514e63-c7c2-4906-a348-2b7cb4913553",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
@@ -914,7 +914,7 @@
         "Id": "6b3c1e53-08c1-4e3e-8874-93f73c5ada89"
       },
       {
-        "MetadataId": "625de06f-a508-4977-94dc-d178d722d24d",
+        "MetadataId": "f4f265af-84b3-4e02-b08e-b3bfc323d4c5",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -927,7 +927,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "a4c68caa-f232-49d6-8676-1f41bff2b287",
+        "MetadataId": "1ac764b6-4e5c-4f60-a9ad-3a71b195a3ef",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -940,7 +940,7 @@
         "Id": "90d54c32-87e2-4cce-835c-9b0e9066b821"
       },
       {
-        "MetadataId": "fdc53add-9f6f-4f28-a39d-8075124f361d",
+        "MetadataId": "4ef3f39a-e3cb-4e98-b1dd-1a74a3c9c79f",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -994,18 +994,25 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "Order costs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "1ac764b6-4e5c-4f60-a9ad-3a71b195a3ef"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4ef3f39a-e3cb-4e98-b1dd-1a74a3c9c79f"
+      },
+      {
         "Title": "New product <div>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "58de8851-feaf-4c67-8c9f-5f7fdde8cf6a"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "625de06f-a508-4977-94dc-d178d722d24d"
       },
       {
         "Title": "Verify Dialog Header",
@@ -1015,25 +1022,18 @@
         "Id": "9b862449-887e-4d41-8d91-ea3b37d629ff"
       },
       {
-        "Title": "Order costs",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "a4c68caa-f232-49d6-8676-1f41bff2b287"
-      },
-      {
         "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "fc97441d-0053-4e39-b6ba-64266b2120e4"
+        "Id": "af514e63-c7c2-4906-a348-2b7cb4913553"
       },
       {
-        "Title": "ST ASCM",
+        "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "fdc53add-9f6f-4f28-a39d-8075124f361d"
+        "Id": "f4f265af-84b3-4e02-b08e-b3bfc323d4c5"
       }
     ],
     "UsedTypes": [
@@ -1286,7 +1286,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "d6d3ac6e-1e30-4f3a-bfe5-e63ca35d1135",
+        "StrategyListSource": "ae6429dd-1402-4252-80a2-ce47d90a222e",
         "HasImage": "False",
         "RawId": "1c4723c9-af38-47e7-aa7f-e81c91f24fd5",
         "SelectedStrategyId": "d233e8ca-16be-44ba-8df8-5b084554fcfe",
