@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:37 AM +00:00",
-      "DateModify": "9/30/2026 8:10:37 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:01 AM +00:00",
+      "DateModify": "9/30/2026 11:50:01 AM +00:00",
       "Title": "Handle checkbox",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -387,7 +387,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "5075dd0c-7b0a-4324-9276-d320758fc19e",
+        "MetadataId": "f7ac5202-a31c-421e-84ff-e213362a53cd",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Contact for delivery",
         "Description": "",
@@ -413,7 +413,7 @@
         "Id": "6b65c9ee-ffbc-43cc-b6cb-d978a88d6e1e"
       },
       {
-        "MetadataId": "e17491a1-da83-4c23-92a0-e623b4ddc26b",
+        "MetadataId": "1904b526-d618-4e71-bfb5-66f9b6f1640d",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -439,7 +439,7 @@
         "Id": "b14a104c-0bff-4018-8cda-9f6cd8f8a8f3"
       },
       {
-        "MetadataId": "b708c1ba-7f48-4e82-9ea8-ccc5423c4b86",
+        "MetadataId": "268e4418-d75a-4093-a7eb-224ad5bd0701",
         "ParentId": "38b3f8a3-119c-434a-aa0f-effb472c4eda",
         "Title": "Create sales order for customer A, go to the Contact for delivery field and open the dropdown menu. Uncheck the filter \"Contact for delivey\" and select a regular contact as contact for delivery.",
         "Description": "",
@@ -452,7 +452,7 @@
         "Id": "b4dd9100-5580-4089-9dd9-84678e73f84e"
       },
       {
-        "MetadataId": "33589289-8302-4edb-8520-c42016c18e46",
+        "MetadataId": "4b54509e-4800-4b67-9749-e46b7879b2af",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -493,6 +493,13 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "1904b526-d618-4e71-bfb5-66f9b6f1640d"
+      },
+      {
         "Title": "Handle checkbox",
         "Description": "",
         "Type": "SubFlow",
@@ -500,25 +507,18 @@
         "Id": "1d15bf04-b641-474f-afa7-5877f07c4c1d"
       },
       {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "33589289-8302-4edb-8520-c42016c18e46"
-      },
-      {
-        "Title": "Contact for delivery",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5075dd0c-7b0a-4324-9276-d320758fc19e"
-      },
-      {
         "Title": "Create sales order for customer A, go to the Contact for delivery field and open the dropdown menu. Uncheck the filter \"Contact for delivey\" and select a regular contact as contact for delivery.",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "b708c1ba-7f48-4e82-9ea8-ccc5423c4b86"
+        "Id": "268e4418-d75a-4093-a7eb-224ad5bd0701"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4b54509e-4800-4b67-9749-e46b7879b2af"
       },
       {
         "Title": "checkBox <span>",
@@ -528,11 +528,11 @@
         "Id": "d1f5d021-8f2b-4bd2-af16-352a01ca2a0b"
       },
       {
-        "Title": "Advanced Order Management",
+        "Title": "Contact for delivery",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "e17491a1-da83-4c23-92a0-e623b4ddc26b"
+        "Id": "f7ac5202-a31c-421e-84ff-e213362a53cd"
       }
     ],
     "UsedTypes": [
@@ -785,7 +785,7 @@
       {
         "Uri": "https://leapwork02.operations.eu.dynamics.com/?cmp=USRT&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "920d4f17-b78f-4e7f-b913-c54bbfb0a387",
+        "StrategyListSource": "ba4042db-60f4-4fc4-8366-7167427dd5b1",
         "HasImage": "False",
         "RawId": "cc319544-f6e5-4eff-9233-33ec0dfbc147",
         "SelectedStrategyId": "dcfbb9e7-cb04-4627-96cc-f3e04611c6a0",
