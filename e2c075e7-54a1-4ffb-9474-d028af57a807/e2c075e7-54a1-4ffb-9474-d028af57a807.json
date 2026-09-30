@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/30/2026 7:53:04 AM +00:00",
-      "DateModify": "9/30/2026 7:53:04 AM +00:00",
+      "DateCreation": "9/30/2026 11:38:02 AM +00:00",
+      "DateModify": "9/30/2026 11:38:02 AM +00:00",
       "Title": "NYR_Create the charge code for Fee charges",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -5006,7 +5006,7 @@
         "Id": "0dc074dc-5566-4901-85ac-641b5a9d7318"
       },
       {
-        "MetadataId": "4a3f6706-d066-468a-99e2-84fc87a6f28d",
+        "MetadataId": "9957bfbd-7c3b-4b33-98b6-bfbc713fb148",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -5019,7 +5019,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "3bd1e940-9d89-4f44-bd12-a3e67d7f9b95",
+        "MetadataId": "5af648f3-fab5-4e43-9dca-cbc4fdc7da8f",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -5032,7 +5032,7 @@
         "Id": "10673412-0548-491d-8884-016d4731fa2a"
       },
       {
-        "MetadataId": "1485c49d-d78d-4f55-bd37-eb8822ca95a5",
+        "MetadataId": "1de08a0b-2e95-4690-b07d-3331475b5241",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Navigation",
         "Description": "",
@@ -5097,7 +5097,7 @@
         "Id": "6fe02812-ae04-4dca-aa3e-00055a08e130"
       },
       {
-        "MetadataId": "94de7eba-3b39-402d-93d1-5ce9f1723ef3",
+        "MetadataId": "702fae31-7cef-484b-b5e6-5212c90cfbe4",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -5110,7 +5110,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "4b18b846-fd55-4290-bfb9-2cdb15e7ed49",
+        "MetadataId": "38bbbe48-9d4b-4c09-adba-10f528718c5a",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -5149,7 +5149,7 @@
         "Id": "a3f988ac-ad11-400b-8c6e-34b382e4d4f0"
       },
       {
-        "MetadataId": "1fbbcbcb-a985-485b-9f24-1686648bc7fc",
+        "MetadataId": "a4b5049a-771b-454b-aee8-8c06a637ab78",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -5175,7 +5175,7 @@
         "Id": "ae3c21b5-c351-4630-a6a6-e1734116cf6e"
       },
       {
-        "MetadataId": "5064d9f3-8c23-49e3-a49f-1285dee981f8",
+        "MetadataId": "8202955d-d990-45c1-93cc-d4997ce0281b",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -5188,7 +5188,7 @@
         "Id": "f0b59641-21bb-4206-b054-a9a6443573c7"
       },
       {
-        "MetadataId": "fdc73fd9-4587-4cbe-8f05-d533f9758d54",
+        "MetadataId": "93865557-8741-405d-b0c6-2d1b97e161d7",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Reusable Flows",
         "Description": "",
@@ -5308,13 +5308,6 @@
         "Id": "02fca8c1-01b0-41d6-9a89-dd4d7983a001"
       },
       {
-        "Title": "Navigation",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "1485c49d-d78d-4f55-bd37-eb8822ca95a5"
-      },
-      {
         "Title": "Finance and Operations <span>",
         "Description": "",
         "Type": "WebElement",
@@ -5322,11 +5315,18 @@
         "Id": "19d28fb7-128e-4f4c-b086-ee24ca1ec87b"
       },
       {
-        "Title": "Standard Test Cases",
+        "Title": "Navigation",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "1fbbcbcb-a985-485b-9f24-1686648bc7fc"
+        "Id": "1de08a0b-2e95-4690-b07d-3331475b5241"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "38bbbe48-9d4b-4c09-adba-10f528718c5a"
       },
       {
         "Title": "NYR_Create the charge code for Fee charges",
@@ -5336,13 +5336,6 @@
         "Id": "3af72a8f-f047-4ff6-9475-fdff58bed0fa"
       },
       {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3bd1e940-9d89-4f44-bd12-a3e67d7f9b95"
-      },
-      {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
         "Description": "",
         "Type": "WebElement",
@@ -5350,25 +5343,11 @@
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
       },
       {
-        "Title": "Action Utilites",
+        "Title": "Application Processing",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "4a3f6706-d066-468a-99e2-84fc87a6f28d"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "4b18b846-fd55-4290-bfb9-2cdb15e7ed49"
-      },
-      {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5064d9f3-8c23-49e3-a49f-1285dee981f8"
+        "Id": "5af648f3-fab5-4e43-9dca-cbc4fdc7da8f"
       },
       {
         "Title": "Wait Until Req Processing Msg Disappear",
@@ -5376,6 +5355,13 @@
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "6be2d6e1-1424-4d83-accc-7737a10f8eab"
+      },
+      {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "702fae31-7cef-484b-b5e6-5212c90cfbe4"
       },
       {
         "Title": "workspace-image GroupedList-symbol <span>",
@@ -5392,11 +5378,18 @@
         "Id": "7f3a8938-9602-4d02-89d6-c1cfe7ea8992"
       },
       {
-        "Title": "Reusable Subflows",
+        "Title": "D365 FO Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "94de7eba-3b39-402d-93d1-5ce9f1723ef3"
+        "Id": "8202955d-d990-45c1-93cc-d4997ce0281b"
+      },
+      {
+        "Title": "Reusable Flows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "93865557-8741-405d-b0c6-2d1b97e161d7"
       },
       {
         "Title": "Setup <a>",
@@ -5404,6 +5397,20 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "98d02e5a-1140-491e-b640-8e6b12ace40d"
+      },
+      {
+        "Title": "Action Utilites",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "9957bfbd-7c3b-4b33-98b6-bfbc713fb148"
+      },
+      {
+        "Title": "Standard Test Cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "a4b5049a-771b-454b-aee8-8c06a637ab78"
       },
       {
         "Title": "Customer groups <a>",
@@ -5418,13 +5425,6 @@
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "f9a2bb18-d5ea-443b-9351-55fddd30873c"
-      },
-      {
-        "Title": "Reusable Flows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "fdc73fd9-4587-4cbe-8f05-d533f9758d54"
       }
     ],
     "UsedTypes": [
@@ -5697,7 +5697,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "852b42f8-b5b7-4c4c-8131-f18e4df122dc",
+        "StrategyListSource": "7e10d8c9-c6ad-4c38-bc51-aa3021a81f67",
         "HasImage": "False",
         "RawId": "3252c3dd-88a0-4b2b-89a3-be7b3428377e",
         "SelectedStrategyId": "2e3dcbc8-66dc-49f0-8bab-85cd69d6b177",
@@ -5713,7 +5713,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=LedgerJournalTable5",
         "Fields": "",
-        "StrategyListSource": "e3f282e5-364f-4fe8-8dd6-9ce00bcdff55",
+        "StrategyListSource": "5fd11855-93db-4e80-b3f7-d2e4bc84397b",
         "HasImage": "False",
         "RawId": "45fbebf3-ddd5-49b7-8ccf-7cf755ddf1f2",
         "SelectedStrategyId": "c36d2bb3-0467-49dd-b8e9-0b66c40d266b",
@@ -5729,7 +5729,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "be82ada8-f3c8-43dd-97bb-f684becccaae",
+        "StrategyListSource": "dd56db67-a8b4-4645-8f21-20c8a6fea5b1",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -5745,7 +5745,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "4e270c2c-ca06-4b6c-9f76-bcdc68019f01",
+        "StrategyListSource": "dbe48b42-0981-44fe-9bcc-5837f2da5347",
         "HasImage": "False",
         "RawId": "d29437e1-8882-4780-8451-be0c8551df0c",
         "SelectedStrategyId": "57adc577-7526-4bbf-92e4-6ae794cd1018",
@@ -5761,7 +5761,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "fb6106f0-ba4f-44fd-b68d-c2d3b81d9585",
+        "StrategyListSource": "adff5532-b74e-415a-9c33-dc79d2073495",
         "HasImage": "False",
         "RawId": "5f25eae7-b1a3-4a0f-8a36-b68a28876e6b",
         "SelectedStrategyId": "f8e337bf-1604-4ca9-a2de-463bebdc5d75",
@@ -5777,7 +5777,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "42d80e07-382c-42ad-bc95-5fb1c2a960d7",
+        "StrategyListSource": "fc30721b-e766-47c8-accc-42aadc0a5e7e",
         "HasImage": "False",
         "RawId": "cf538222-95e6-471a-9d95-6b5c48576e16",
         "SelectedStrategyId": "7e418556-1827-4dc8-9dd5-48a9c5792542",
@@ -5793,7 +5793,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "1532eb76-2b80-4f76-9036-dc4e00ab6fc7",
+        "StrategyListSource": "54ee7938-92dd-430b-9178-8a4e2f423a64",
         "HasImage": "False",
         "RawId": "d0b88e23-5ad8-4f8e-b8e6-f4ba9af58b87",
         "SelectedStrategyId": "06f57a9b-e7f5-4932-8f1c-a619c947735a",
