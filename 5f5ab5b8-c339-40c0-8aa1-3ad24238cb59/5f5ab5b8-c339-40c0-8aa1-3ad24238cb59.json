@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:53 AM +00:00",
-      "DateModify": "9/30/2026 8:04:53 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:55 AM +00:00",
+      "DateModify": "9/30/2026 11:47:55 AM +00:00",
       "Title": "Get Table Cell Value",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1135,7 +1135,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "16eca9f9-2507-46bc-9f0f-a30378ab9d5c",
+        "MetadataId": "92b5d31c-6ac4-4c98-a501-bb64e2764ffd",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
@@ -1148,7 +1148,7 @@
         "Id": "0716ccdb-2ea8-4059-a72a-efab59eb8030"
       },
       {
-        "MetadataId": "12287efe-2e7a-4dcb-8829-f448eaa4cd39",
+        "MetadataId": "d48d4386-4905-4db4-ae5f-1844673eef56",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -1161,7 +1161,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "02569597-e174-45bb-bc49-51b643e80918",
+        "MetadataId": "dceec642-18e1-4a0b-b378-efd665e91585",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -1200,7 +1200,7 @@
         "Id": "cf02616a-e259-467f-a017-51456816fb96"
       },
       {
-        "MetadataId": "cf179eb5-8a28-4718-a568-248905d28e77",
+        "MetadataId": "1fbf8ad7-ddd6-43b9-b292-2b9699a7682a",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -1241,25 +1241,11 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "Order costs",
+        "Title": "ST ASCM",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "02569597-e174-45bb-bc49-51b643e80918"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "12287efe-2e7a-4dcb-8829-f448eaa4cd39"
-      },
-      {
-        "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "16eca9f9-2507-46bc-9f0f-a30378ab9d5c"
+        "Id": "1fbf8ad7-ddd6-43b9-b292-2b9699a7682a"
       },
       {
         "Title": "Get Table Cell Value",
@@ -1276,11 +1262,25 @@
         "Id": "819b6f00-6059-4186-8791-d7013c707580"
       },
       {
-        "Title": "ST ASCM",
+        "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "cf179eb5-8a28-4718-a568-248905d28e77"
+        "Id": "92b5d31c-6ac4-4c98-a501-bb64e2764ffd"
+      },
+      {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d48d4386-4905-4db4-ae5f-1844673eef56"
+      },
+      {
+        "Title": "Order costs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "dceec642-18e1-4a0b-b378-efd665e91585"
       }
     ],
     "UsedTypes": [
@@ -1533,7 +1533,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "2908d313-1b09-4603-b2e3-a35c74b31d8c",
+        "StrategyListSource": "a48a00ee-3a9d-4d9c-8dbe-24b8b9c24ec8",
         "HasImage": "False",
         "RawId": "d00c0c2e-0aa5-43d7-82af-0bef4ed07208",
         "SelectedStrategyId": "cfcacb3e-5a53-40c9-b49c-dadffbf92add",

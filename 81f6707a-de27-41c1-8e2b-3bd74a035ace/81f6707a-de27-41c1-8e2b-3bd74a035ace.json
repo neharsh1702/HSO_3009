@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:53 AM +00:00",
-      "DateModify": "9/30/2026 8:04:53 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:54 AM +00:00",
+      "DateModify": "9/30/2026 11:47:54 AM +00:00",
       "Title": "Toggle switch in a dialog",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2150,7 +2150,7 @@
         "Id": "10ce28b6-5d9e-4bd8-a0fd-6a37e2331b35"
       },
       {
-        "MetadataId": "3e6fcbe6-39a1-43e3-88e2-f4f7a21a48ef",
+        "MetadataId": "2b9de560-31d3-4197-bcea-9173df29fae3",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -2176,7 +2176,7 @@
         "Id": "8886385a-ed91-4f4f-98e2-beb68433cc44"
       },
       {
-        "MetadataId": "a7e6f451-d3ac-4b40-a5e9-770e918949f4",
+        "MetadataId": "bdeb4f6a-9965-4422-bfce-1da557a463fd",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -2202,7 +2202,7 @@
         "Id": "9f7841c4-58ee-46dc-a8cf-f38d57b12e2d"
       },
       {
-        "MetadataId": "c3b59bdd-16d1-4932-8dd2-3cd23f44d375",
+        "MetadataId": "a65e5eb2-4176-40d5-8ddc-481782485668",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -2254,7 +2254,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "3e6fcbe6-39a1-43e3-88e2-f4f7a21a48ef"
+        "Id": "2b9de560-31d3-4197-bcea-9173df29fae3"
       },
       {
         "Title": "Auto-expand result <div>",
@@ -2271,18 +2271,18 @@
         "Id": "4bfc2a03-dc43-4df4-b88d-20faec39fb25"
       },
       {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "a7e6f451-d3ac-4b40-a5e9-770e918949f4"
-      },
-      {
         "Title": "D365 FO Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "c3b59bdd-16d1-4932-8dd2-3cd23f44d375"
+        "Id": "a65e5eb2-4176-40d5-8ddc-481782485668"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "bdeb4f6a-9965-4422-bfce-1da557a463fd"
       }
     ],
     "UsedTypes": [
@@ -2549,7 +2549,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASReleasedProductsSearch",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "ce081cfd-affb-4bf3-a634-7dcd6ff049e3",
+        "StrategyListSource": "78d5f72c-8f38-4f40-9e57-bae3c32c6a51",
         "HasImage": "False",
         "RawId": "9d3cd565-6956-4c1d-a543-2dcbb042b9e7",
         "SelectedStrategyId": "45438309-1aa7-4a1e-870b-cf1dcc7690fa",
@@ -2565,7 +2565,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASReleasedProductsSearch",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cad420a0-0998-43fc-8b8a-4d5a25aadb99",
+        "StrategyListSource": "26aaa8b3-3635-468f-97b4-32cfd5ee5b97",
         "HasImage": "False",
         "RawId": "b33cd7f3-2a6e-41bd-8ccb-fe121303cbca",
         "SelectedStrategyId": "585ceb58-a24c-4fc0-ad80-048240147bb8",

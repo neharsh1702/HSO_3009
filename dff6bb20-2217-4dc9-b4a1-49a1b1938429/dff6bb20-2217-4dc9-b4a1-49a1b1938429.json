@@ -9584,8 +9584,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:05:17 AM +00:00",
-      "DateModify": "9/30/2026 8:05:17 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:51 AM +00:00",
+      "DateModify": "9/30/2026 11:47:51 AM +00:00",
       "Title": "Get Batch Number From Posted Journal",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -12585,7 +12585,7 @@
         "Id": "0b9c2cd5-75e3-4fad-a5e3-5589fcb4320d"
       },
       {
-        "MetadataId": "c5be29ab-87e9-4b98-8120-80d72a55518e",
+        "MetadataId": "e5452d23-2259-4f55-9a4f-31d1607d1ac6",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -12598,7 +12598,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "93bcc0e4-cb28-48f5-bc14-937bc811a98e",
+        "MetadataId": "a4746d5e-71a5-4621-8148-c7e0c1554cc0",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -12611,7 +12611,7 @@
         "Id": "10673412-0548-491d-8884-016d4731fa2a"
       },
       {
-        "MetadataId": "3121b8ea-04cb-4c83-9440-6a3438289dec",
+        "MetadataId": "f8efdd97-d1f3-42fc-8b7d-90cb0390478a",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "App Bar",
         "Description": "",
@@ -12637,7 +12637,7 @@
         "Id": "5040798e-c396-47d3-901d-32dcca58f0f6"
       },
       {
-        "MetadataId": "ad3ae56b-0e70-402d-9135-ac127dcc82d6",
+        "MetadataId": "9689fd1c-82fc-4203-9303-1b6fa55d4858",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Button/Checkbox",
         "Description": "",
@@ -12650,7 +12650,7 @@
         "Id": "60935f2d-629f-4955-b8d1-f81a3770b519"
       },
       {
-        "MetadataId": "f6cf0e34-cf5d-44d9-a820-2d42ca229668",
+        "MetadataId": "1db00810-d77e-4c03-8223-a8d62c6b4034",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "TextBoxes",
         "Description": "",
@@ -12663,7 +12663,7 @@
         "Id": "78584042-0d3d-49ab-be64-2427b1ec0c14"
       },
       {
-        "MetadataId": "7434abab-f16f-4d7b-a129-4b89eb620500",
+        "MetadataId": "1d28e30f-04e9-405a-8e0a-c6e5c3a23c4f",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -12676,7 +12676,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "7a007310-5ee8-433b-9ea5-1bdac0f5a843",
+        "MetadataId": "b90ddf5e-aa49-4ea2-9952-5dfad5bbcd6f",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -12780,7 +12780,7 @@
         "Id": "bd055136-80d5-4d08-b087-940eb56af4c3"
       },
       {
-        "MetadataId": "e3999b16-3b4c-4fbc-8527-7b9f5d5e2814",
+        "MetadataId": "9759b1b2-5263-4b16-bd28-ed73d89f92b5",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Expand/Collapse",
         "Description": "",
@@ -12793,7 +12793,7 @@
         "Id": "c112399a-b085-4ae5-92c1-cfbf9325f613"
       },
       {
-        "MetadataId": "94b094e5-dee1-4e72-a245-cb5aa2a55c65",
+        "MetadataId": "f37b47cb-23a3-4aa9-abc7-811b2d2fa328",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -12903,18 +12903,25 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "1d28e30f-04e9-405a-8e0a-c6e5c3a23c4f"
+      },
+      {
+        "Title": "TextBoxes",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "1db00810-d77e-4c03-8223-a8d62c6b4034"
+      },
+      {
         "Title": "Textbox Get Value",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "284edee7-ddfa-4cdc-9e42-b96078049e04"
-      },
-      {
-        "Title": "App Bar",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3121b8ea-04cb-4c83-9440-6a3438289dec"
       },
       {
         "Title": "text <input> - Copy (2)",
@@ -12945,25 +12952,11 @@
         "Id": "6be2d6e1-1424-4d83-accc-7737a10f8eab"
       },
       {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "7434abab-f16f-4d7b-a129-4b89eb620500"
-      },
-      {
         "Title": "Expand Section By Name",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "76ea22ad-6a10-4d51-8644-ed97a6f03707"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "7a007310-5ee8-433b-9ea5-1bdac0f5a843"
       },
       {
         "Title": "button-commandRing PowerApps-symbol <span>",
@@ -12973,18 +12966,11 @@
         "Id": "8d3d9dfa-c46d-41a9-a1c1-4697287f4225"
       },
       {
-        "Title": "Application Processing",
+        "Title": "Button/Checkbox",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "93bcc0e4-cb28-48f5-bc14-937bc811a98e"
-      },
-      {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "94b094e5-dee1-4e72-a245-cb5aa2a55c65"
+        "Id": "9689fd1c-82fc-4203-9303-1b6fa55d4858"
       },
       {
         "Title": "Click AppToolBar Form Action Button",
@@ -12994,11 +12980,25 @@
         "Id": "969b8cd2-08aa-4812-9fdd-75128ec2f70c"
       },
       {
+        "Title": "Expand/Collapse",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "9759b1b2-5263-4b16-bd28-ed73d89f92b5"
+      },
+      {
         "Title": "Get Batch Number From Posted Journal",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "991465c5-d829-48c0-94f2-04d86688bc24"
+      },
+      {
+        "Title": "Application Processing",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "a4746d5e-71a5-4621-8148-c7e0c1554cc0"
       },
       {
         "Title": "Summary <button> - Copy (3)",
@@ -13008,25 +13008,18 @@
         "Id": "acf7558f-45e6-4cfa-bd9a-39de4b79f346"
       },
       {
-        "Title": "Button/Checkbox",
+        "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "ad3ae56b-0e70-402d-9135-ac127dcc82d6"
+        "Id": "b90ddf5e-aa49-4ea2-9952-5dfad5bbcd6f"
       },
       {
         "Title": "Action Utilites",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "c5be29ab-87e9-4b98-8120-80d72a55518e"
-      },
-      {
-        "Title": "Expand/Collapse",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e3999b16-3b4c-4fbc-8527-7b9f5d5e2814"
+        "Id": "e5452d23-2259-4f55-9a4f-31d1607d1ac6"
       },
       {
         "Title": "Select Tab",
@@ -13036,11 +13029,18 @@
         "Id": "e98c92f1-baf6-4d1e-802c-370248de0022"
       },
       {
-        "Title": "TextBoxes",
+        "Title": "D365 FO Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "f6cf0e34-cf5d-44d9-a820-2d42ca229668"
+        "Id": "f37b47cb-23a3-4aa9-abc7-811b2d2fa328"
+      },
+      {
+        "Title": "App Bar",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "f8efdd97-d1f3-42fc-8b7d-90cb0390478a"
       }
     ],
     "UsedTypes": [
@@ -13325,7 +13325,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c5bca5da-bb48-425c-8a95-3b01e2715607",
+        "StrategyListSource": "0da6997d-c62a-4bf4-b611-763f2b76a6a4",
         "HasImage": "False",
         "RawId": "5b027026-4f0a-4133-bfa9-c2b179337c89",
         "SelectedStrategyId": "b52b17b1-2188-413b-a387-6f8c3e647134",
@@ -13341,7 +13341,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "ee337eb0-51dc-4fd6-b0e0-1e1e543ccb45",
+        "StrategyListSource": "6e53ab10-d4e2-41a1-8c63-0a9ec8f0913d",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -13357,7 +13357,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=EcoResProductMasterListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "0d05f44a-a3eb-4859-beee-9cd7fef4e46f",
+        "StrategyListSource": "1f3283ec-0d97-4f0b-b6f9-57ab8d104835",
         "HasImage": "False",
         "RawId": "fc8b97b3-1913-436a-8e29-087d7872c282",
         "SelectedStrategyId": "e7f65d5b-c1e1-44ba-bb44-1dcac390b3cf",
@@ -13373,7 +13373,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "7e4e8efe-c82f-497a-b101-ffd31033317e",
+        "StrategyListSource": "e25afb70-53a9-4496-b8ee-8ed6fdadb074",
         "HasImage": "False",
         "RawId": "10993b05-87cf-42f0-b957-5a3dcbb47c37",
         "SelectedStrategyId": "bfcbbc12-4b3e-4c0e-b2e8-71b98446584d",
@@ -13389,7 +13389,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "e7624edf-04ed-4549-b5cd-bb27844766cd",
+        "StrategyListSource": "c1835242-77fa-408d-8b93-a14a48146354",
         "HasImage": "False",
         "RawId": "6626eab7-bd6d-423a-aee8-6f1058e3c716",
         "SelectedStrategyId": "941f653e-32cd-4807-b24c-1d62601443a6",

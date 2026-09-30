@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:59 AM +00:00",
-      "DateModify": "9/30/2026 8:04:59 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:52 AM +00:00",
+      "DateModify": "9/30/2026 11:47:52 AM +00:00",
       "Title": "Verify kit item is checked",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -548,7 +548,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "d9fb27ee-32e6-41f0-b30e-2164ede34978",
+        "MetadataId": "4fa216a2-6557-44dd-b31c-40030ef4a9f6",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Kitting",
         "Description": "",
@@ -561,7 +561,7 @@
         "Id": "6f20fdf4-ce86-4fd6-a0b7-8460fed753db"
       },
       {
-        "MetadataId": "beeaf22c-2c35-42e4-a7ae-299d342770db",
+        "MetadataId": "16a1606f-3c83-458e-87da-fae11f7822fb",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -574,7 +574,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "4f0d90e6-90a4-4838-a2e8-3607a5f74d7d",
+        "MetadataId": "ab558e00-11c7-486e-bf18-1b40f79f112a",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -587,7 +587,7 @@
         "Id": "d2294ba9-4083-4b5a-9df7-321429105448"
       },
       {
-        "MetadataId": "934e9aa8-9053-402d-b297-3b2a91faaccf",
+        "MetadataId": "e096882a-9028-43ce-ae49-779193b9c6bf",
         "ParentId": "6f20fdf4-ce86-4fd6-a0b7-8460fed753db",
         "Title": "Create RMA for existing Sales order and check if all other kit components  are selected when kit parameter is checked",
         "Description": "",
@@ -654,11 +654,18 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "ST ASCM",
+        "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "4f0d90e6-90a4-4838-a2e8-3607a5f74d7d"
+        "Id": "16a1606f-3c83-458e-87da-fae11f7822fb"
+      },
+      {
+        "Title": "Kitting",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4fa216a2-6557-44dd-b31c-40030ef4a9f6"
       },
       {
         "Title": "Verify kit item is checked",
@@ -668,18 +675,11 @@
         "Id": "6e28f422-4c18-476c-8722-515f79f67aae"
       },
       {
-        "Title": "Create RMA for existing Sales order and check if all other kit components  are selected when kit parameter is checked",
+        "Title": "ST ASCM",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "934e9aa8-9053-402d-b297-3b2a91faaccf"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "beeaf22c-2c35-42e4-a7ae-299d342770db"
+        "Id": "ab558e00-11c7-486e-bf18-1b40f79f112a"
       },
       {
         "Title": "dyn-enabled <rect> 7",
@@ -689,11 +689,11 @@
         "Id": "c1217aeb-3a27-4c17-b2c6-f90854a89060"
       },
       {
-        "Title": "Kitting",
+        "Title": "Create RMA for existing Sales order and check if all other kit components  are selected when kit parameter is checked",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "d9fb27ee-32e6-41f0-b30e-2164ede34978"
+        "Id": "e096882a-9028-43ce-ae49-779193b9c6bf"
       }
     ],
     "UsedTypes": [
@@ -946,7 +946,7 @@
       {
         "Uri": "https://leapwork02.operations.eu.dynamics.com/?cmp=USRT&mi=ReturnTableForEdit",
         "Fields": "",
-        "StrategyListSource": "df02ebb9-5f75-436d-b272-dcea2b1b228f",
+        "StrategyListSource": "626c73bd-a7c1-483d-879e-8d76a24163a2",
         "HasImage": "False",
         "RawId": "e6d84dd1-f76d-425c-9c11-a49475fc3fca",
         "SelectedStrategyId": "4429eabd-05f8-4c28-8197-2bcf3289657d",
