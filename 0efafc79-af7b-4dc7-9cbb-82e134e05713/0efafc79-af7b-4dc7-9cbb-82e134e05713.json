@@ -1333,8 +1333,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:09:02 AM +00:00",
-      "DateModify": "9/30/2026 8:09:02 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:37 AM +00:00",
+      "DateModify": "9/30/2026 11:47:37 AM +00:00",
       "Title": "Module and Submodule selection",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -3319,7 +3319,7 @@
         "Id": "0dc074dc-5566-4901-85ac-641b5a9d7318"
       },
       {
-        "MetadataId": "553fc390-352f-4526-b3ae-c7bb8f42ebcc",
+        "MetadataId": "762e0d22-67da-45b5-bfca-6005541c5c0a",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -3332,7 +3332,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "d7826120-136f-4a5a-b81b-1db5632b5293",
+        "MetadataId": "12212264-0c01-4375-974f-067ad375bb2c",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -3345,7 +3345,7 @@
         "Id": "10673412-0548-491d-8884-016d4731fa2a"
       },
       {
-        "MetadataId": "2c16c3a1-556f-408c-b614-a57aa3c2bfac",
+        "MetadataId": "421fc002-b8c9-4484-82ce-e49e68e9a3ac",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Navigation",
         "Description": "",
@@ -3397,7 +3397,7 @@
         "Id": "6fe02812-ae04-4dca-aa3e-00055a08e130"
       },
       {
-        "MetadataId": "98d2fceb-1c90-424c-ac36-a06c5ffa53b1",
+        "MetadataId": "a36bc784-e2ca-444b-ae80-f092d29fcebb",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -3410,7 +3410,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "f8774c0e-f5d8-46ef-b012-159352395ec6",
+        "MetadataId": "8f70aadb-d71f-4d4b-9fab-f72c99a5d0aa",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -3449,7 +3449,7 @@
         "Id": "ae3c21b5-c351-4630-a6a6-e1734116cf6e"
       },
       {
-        "MetadataId": "8b450d3d-6cc7-45ef-beb7-23464f037c85",
+        "MetadataId": "8c58d2d4-2796-4f23-9343-2a18a44173c8",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -3542,11 +3542,18 @@
         "Id": "0225700b-0b26-41f0-a7fa-be7ed5a9b084"
       },
       {
+        "Title": "Application Processing",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "12212264-0c01-4375-974f-067ad375bb2c"
+      },
+      {
         "Title": "Navigation",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "2c16c3a1-556f-408c-b614-a57aa3c2bfac"
+        "Id": "421fc002-b8c9-4484-82ce-e49e68e9a3ac"
       },
       {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
@@ -3554,13 +3561,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
-      },
-      {
-        "Title": "Action Utilites",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "553fc390-352f-4526-b3ae-c7bb8f42ebcc"
       },
       {
         "Title": "Wait Until Req Processing Msg Disappear",
@@ -3577,6 +3577,13 @@
         "Id": "760f8351-67b3-479c-883b-430eff955626"
       },
       {
+        "Title": "Action Utilites",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "762e0d22-67da-45b5-bfca-6005541c5c0a"
+      },
+      {
         "Title": "Accounts receivable <a>",
         "Description": "",
         "Type": "WebElement",
@@ -3588,7 +3595,14 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "8b450d3d-6cc7-45ef-beb7-23464f037c85"
+        "Id": "8c58d2d4-2796-4f23-9343-2a18a44173c8"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "8f70aadb-d71f-4d4b-9fab-f72c99a5d0aa"
       },
       {
         "Title": "Setup <a>",
@@ -3602,7 +3616,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "98d2fceb-1c90-424c-ac36-a06c5ffa53b1"
+        "Id": "a36bc784-e2ca-444b-ae80-f092d29fcebb"
       },
       {
         "Title": "Customer groups <a>",
@@ -3610,20 +3624,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "cdb12496-ea1f-410a-9137-1a70aec1fb76"
-      },
-      {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "d7826120-136f-4a5a-b81b-1db5632b5293"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "f8774c0e-f5d8-46ef-b012-159352395ec6"
       },
       {
         "Title": "Module and Submodule selection",
@@ -3903,7 +3903,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "c9aea0f7-1841-4d7d-97e5-d3edd19f88c6",
+        "StrategyListSource": "effaacf8-9eaf-463a-9edd-ffc9d70a492a",
         "HasImage": "False",
         "RawId": "3252c3dd-88a0-4b2b-89a3-be7b3428377e",
         "SelectedStrategyId": "2e3dcbc8-66dc-49f0-8bab-85cd69d6b177",
@@ -3919,7 +3919,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "85accd16-14a7-4b23-923d-a00098816004",
+        "StrategyListSource": "ffea137e-37a1-468b-9ddf-5f20565dbb3e",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -3935,7 +3935,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "07428adb-43fa-4add-b456-929e4cc6335c",
+        "StrategyListSource": "13863f67-17da-4047-9acb-4904fc0b59e8",
         "HasImage": "False",
         "RawId": "d29437e1-8882-4780-8451-be0c8551df0c",
         "SelectedStrategyId": "57adc577-7526-4bbf-92e4-6ae794cd1018",
@@ -3951,7 +3951,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "2b5ddf74-c27f-4f33-8c59-b43427dab686",
+        "StrategyListSource": "076abaf8-3109-4260-bc11-eb7c94d8d493",
         "HasImage": "False",
         "RawId": "5f25eae7-b1a3-4a0f-8a36-b68a28876e6b",
         "SelectedStrategyId": "f8e337bf-1604-4ca9-a2de-463bebdc5d75",
@@ -3967,7 +3967,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "bce0c34c-c66e-4e08-afcc-800932c64895",
+        "StrategyListSource": "755ed083-868d-44e1-ac2b-104493a6340f",
         "HasImage": "False",
         "RawId": "cf538222-95e6-471a-9d95-6b5c48576e16",
         "SelectedStrategyId": "7e418556-1827-4dc8-9dd5-48a9c5792542",
@@ -3983,7 +3983,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "0bdb1038-ffc7-4498-9c94-641609079273",
+        "StrategyListSource": "aa159311-b5b6-42cb-a888-58b7b606faf0",
         "HasImage": "False",
         "RawId": "d0b88e23-5ad8-4f8e-b8e6-f4ba9af58b87",
         "SelectedStrategyId": "06f57a9b-e7f5-4932-8f1c-a619c947735a",
