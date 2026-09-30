@@ -1309,8 +1309,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:16 AM +00:00",
-      "DateModify": "9/30/2026 8:04:16 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:38 AM +00:00",
+      "DateModify": "9/30/2026 11:48:38 AM +00:00",
       "Title": "Click Option Under AppToolBar Tab",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -3428,7 +3428,7 @@
         "Id": "550ed43e-5538-4380-bf1a-7e79f2d089b8"
       },
       {
-        "MetadataId": "6c20e3c1-5943-4ca1-a461-e52c00014afb",
+        "MetadataId": "9b51cc22-79ee-45d1-a12d-14d04b47ba97",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -3454,7 +3454,7 @@
         "Id": "7df9bf6a-005a-45ed-9abb-9d930c688e31"
       },
       {
-        "MetadataId": "6e012a6b-5185-4be8-99e8-158833e377a2",
+        "MetadataId": "5a21dc5d-4ce5-4348-a54e-b492e4f72652",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -3480,7 +3480,7 @@
         "Id": "c1866df4-db57-42dd-a7b5-2675f8e6946a"
       },
       {
-        "MetadataId": "b960eda5-3749-4194-8c72-3a1342005b60",
+        "MetadataId": "aead5426-ba25-4657-b978-51e886f32997",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -3493,7 +3493,7 @@
         "Id": "d2294ba9-4083-4b5a-9df7-321429105448"
       },
       {
-        "MetadataId": "db6647e6-5280-47f4-bbff-0e27687bfb42",
+        "MetadataId": "d05c518e-0401-4bfc-ae68-556b06771316",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Prerequisites 1(Order Cost Creating two items)",
         "Description": "",
@@ -3506,7 +3506,7 @@
         "Id": "f598ffb7-d61f-447c-aa31-23c200ce097a"
       },
       {
-        "MetadataId": "bccccc4c-c9be-4221-91e8-dbc0eed706cf",
+        "MetadataId": "fc58162d-8dc3-4c5c-835e-91f23c8022a8",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "Duplicate subflows",
         "Description": "",
@@ -3566,25 +3566,18 @@
         "Id": "2ff0dc57-e71c-440f-b396-b14dfded9f4f"
       },
       {
+        "Title": "Order costs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "5a21dc5d-4ce5-4348-a54e-b492e4f72652"
+      },
+      {
         "Title": "Wait Until Req Processing Msg Disappear",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "5dc78c25-69fc-4241-8393-93d26f18bbb6"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "6c20e3c1-5943-4ca1-a461-e52c00014afb"
-      },
-      {
-        "Title": "Order costs",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "6e012a6b-5185-4be8-99e8-158833e377a2"
       },
       {
         "Title": "Click Option Under AppToolBar Tab",
@@ -3594,6 +3587,20 @@
         "Id": "81ff6ed1-d604-4325-8e89-8e4ef74bc2b6"
       },
       {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "9b51cc22-79ee-45d1-a12d-14d04b47ba97"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "aead5426-ba25-4657-b978-51e886f32997"
+      },
+      {
         "Title": "Advanced filter or sort <span>",
         "Description": "",
         "Type": "WebElement",
@@ -3601,25 +3608,18 @@
         "Id": "b4634405-10c9-4e99-9a75-1114969123f3"
       },
       {
-        "Title": "ST ASCM",
+        "Title": "Prerequisites 1(Order Cost Creating two items)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "b960eda5-3749-4194-8c72-3a1342005b60"
+        "Id": "d05c518e-0401-4bfc-ae68-556b06771316"
       },
       {
         "Title": "Duplicate subflows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "bccccc4c-c9be-4221-91e8-dbc0eed706cf"
-      },
-      {
-        "Title": "Prerequisites 1(Order Cost Creating two items)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "db6647e6-5280-47f4-bbff-0e27687bfb42"
+        "Id": "fc58162d-8dc3-4c5c-835e-91f23c8022a8"
       }
     ],
     "UsedTypes": [
@@ -3872,7 +3872,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "082a9b6b-5387-498e-ad8e-b1ff332d5cfe",
+        "StrategyListSource": "68712ed6-e0de-400d-8c45-6c2c9982ade6",
         "HasImage": "False",
         "RawId": "394908e9-b3cf-44f1-b3e6-230733b95185",
         "SelectedStrategyId": "b2758a2b-1919-4a5b-917f-7720bcadbe23",
@@ -3888,7 +3888,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "7192617f-0a21-4356-8fb9-151a6954440c",
+        "StrategyListSource": "fdb82bd5-e240-4372-9f11-e5389f30a8bb",
         "HasImage": "False",
         "RawId": "6c0ecf65-68ed-40d6-92ff-665baef1bea0",
         "SelectedStrategyId": "9b75d54a-4eba-4cec-9d81-f826a0efb2b2",

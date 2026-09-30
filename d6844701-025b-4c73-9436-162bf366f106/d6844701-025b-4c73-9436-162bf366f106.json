@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:17 AM +00:00",
-      "DateModify": "9/30/2026 8:04:17 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:38 AM +00:00",
+      "DateModify": "9/30/2026 11:48:38 AM +00:00",
       "Title": "Select Summary Tile",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -803,7 +803,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "980af7ab-8b81-43dc-b64e-0700644c9196",
+        "MetadataId": "d41ff435-0b8c-4d32-bb00-2ab9f377e7d0",
         "ParentId": "84289d4d-cefe-4ce9-958b-cdec645eebf0",
         "Title": "Functional UI Module",
         "Description": "",
@@ -829,7 +829,7 @@
         "Id": "77568444-473d-4622-a55d-cc151e352134"
       },
       {
-        "MetadataId": "840af0cd-d9d3-49ab-8a47-11920a148a4f",
+        "MetadataId": "37a9f54f-84fb-458d-82c6-32f0191a8364",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -842,7 +842,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "eca60200-6bc4-4490-80a1-f1c243df7483",
+        "MetadataId": "c5f012a1-2eca-41e3-b320-0c0302b92b98",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Module Utilities",
         "Description": "",
@@ -855,7 +855,7 @@
         "Id": "84289d4d-cefe-4ce9-958b-cdec645eebf0"
       },
       {
-        "MetadataId": "3a96fd76-e133-461d-8c23-aad4d8fd706a",
+        "MetadataId": "5b12e959-0d52-4114-bbac-511fe92f2e4b",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -881,7 +881,7 @@
         "Id": "e8a98e87-aab9-4cd4-9d08-98d12e6da985"
       },
       {
-        "MetadataId": "93938ec5-adbc-4843-9e3a-c9a88cbfa558",
+        "MetadataId": "f1c6e167-e303-4514-88da-6f9a10c061bc",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -926,18 +926,18 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3a96fd76-e133-461d-8c23-aad4d8fd706a"
-      },
-      {
         "Title": "Reusable Subflows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "840af0cd-d9d3-49ab-8a47-11920a148a4f"
+        "Id": "37a9f54f-84fb-458d-82c6-32f0191a8364"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "5b12e959-0d52-4114-bbac-511fe92f2e4b"
       },
       {
         "Title": "Select Summary Tile",
@@ -945,20 +945,6 @@
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "8b1c1306-30aa-4fb2-8237-1deba0ecff4a"
-      },
-      {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "93938ec5-adbc-4843-9e3a-c9a88cbfa558"
-      },
-      {
-        "Title": "Functional UI Module",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "980af7ab-8b81-43dc-b64e-0700644c9196"
       },
       {
         "Title": "0 All inventory adjustments <div>",
@@ -972,7 +958,21 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "eca60200-6bc4-4490-80a1-f1c243df7483"
+        "Id": "c5f012a1-2eca-41e3-b320-0c0302b92b98"
+      },
+      {
+        "Title": "Functional UI Module",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d41ff435-0b8c-4d32-bb00-2ab9f377e7d0"
+      },
+      {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "f1c6e167-e303-4514-88da-6f9a10c061bc"
       }
     ],
     "UsedTypes": [
@@ -1233,7 +1233,7 @@
       {
         "Uri": "https://bs-test-current.sandbox.operations.dynamics.com/?cmp=280&mi=RetailScrappingWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a70fa3eb-bbf1-43df-af19-4f9020e2ad45",
+        "StrategyListSource": "82acec57-44f2-48ca-8d1e-9fa3e7f1d155",
         "HasImage": "False",
         "RawId": "72b16a63-2e1c-483f-817f-ba9b7dc376c9",
         "SelectedStrategyId": "66dfcdfa-1a2c-4316-a3ad-d6ea67d2e01f",

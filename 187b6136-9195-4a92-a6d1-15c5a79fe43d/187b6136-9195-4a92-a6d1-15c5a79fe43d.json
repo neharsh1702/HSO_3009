@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:16 AM +00:00",
-      "DateModify": "9/30/2026 8:04:16 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:38 AM +00:00",
+      "DateModify": "9/30/2026 11:48:38 AM +00:00",
       "Title": "Verify if check kit parameter on kit components",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -558,7 +558,7 @@
         "Id": "01395942-4fce-46a4-96cf-dafdf91be3f5"
       },
       {
-        "MetadataId": "5318a72e-0412-4a17-aa5e-09148a6052fc",
+        "MetadataId": "c17a949f-10ad-46e8-b4f8-198d260e3150",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Kitting",
         "Description": "",
@@ -571,7 +571,7 @@
         "Id": "6f20fdf4-ce86-4fd6-a0b7-8460fed753db"
       },
       {
-        "MetadataId": "d520cf85-7a3d-4e8d-95d2-8ef075d004dc",
+        "MetadataId": "5cae8a88-4a17-4197-8969-f8ef1a05543d",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -597,7 +597,7 @@
         "Id": "b6d0172c-97c5-4a64-917d-41f2592bf347"
       },
       {
-        "MetadataId": "72c18b4e-f703-4e70-84fa-4bc584866a2f",
+        "MetadataId": "bcee1b81-d0b5-49bb-88e9-4711b3c233be",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -610,7 +610,7 @@
         "Id": "d2294ba9-4083-4b5a-9df7-321429105448"
       },
       {
-        "MetadataId": "7ebacf87-9a10-46c9-9dae-6aec2d00f519",
+        "MetadataId": "72473e52-1af8-4f5f-92e9-31e25c006fa2",
         "ParentId": "6f20fdf4-ce86-4fd6-a0b7-8460fed753db",
         "Title": "Create RMA for existing Sales order and check if all other kit components  are selected when kit parameter is checked",
         "Description": "",
@@ -658,25 +658,32 @@
         "Id": "13d6b893-ad3b-4d59-a723-1e0cfa803fcc"
       },
       {
-        "Title": "Kitting",
+        "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "5318a72e-0412-4a17-aa5e-09148a6052fc"
-      },
-      {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "72c18b4e-f703-4e70-84fa-4bc584866a2f"
+        "Id": "5cae8a88-4a17-4197-8969-f8ef1a05543d"
       },
       {
         "Title": "Create RMA for existing Sales order and check if all other kit components  are selected when kit parameter is checked",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "7ebacf87-9a10-46c9-9dae-6aec2d00f519"
+        "Id": "72473e52-1af8-4f5f-92e9-31e25c006fa2"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "bcee1b81-d0b5-49bb-88e9-4711b3c233be"
+      },
+      {
+        "Title": "Kitting",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "c17a949f-10ad-46e8-b4f8-198d260e3150"
       },
       {
         "Title": "dyn-enabled <rect> 1",
@@ -684,13 +691,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "cea0b295-4f00-4b0e-b2e1-e1c084ba20f4"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "d520cf85-7a3d-4e8d-95d2-8ef075d004dc"
       }
     ],
     "UsedTypes": [
@@ -943,7 +943,7 @@
       {
         "Uri": "https://leapwork02.operations.eu.dynamics.com/?cmp=USRT&mi=ReturnTableForEdit",
         "Fields": "",
-        "StrategyListSource": "dcbf8744-a2e5-4665-b802-e6eb0b08a2ae",
+        "StrategyListSource": "d81e63a3-096e-4653-b768-6bfd2dda3b3d",
         "HasImage": "False",
         "RawId": "0cc6fc90-aeaa-4cb6-85d4-7db6f5d36450",
         "SelectedStrategyId": "38525e39-21e3-4b6b-b3c4-536a890108e9",
