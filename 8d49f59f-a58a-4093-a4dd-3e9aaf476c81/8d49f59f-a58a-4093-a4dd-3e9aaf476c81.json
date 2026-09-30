@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:04:57 AM +00:00",
-      "DateModify": "9/30/2026 8:04:57 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:09 AM +00:00",
+      "DateModify": "9/30/2026 11:47:09 AM +00:00",
       "Title": "Table Checkbox",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1420,7 +1420,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "fb187e53-6424-45f9-a466-580cbce66239",
+        "MetadataId": "bc6399c1-3a57-46f4-a8c7-245672073e15",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
@@ -1433,7 +1433,7 @@
         "Id": "0716ccdb-2ea8-4059-a72a-efab59eb8030"
       },
       {
-        "MetadataId": "ba2a5a50-cff4-4ed1-8917-7b01951a3e83",
+        "MetadataId": "dd883267-1133-45c2-8b84-58ae2a7d12ea",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -1459,7 +1459,7 @@
         "Id": "7d9f1a73-aab0-4e10-b352-ec1a82653b7d"
       },
       {
-        "MetadataId": "18e5fdcd-825a-45d2-8528-6975153fe04a",
+        "MetadataId": "59738934-27cc-4897-9c20-473b6bf51e91",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -1472,7 +1472,7 @@
         "Id": "90d54c32-87e2-4cce-835c-9b0e9066b821"
       },
       {
-        "MetadataId": "e56caf7d-cf83-4faf-8f01-a5d423e512c3",
+        "MetadataId": "48f3a787-979d-45b8-9b74-d1b76c36d399",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -1543,18 +1543,25 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "48f3a787-979d-45b8-9b74-d1b76c36d399"
+      },
+      {
         "Title": "Order costs",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "18e5fdcd-825a-45d2-8528-6975153fe04a"
+        "Id": "59738934-27cc-4897-9c20-473b6bf51e91"
       },
       {
-        "Title": "Advanced Order Management",
+        "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "ba2a5a50-cff4-4ed1-8917-7b01951a3e83"
+        "Id": "bc6399c1-3a57-46f4-a8c7-245672073e15"
       },
       {
         "Title": "Credit <input> - Copy (1) - Copy",
@@ -1571,18 +1578,11 @@
         "Id": "be8ebbed-b494-4235-a830-c21d2118e6f6"
       },
       {
-        "Title": "ST ASCM",
+        "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "e56caf7d-cf83-4faf-8f01-a5d423e512c3"
-      },
-      {
-        "Title": "Create a sales order, add item A to the order, qty 1, press Calculate > Order costs button.(Order Cost)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "fb187e53-6424-45f9-a466-580cbce66239"
+        "Id": "dd883267-1133-45c2-8b84-58ae2a7d12ea"
       },
       {
         "Title": "Table Checkbox",
@@ -1842,7 +1842,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "8e0bbe79-e8c1-46f3-8767-c455b69fa98a",
+        "StrategyListSource": "38f75354-044a-4a96-bbf4-221b81274fa3",
         "HasImage": "False",
         "RawId": "8c2697c4-3ed1-4da7-a1ca-6dcf1eb320f8",
         "SelectedStrategyId": "ac8dde2f-fffc-48f2-8d90-a9eb66671206",
@@ -1858,7 +1858,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "aa76d0f3-e8af-41aa-bea2-6c6a40db01ae",
+        "StrategyListSource": "8b560db7-170b-4082-b71d-811c858a9420",
         "HasImage": "False",
         "RawId": "8c2697c4-3ed1-4da7-a1ca-6dcf1eb320f8",
         "SelectedStrategyId": "5f76cb35-fe1d-4671-9e5b-6a176e35ace3",
