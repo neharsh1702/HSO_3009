@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:09:49 AM +00:00",
-      "DateModify": "9/30/2026 8:09:49 AM +00:00",
+      "DateCreation": "9/30/2026 11:49:28 AM +00:00",
+      "DateModify": "9/30/2026 11:49:28 AM +00:00",
       "Title": "Select Color, Size combinations",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1401,7 +1401,7 @@
         "Id": "121f2ae2-4ca6-410e-835d-6a9bee7a00d9"
       },
       {
-        "MetadataId": "73dd3d9e-175c-4b6a-a569-c3da2c3acb50",
+        "MetadataId": "dff51b2b-19ef-4a06-bb89-22bf5e29b373",
         "ParentId": "afb16113-a1fc-44a8-a949-3cf70bf5187b",
         "Title": "Main Tests",
         "Description": "",
@@ -1414,7 +1414,7 @@
         "Id": "3fb5dac8-5393-4eaf-a59a-f5d59fbc3291"
       },
       {
-        "MetadataId": "585d55a7-adcb-4fff-a801-342d2fd2dc18",
+        "MetadataId": "d2f6b10a-2c38-49dc-9c5a-18c03f1a36fd",
         "ParentId": "3fb5dac8-5393-4eaf-a59a-f5d59fbc3291",
         "Title": "Adding stocks to the Items/Products that have been created. (Note: we only have created the items/products but there is no stock / on hand inventory)",
         "Description": "",
@@ -1453,7 +1453,7 @@
         "Id": "75978a81-b910-4631-a480-fe21275695e9"
       },
       {
-        "MetadataId": "aa9d990b-a641-48fd-8a1e-535b1bfad079",
+        "MetadataId": "67417de4-93f0-4ed6-baa6-7d888ac4d678",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Product Search",
         "Description": "",
@@ -1466,7 +1466,7 @@
         "Id": "afb16113-a1fc-44a8-a949-3cf70bf5187b"
       },
       {
-        "MetadataId": "67a2464a-48e2-4eab-9696-9d47fa582789",
+        "MetadataId": "8d1b4750-feed-4e72-8a0e-09e9448e2cc2",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -1552,25 +1552,18 @@
         "Id": "481e7042-c9be-4083-8b10-dd121c8b8d91"
       },
       {
-        "Title": "Adding stocks to the Items/Products that have been created. (Note: we only have created the items/products but there is no stock / on hand inventory)",
+        "Title": "Product Search",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "585d55a7-adcb-4fff-a801-342d2fd2dc18"
+        "Id": "67417de4-93f0-4ed6-baa6-7d888ac4d678"
       },
       {
         "Title": "ST ASCM",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "67a2464a-48e2-4eab-9696-9d47fa582789"
-      },
-      {
-        "Title": "Main Tests",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "73dd3d9e-175c-4b6a-a569-c3da2c3acb50"
+        "Id": "8d1b4750-feed-4e72-8a0e-09e9448e2cc2"
       },
       {
         "Title": "dyn-container dyn-svg-symbol dyn-lookup-button <div>",
@@ -1580,13 +1573,6 @@
         "Id": "a4f4c654-04b1-4961-a1f1-59e0f26836ec"
       },
       {
-        "Title": "Product Search",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "aa9d990b-a641-48fd-8a1e-535b1bfad079"
-      },
-      {
         "Title": "dyn-container dyn-svg-symbol dyn-lookup-button <div> 1",
         "Description": "",
         "Type": "WebElement",
@@ -1594,11 +1580,25 @@
         "Id": "c1892967-df4d-43ff-a4e8-1e86d4a5345f"
       },
       {
+        "Title": "Adding stocks to the Items/Products that have been created. (Note: we only have created the items/products but there is no stock / on hand inventory)",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d2f6b10a-2c38-49dc-9c5a-18c03f1a36fd"
+      },
+      {
         "Title": "Combinations <span>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "d5637ccb-06c1-4964-8821-441e4df6c8ef"
+      },
+      {
+        "Title": "Main Tests",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "dff51b2b-19ef-4a06-bb89-22bf5e29b373"
       },
       {
         "Title": "Product number <input> - Copy (1)",
@@ -1866,7 +1866,7 @@
       {
         "Uri": "https://ascmpreviewtst01.operations.eu.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "58dd06dd-399a-4739-a1e7-59d4d19027f6",
+        "StrategyListSource": "3496c226-690b-47eb-b433-75a2a39fc11b",
         "HasImage": "False",
         "RawId": "8ebb3416-3816-4d7e-ae84-895704bbaff8",
         "SelectedStrategyId": "96650bda-57dc-4b80-89e8-21e4f61f5f3f",
@@ -1882,7 +1882,7 @@
       {
         "Uri": "https://ascmpreviewtst01.operations.eu.dynamics.com/?cmp=usrt&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "",
-        "StrategyListSource": "739b80d0-febf-4ae8-863f-95f8d5c5474c",
+        "StrategyListSource": "e5c5d1ea-4649-472a-9c75-861e335e7fe8",
         "HasImage": "False",
         "RawId": "c689ad94-6683-48f4-b09f-f399a21b6b45",
         "SelectedStrategyId": "4cff95ee-6727-4b37-99c5-9fa0b9cdf4ec",
@@ -1898,7 +1898,7 @@
       {
         "Uri": "https://leapwork02.operations.eu.dynamics.com/?cmp=USRT&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "",
-        "StrategyListSource": "63b002fa-23bd-44d7-abcd-a69b5dc24169",
+        "StrategyListSource": "821cdaca-6556-4ea0-a4b7-38d3b6d65efb",
         "HasImage": "False",
         "RawId": "06883b44-d547-4331-a3eb-59a9fcb6af13",
         "SelectedStrategyId": "b37beb21-23b1-4ce8-a821-d02c7482d4c5",
@@ -1914,7 +1914,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "508b3717-2a4d-4123-86b9-f604479ee9bc",
+        "StrategyListSource": "c1c8a335-d7d1-41f1-9b77-06031cc166e5",
         "HasImage": "False",
         "RawId": "db857b89-3448-4eef-8d0b-b6fe6368e7c5",
         "SelectedStrategyId": "07aa3053-883a-4fe1-8161-51a5073c6bd1",
