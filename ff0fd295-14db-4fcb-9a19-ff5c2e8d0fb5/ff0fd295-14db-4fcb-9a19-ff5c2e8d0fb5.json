@@ -6583,8 +6583,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:11:35 AM +00:00",
-      "DateModify": "9/30/2026 8:11:35 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:52 AM +00:00",
+      "DateModify": "9/30/2026 11:50:52 AM +00:00",
       "Title": "Create New Workspace",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -8272,7 +8272,7 @@
         "Id": "0b9c2cd5-75e3-4fad-a5e3-5589fcb4320d"
       },
       {
-        "MetadataId": "f1fa9fa5-4a80-4259-bcfd-052d5dc47b1e",
+        "MetadataId": "abf4eb8b-4991-493e-9d65-984ef9020883",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -8285,7 +8285,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "6f507a1f-35d0-4f92-9572-6140b51bb7c7",
+        "MetadataId": "0411e7d2-299c-4f8e-9cb4-ce0b3e4a8bff",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -8298,7 +8298,7 @@
         "Id": "10673412-0548-491d-8884-016d4731fa2a"
       },
       {
-        "MetadataId": "a15b6ab7-6700-4955-ba7f-5edcbcb631b4",
+        "MetadataId": "082e86ec-b434-40fd-b08e-e29e09860a7e",
         "ParentId": "84289d4d-cefe-4ce9-958b-cdec645eebf0",
         "Title": "Functional UI Module",
         "Description": "",
@@ -8337,7 +8337,7 @@
         "Id": "5f0114c1-0138-42b3-b80e-d71c4c7d661a"
       },
       {
-        "MetadataId": "2aefe9d9-fb7b-4bc2-ae1d-10a48a3e9d69",
+        "MetadataId": "ef420a71-bb02-44d8-9df8-04f3bd459311",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Button/Checkbox",
         "Description": "",
@@ -8350,7 +8350,7 @@
         "Id": "60935f2d-629f-4955-b8d1-f81a3770b519"
       },
       {
-        "MetadataId": "4e42db68-138d-44c1-b3d2-712e08c519a2",
+        "MetadataId": "a1a9eac2-749e-42f8-a4a9-f1a61ed30b8a",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "TextBoxes",
         "Description": "",
@@ -8363,7 +8363,7 @@
         "Id": "78584042-0d3d-49ab-be64-2427b1ec0c14"
       },
       {
-        "MetadataId": "e415c51b-03bc-4beb-9828-7c5123465258",
+        "MetadataId": "1cce640e-621e-409b-a7f9-6116c38f9aef",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -8389,7 +8389,7 @@
         "Id": "80328b13-0057-4fc2-9d21-46af6b1af10f"
       },
       {
-        "MetadataId": "5d15fe5b-af80-4696-be10-789929818a7a",
+        "MetadataId": "a31d1c04-31a3-4cbc-ba40-99b7b2e9b927",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Module Utilities",
         "Description": "",
@@ -8402,7 +8402,7 @@
         "Id": "84289d4d-cefe-4ce9-958b-cdec645eebf0"
       },
       {
-        "MetadataId": "b15d4ed0-f9aa-4930-90a5-3750043cc728",
+        "MetadataId": "0b45cd36-0d2b-4a15-acc9-c342ba2977b6",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -8506,7 +8506,7 @@
         "Id": "d5263a0b-8a2b-4f5b-a88e-10751e8e575d"
       },
       {
-        "MetadataId": "31297bd9-c470-4a1b-abcd-7d8d79968804",
+        "MetadataId": "8dcd1c35-f940-4359-baaa-9c7c0b587e29",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -8603,11 +8603,32 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "Button/Checkbox",
+        "Title": "Application Processing",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "2aefe9d9-fb7b-4bc2-ae1d-10a48a3e9d69"
+        "Id": "0411e7d2-299c-4f8e-9cb4-ce0b3e4a8bff"
+      },
+      {
+        "Title": "Functional UI Module",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "082e86ec-b434-40fd-b08e-e29e09860a7e"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "0b45cd36-0d2b-4a15-acc9-c342ba2977b6"
+      },
+      {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "1cce640e-621e-409b-a7f9-6116c38f9aef"
       },
       {
         "Title": "Personalize Bank management <span>",
@@ -8617,32 +8638,11 @@
         "Id": "2d82e108-b347-4c6f-929a-d7158f9fe030"
       },
       {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "31297bd9-c470-4a1b-abcd-7d8d79968804"
-      },
-      {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
-      },
-      {
-        "Title": "TextBoxes",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "4e42db68-138d-44c1-b3d2-712e08c519a2"
-      },
-      {
-        "Title": "Module Utilities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5d15fe5b-af80-4696-be10-789929818a7a"
       },
       {
         "Title": "Wait Until Req Processing Msg Disappear",
@@ -8652,18 +8652,18 @@
         "Id": "6be2d6e1-1424-4d83-accc-7737a10f8eab"
       },
       {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "6f507a1f-35d0-4f92-9572-6140b51bb7c7"
-      },
-      {
         "Title": "<button>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "771d6383-f411-429d-91aa-abfc2f93968d"
+      },
+      {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "8dcd1c35-f940-4359-baaa-9c7c0b587e29"
       },
       {
         "Title": "Click Button Label",
@@ -8673,11 +8673,18 @@
         "Id": "9f5f9d3a-9408-4e30-a18c-4b03c055ded8"
       },
       {
-        "Title": "Functional UI Module",
+        "Title": "TextBoxes",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "a15b6ab7-6700-4955-ba7f-5edcbcb631b4"
+        "Id": "a1a9eac2-749e-42f8-a4a9-f1a61ed30b8a"
+      },
+      {
+        "Title": "Module Utilities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "a31d1c04-31a3-4cbc-ba40-99b7b2e9b927"
       },
       {
         "Title": "Textbox Set Value",
@@ -8694,18 +8701,18 @@
         "Id": "ab6ff645-9d38-4fad-9eaa-108753c2a34d"
       },
       {
+        "Title": "Action Utilites",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "abf4eb8b-4991-493e-9d65-984ef9020883"
+      },
+      {
         "Title": "Create New Workspace",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "ae9ceb88-1c20-4569-9d0d-5f3c232bcebc"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b15d4ed0-f9aa-4930-90a5-3750043cc728"
       },
       {
         "Title": "Cost administration <div>",
@@ -8715,13 +8722,6 @@
         "Id": "cf738f5d-f8dc-49ea-8057-f5a66689fa2b"
       },
       {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e415c51b-03bc-4beb-9828-7c5123465258"
-      },
-      {
         "Title": "Add a page <span>",
         "Description": "",
         "Type": "WebElement",
@@ -8729,11 +8729,11 @@
         "Id": "ec01447b-8d26-4ebd-8224-b817ba3d07a0"
       },
       {
-        "Title": "Action Utilites",
+        "Title": "Button/Checkbox",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "f1fa9fa5-4a80-4259-bcfd-052d5dc47b1e"
+        "Id": "ef420a71-bb02-44d8-9df8-04f3bd459311"
       },
       {
         "Title": "text <input> - Copy (2)",
@@ -9019,7 +9019,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "b0d31c50-b049-4141-843a-0e3ce7012e3e",
+        "StrategyListSource": "c8b342e6-c55b-445c-9b15-462d4102ec17",
         "HasImage": "False",
         "RawId": "dcfed6b4-91bc-48b0-82b7-b2bf1c3f1800",
         "SelectedStrategyId": "e8594a01-3a97-42f9-aed6-e59b23ec504c",
@@ -9035,7 +9035,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "d55cd206-3870-4e17-8be3-d4af166b470f",
+        "StrategyListSource": "c654e8d8-9e9d-4083-abca-ac0302e6b0b2",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -9051,7 +9051,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=SalesQuotationListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "e90d4285-3af1-455b-8ebb-e63779643501",
+        "StrategyListSource": "80521039-df9c-41c0-a432-45b34ab3bea1",
         "HasImage": "False",
         "RawId": "a79ed72a-3e65-411d-94c0-7ab9a3bf5c46",
         "SelectedStrategyId": "0f5e0a5c-01d7-4013-b2a6-987cbc68fe53",
@@ -9067,7 +9067,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "f8ba6802-369c-451d-bef9-4fbb45532373",
+        "StrategyListSource": "5248e2f9-3903-4353-9689-efb9873ad832",
         "HasImage": "False",
         "RawId": "c0c5c002-b78e-4d24-b311-3c75ca9d23b8",
         "SelectedStrategyId": "aa6d51a3-016f-45a2-868b-23b97e43f943",
@@ -9083,7 +9083,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "fe1f4e32-2cef-428d-bc08-44991fa2d22a",
+        "StrategyListSource": "d1f95b12-7282-4650-ac56-d5eba3f38dfc",
         "HasImage": "False",
         "RawId": "e2698e10-db92-4e30-a021-041933d242c6",
         "SelectedStrategyId": "2c4c91e0-2d1c-455b-8aff-20ac396008ef",
@@ -9099,7 +9099,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "edb83ee8-6619-4662-a9b1-577b218dbc25",
+        "StrategyListSource": "c676d768-b463-4fc2-83cf-6f3a3cd259e2",
         "HasImage": "False",
         "RawId": "599e23ae-5651-4c17-9cae-6bb09cbb1c44",
         "SelectedStrategyId": "a30ad9b0-55cd-497e-a9ea-09f853235d6c",
@@ -9115,7 +9115,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "ee3b2c2e-54e2-41f9-8401-88efd9dc7296",
+        "StrategyListSource": "966f4e25-64a9-4fbf-9d13-e82bf8aed1d3",
         "HasImage": "False",
         "RawId": "5b027026-4f0a-4133-bfa9-c2b179337c89",
         "SelectedStrategyId": "c1906580-03fc-4a71-8a9e-a057a9acd229",

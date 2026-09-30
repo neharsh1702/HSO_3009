@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:11:25 AM +00:00",
-      "DateModify": "9/30/2026 8:11:25 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:43 AM +00:00",
+      "DateModify": "9/30/2026 11:50:43 AM +00:00",
       "Title": "Filter Column",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -6352,7 +6352,7 @@
         "Id": "6d327ede-00bc-40a0-86a2-ba23dd529a5b"
       },
       {
-        "MetadataId": "f308bb80-db36-4cd5-b0e7-c239966ecbba",
+        "MetadataId": "b0f7fe3b-237f-485b-bb9c-63f33bef2460",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Create a sales order, add item A to the order, qty 2, press Calculate > Order costs button.(Order Costs)",
         "Description": "",
@@ -6378,7 +6378,7 @@
         "Id": "73fd28ba-73e3-48a8-a9f3-1d7ce8cc0475"
       },
       {
-        "MetadataId": "54bec037-cb49-41bb-8096-08a20e193ec7",
+        "MetadataId": "d23543e0-5adb-4dee-b5ea-42f3dfaa0f3d",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -6404,7 +6404,7 @@
         "Id": "87fe029b-326f-473e-a038-120400be449c"
       },
       {
-        "MetadataId": "9f9f795f-877f-4ee9-9e82-3d8da47f4230",
+        "MetadataId": "63366429-0fb8-4df6-a367-bf8062c980a0",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -6443,7 +6443,7 @@
         "Id": "cda7fabc-dd48-443e-be5b-f06b6d4f807c"
       },
       {
-        "MetadataId": "7376296f-0d9b-4253-bf70-7831f01813ae",
+        "MetadataId": "0c8fcd46-b384-432f-a7fc-c382d8d8056f",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -6530,6 +6530,13 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "0c8fcd46-b384-432f-a7fc-c382d8d8056f"
+      },
+      {
         "Title": "is exactly <span> - Copy",
         "Description": "",
         "Type": "WebElement",
@@ -6551,11 +6558,11 @@
         "Id": "42624ac0-f22b-4537-9dd8-7d8eb2e447c5"
       },
       {
-        "Title": "Advanced Order Management",
+        "Title": "Order costs",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "54bec037-cb49-41bb-8096-08a20e193ec7"
+        "Id": "63366429-0fb8-4df6-a367-bf8062c980a0"
       },
       {
         "Title": "is exactly <span>",
@@ -6563,13 +6570,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "6ae8a4ea-6875-4f6c-9520-8af8bb988ef0"
-      },
-      {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "7376296f-0d9b-4253-bf70-7831f01813ae"
       },
       {
         "Title": "text <input>",
@@ -6586,11 +6586,18 @@
         "Id": "7c463450-6895-4730-96f3-81cc68d08b21"
       },
       {
-        "Title": "Order costs",
+        "Title": "Create a sales order, add item A to the order, qty 2, press Calculate > Order costs button.(Order Costs)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "9f9f795f-877f-4ee9-9e82-3d8da47f4230"
+        "Id": "b0f7fe3b-237f-485b-bb9c-63f33bef2460"
+      },
+      {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d23543e0-5adb-4dee-b5ea-42f3dfaa0f3d"
       },
       {
         "Title": "External order id <div> - Copy",
@@ -6598,13 +6605,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "db0665cd-e1d6-4b8c-9bbb-5880a2821a2e"
-      },
-      {
-        "Title": "Create a sales order, add item A to the order, qty 2, press Calculate > Order costs button.(Order Costs)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "f308bb80-db36-4cd5-b0e7-c239966ecbba"
       }
     ],
     "UsedTypes": [
@@ -6857,7 +6857,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "ad9ab552-58ef-4a1c-9547-6b301ed33db6",
+        "StrategyListSource": "3038fa5a-0d7e-4f85-a72e-6f5fffa83c6e",
         "HasImage": "False",
         "RawId": "40fe1e47-ea5b-4f4b-8595-4e13e715eab8",
         "SelectedStrategyId": "da80b1f8-dfa4-4548-a87a-6a555ccafcfd",
@@ -6873,7 +6873,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "8853c605-f4e7-4d4b-9024-f10ede0a2da1",
+        "StrategyListSource": "a54789d7-044e-4e40-85a4-badd645dbdc2",
         "HasImage": "False",
         "RawId": "07be50dc-c2b3-4292-881f-e3d035479a1a",
         "SelectedStrategyId": "3cc68de5-0cbc-4dc3-80ae-f0c4e3ef1d7f",
@@ -6889,7 +6889,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "732c01c6-77fb-456a-976e-ede7d3bdf57b",
+        "StrategyListSource": "965d56c3-7a90-4467-9955-1bb93b7ecec5",
         "HasImage": "False",
         "RawId": "98973b7c-0e2e-4d60-9454-083fa82a7471",
         "SelectedStrategyId": "3bc831d7-e7f7-4cde-9508-5d7519511c3b",
@@ -6905,7 +6905,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "857e2da0-1107-49e6-be7c-ce88048b93dc",
+        "StrategyListSource": "2bc60d3b-5460-4cb9-a472-558030b788f5",
         "HasImage": "False",
         "RawId": "fe398aac-f4a3-4e70-8b7c-7f85d4b03e4c",
         "SelectedStrategyId": "38993e7e-5910-4662-87a7-6160eb01f930",
@@ -6921,7 +6921,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "7fff1410-57db-40c8-a9a8-11b8954838c8",
+        "StrategyListSource": "56b295a7-8be9-43c5-9472-7cc6fe948ed1",
         "HasImage": "False",
         "RawId": "eccb384c-5f58-4141-9e2b-1008c1661a09",
         "SelectedStrategyId": "41f11fa8-9cf0-4349-99fb-b52e0c6ef0ba",
@@ -6937,7 +6937,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "702e6cde-09f5-4ab5-96f3-bccf3b210e0a",
+        "StrategyListSource": "562d281a-1042-4a4e-8041-c4de031e3a0d",
         "HasImage": "False",
         "RawId": "98973b7c-0e2e-4d60-9454-083fa82a7471",
         "SelectedStrategyId": "7f07b15e-3195-4262-98e5-dbe81f63c294",
