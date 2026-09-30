@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:11:06 AM +00:00",
-      "DateModify": "9/30/2026 8:11:06 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:31 AM +00:00",
+      "DateModify": "9/30/2026 11:50:31 AM +00:00",
       "Title": "Purchase Agreement Confirmation",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -17244,7 +17244,7 @@
         "Id": "0d30ab22-6e7b-4614-be9e-d4976554a1aa"
       },
       {
-        "MetadataId": "f59c4bca-1362-444a-a3bb-b433fe49063a",
+        "MetadataId": "8d8f03b9-76c2-4d1b-b4d9-1a8bf5ef3e19",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -17257,7 +17257,7 @@
         "Id": "0f676f72-ef12-4349-9f1a-9d608a1bd93e"
       },
       {
-        "MetadataId": "45e41dcb-2987-46b0-9ef6-88a2d11595d6",
+        "MetadataId": "6c2329bf-14dd-4418-ba3f-62081bf21909",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -17283,7 +17283,7 @@
         "Id": "19d0be4a-0d12-45bb-b3d4-24b2bf1dd09b"
       },
       {
-        "MetadataId": "a28320d0-fe43-4304-96d9-2fa5d1d19417",
+        "MetadataId": "2dd3997c-1c4f-4c3d-8c94-bf314591b8e6",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order completion",
         "Description": "",
@@ -17296,7 +17296,7 @@
         "Id": "2385443e-8994-4226-8b1c-340e6f3d308b"
       },
       {
-        "MetadataId": "819de8aa-7658-4c86-9eab-828c5905f551",
+        "MetadataId": "a94d5066-781c-4cfe-af5d-68f955a3ec1a",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "App Bar",
         "Description": "",
@@ -17322,7 +17322,7 @@
         "Id": "452d9596-c335-4555-8c81-de81849f798d"
       },
       {
-        "MetadataId": "ee15a8ac-259e-43e1-a829-63febe277440",
+        "MetadataId": "3795b8e1-e59f-44f7-a20e-e6906e003a4c",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Button/Checkbox",
         "Description": "",
@@ -17348,7 +17348,7 @@
         "Id": "60bc3cd8-a33e-4d68-a42e-f802917d089f"
       },
       {
-        "MetadataId": "a1bd6ae7-8c15-46eb-9258-ceddf3745499",
+        "MetadataId": "2b952603-51ae-4d2b-b4d2-8a8f9970190d",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -17361,7 +17361,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "73dc445e-fda7-4928-91a8-8515375568f2",
+        "MetadataId": "ff3777f4-11e7-4a38-9020-5b94aa5fed7f",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -17374,7 +17374,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "6881a35f-1ffd-42be-b918-829dfc3979b5",
+        "MetadataId": "fc1dab96-fd54-4b09-9038-7f2f86cf61d5",
         "ParentId": "2385443e-8994-4226-8b1c-340e6f3d308b",
         "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
         "Description": "",
@@ -17400,7 +17400,7 @@
         "Id": "838d2441-5d5a-472e-8f58-228adc2c0bda"
       },
       {
-        "MetadataId": "39c84e4e-1b15-4c41-9720-1f567722b4e6",
+        "MetadataId": "363be25a-9eea-4a03-96c6-9ab89a4f70bf",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -17530,7 +17530,7 @@
         "Id": "bafb5eb2-44a6-48ba-a76c-4cb900cb2f78"
       },
       {
-        "MetadataId": "3644221c-6292-42e5-9f90-b0d9ec2613ff",
+        "MetadataId": "55fbac1d-82eb-42b7-afe0-11a07ef687eb",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -17569,7 +17569,7 @@
         "Id": "ddae837b-2434-42cc-9581-f0ad353a6946"
       },
       {
-        "MetadataId": "308a514b-9afd-4993-8aa7-426434588e88",
+        "MetadataId": "65223e55-c9c3-443d-85da-fbc5deb3fede",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -17743,11 +17743,18 @@
         "Id": "216535ae-64c6-4892-b6e7-1ecc4226db95"
       },
       {
-        "Title": "D365 FO Framework",
+        "Title": "Advanced Order Management",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "308a514b-9afd-4993-8aa7-426434588e88"
+        "Id": "2b952603-51ae-4d2b-b4d2-8a8f9970190d"
+      },
+      {
+        "Title": "Order completion",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2dd3997c-1c4f-4c3d-8c94-bf314591b8e6"
       },
       {
         "Title": "Click Option Under AppToolBar Tab",
@@ -17757,18 +17764,18 @@
         "Id": "3299644e-d11d-4148-82ca-f6bae06d60a6"
       },
       {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3644221c-6292-42e5-9f90-b0d9ec2613ff"
-      },
-      {
         "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "39c84e4e-1b15-4c41-9720-1f567722b4e6"
+        "Id": "363be25a-9eea-4a03-96c6-9ab89a4f70bf"
+      },
+      {
+        "Title": "Button/Checkbox",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "3795b8e1-e59f-44f7-a20e-e6906e003a4c"
       },
       {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
@@ -17778,18 +17785,18 @@
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
       },
       {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "45e41dcb-2987-46b0-9ef6-88a2d11595d6"
-      },
-      {
         "Title": "toggle-box <span> - Copy (1)",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "49050cf0-6428-4ecb-9d06-2cf316719b96"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "55fbac1d-82eb-42b7-afe0-11a07ef687eb"
       },
       {
         "Title": "Activate pending price(s) <button>",
@@ -17813,11 +17820,11 @@
         "Id": "5dd60fb0-3419-405a-b941-972eab7be599"
       },
       {
-        "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
+        "Title": "D365 FO Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "6881a35f-1ffd-42be-b918-829dfc3979b5"
+        "Id": "65223e55-c9c3-443d-85da-fbc5deb3fede"
       },
       {
         "Title": "Wait Until Req Processing Msg Disappear",
@@ -17827,11 +17834,11 @@
         "Id": "6be2d6e1-1424-4d83-accc-7737a10f8eab"
       },
       {
-        "Title": "Reusable Subflows",
+        "Title": "Application Processing",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "73dc445e-fda7-4928-91a8-8515375568f2"
+        "Id": "6c2329bf-14dd-4418-ba3f-62081bf21909"
       },
       {
         "Title": "<button>",
@@ -17841,11 +17848,11 @@
         "Id": "771d6383-f411-429d-91aa-abfc2f93968d"
       },
       {
-        "Title": "App Bar",
+        "Title": "Action Utilites",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "819de8aa-7658-4c86-9eab-828c5905f551"
+        "Id": "8d8f03b9-76c2-4d1b-b4d9-1a8bf5ef3e19"
       },
       {
         "Title": "Advanced filter or sort <span>",
@@ -17869,18 +17876,11 @@
         "Id": "9f5f9d3a-9408-4e30-a18c-4b03c055ded8"
       },
       {
-        "Title": "Advanced Order Management",
+        "Title": "App Bar",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "a1bd6ae7-8c15-46eb-9258-ceddf3745499"
-      },
-      {
-        "Title": "Order completion",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "a28320d0-fe43-4304-96d9-2fa5d1d19417"
+        "Id": "a94d5066-781c-4cfe-af5d-68f955a3ec1a"
       },
       {
         "Title": "Find_Button",
@@ -17897,13 +17897,6 @@
         "Id": "e859bda4-0fa9-4662-93e2-466e98fa37a2"
       },
       {
-        "Title": "Button/Checkbox",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "ee15a8ac-259e-43e1-a829-63febe277440"
-      },
-      {
         "Title": "appBar-pin Pin-symbol <button>",
         "Description": "",
         "Type": "WebElement",
@@ -17911,11 +17904,18 @@
         "Id": "f3ebc76e-e0ef-4283-bf6e-72973272221f"
       },
       {
-        "Title": "Action Utilites",
+        "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "f59c4bca-1362-444a-a3bb-b433fe49063a"
+        "Id": "fc1dab96-fd54-4b09-9038-7f2f86cf61d5"
+      },
+      {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "ff3777f4-11e7-4a38-9020-5b94aa5fed7f"
       }
     ],
     "UsedTypes": [
@@ -18218,7 +18218,7 @@
       {
         "Uri": "https://ascmpreviewtst01.operations.eu.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "51d020e9-32df-4541-9f96-47213fc217b4",
+        "StrategyListSource": "75bf314e-2476-465d-9b31-bf757522d348",
         "HasImage": "False",
         "RawId": "07d30c57-ddef-4b73-ae36-50ebd413c85d",
         "SelectedStrategyId": "a31055fd-0706-4556-ba95-390d1a4d5d2e",
@@ -18234,7 +18234,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "fd0b19d1-4727-43e6-af97-5717d6464cf5",
+        "StrategyListSource": "8f3eed1a-ec0d-451f-bc75-c69079212850",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -18250,7 +18250,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankAccountTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "3030cba3-23dd-45a7-b9c4-4b762f316cb4",
+        "StrategyListSource": "f0809f36-ee22-4063-85ec-f5f06977f1b6",
         "HasImage": "False",
         "RawId": "3d1056ec-2265-4c94-baad-8274e799d57a",
         "SelectedStrategyId": "28182a19-f03d-4107-8e2f-35cded513a1e",
@@ -18266,7 +18266,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cebc69b7-2068-415c-8a6e-fa02b1adaa2f",
+        "StrategyListSource": "01814a5d-b959-4a74-bbe7-d05c8515022b",
         "HasImage": "False",
         "RawId": "82dd4278-0d42-4e04-82b1-7c7a13ddb84c",
         "SelectedStrategyId": "60ddf104-1df7-4df8-b195-8b0241e74aae",
@@ -18282,7 +18282,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankAccountTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "7f04c395-a6be-40f9-bb61-9b0717b7d1e0",
+        "StrategyListSource": "ee87df51-e44b-4de5-880c-db894357aabb",
         "HasImage": "False",
         "RawId": "3d1056ec-2265-4c94-baad-8274e799d57a",
         "SelectedStrategyId": "cb615d8a-1d24-4992-bc82-8f2402d45069",
@@ -18298,7 +18298,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "86cd1d8c-4d6e-4cea-b8dd-2d6851dd2ba4",
+        "StrategyListSource": "d5a3dc49-a6ad-4db2-a6fd-ea2427933234",
         "HasImage": "False",
         "RawId": "fac888bf-fe31-4def-82f6-8728e88bb4d0",
         "SelectedStrategyId": "7c02a594-02c0-4f2d-8228-c407d0fe5012",
@@ -18314,7 +18314,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=SalesQuotationListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "2a745d93-0716-45de-95c5-3d0ac530000e",
+        "StrategyListSource": "f24fe4cc-87d3-45ac-82ec-e0cd21ad61da",
         "HasImage": "False",
         "RawId": "a79ed72a-3e65-411d-94c0-7ab9a3bf5c46",
         "SelectedStrategyId": "0f5e0a5c-01d7-4013-b2a6-987cbc68fe53",
@@ -18330,7 +18330,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "97c4272f-c5bd-4e2f-a08d-f74354a33917",
+        "StrategyListSource": "d985a7e3-2016-4fea-991b-c1e87b4cb64c",
         "HasImage": "False",
         "RawId": "688a067b-124d-4733-97a3-fe98fcbd0fd4",
         "SelectedStrategyId": "fb0aa2e0-f2fd-44bc-8865-5fbe30516e86",
@@ -18346,7 +18346,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=LedgerJournalTable4",
         "Fields": "",
-        "StrategyListSource": "a69d6b76-e8f8-4be4-b3ed-3e8845141aa2",
+        "StrategyListSource": "93745307-807f-4135-90a6-f9842f610257",
         "HasImage": "False",
         "RawId": "43b45da7-9b6d-4de6-aa2a-eb0ea15fda09",
         "SelectedStrategyId": "79773561-dc6c-4788-a1b9-031024d39d8e",
@@ -18362,7 +18362,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "b0614ac8-9f3d-4929-962f-4ea474cc211f",
+        "StrategyListSource": "69dabcec-6060-4a2c-9b09-bc15b913d7ee",
         "HasImage": "False",
         "RawId": "c0c5c002-b78e-4d24-b311-3c75ca9d23b8",
         "SelectedStrategyId": "aa6d51a3-016f-45a2-868b-23b97e43f943",
@@ -18378,7 +18378,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=VendTableListPage",
         "Fields": "",
-        "StrategyListSource": "c9be32e6-c60e-458e-b3f3-5b6aaf50e3bb",
+        "StrategyListSource": "8d264e0e-dc1a-4603-83ac-60e28e63706a",
         "HasImage": "False",
         "RawId": "bbed919e-d309-4414-afe7-e081a972d309",
         "SelectedStrategyId": "7e549f9b-e9ef-4b29-ac3d-d2090d8abcf6",

@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:11:04 AM +00:00",
-      "DateModify": "9/30/2026 8:11:04 AM +00:00",
+      "DateCreation": "9/30/2026 11:50:29 AM +00:00",
+      "DateModify": "9/30/2026 11:50:29 AM +00:00",
       "Title": "Handle Toolbar actions",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -5609,7 +5609,7 @@
         "Id": "0ac41a39-80b1-4af3-bb68-84ee9e670be3"
       },
       {
-        "MetadataId": "ee9c48f6-dd65-4209-b4de-1a92df253ced",
+        "MetadataId": "5a422cdd-513e-4262-bb5c-763ea35985ff",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -5687,7 +5687,7 @@
         "Id": "6752cb54-fae8-4c81-a1cf-f56717ecb93e"
       },
       {
-        "MetadataId": "aeeba5dd-ffc9-4ef3-be48-ec816b788992",
+        "MetadataId": "bf151562-26ba-45cf-bd18-e983ca910d33",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -5700,7 +5700,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "2d843cec-2fdc-49d1-9bb1-8e703e78b5f6",
+        "MetadataId": "056bf610-cb36-4186-a8ec-6b58abe6f159",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -5726,7 +5726,7 @@
         "Id": "a8fb3a0a-760a-408b-a50d-a7fad32e90c0"
       },
       {
-        "MetadataId": "e4fae72c-3ec5-4cc7-b70f-35031c8a6ce3",
+        "MetadataId": "3f0d26a6-c6f1-427c-91a7-577d4df92823",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Tool Bar/Tabs",
         "Description": "",
@@ -5739,7 +5739,7 @@
         "Id": "d839aa56-ee04-4458-b242-11fa4af890d5"
       },
       {
-        "MetadataId": "6aef23a4-fbb2-4081-ac09-91004665b52d",
+        "MetadataId": "3127a39f-0adf-48ff-be1f-8655434109ed",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -5819,7 +5819,14 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "2d843cec-2fdc-49d1-9bb1-8e703e78b5f6"
+        "Id": "056bf610-cb36-4186-a8ec-6b58abe6f159"
+      },
+      {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "3127a39f-0adf-48ff-be1f-8655434109ed"
       },
       {
         "Title": "Posted VAT <button> 1",
@@ -5836,6 +5843,13 @@
         "Id": "3ed31148-17d3-4bdf-a988-365c81cd8689"
       },
       {
+        "Title": "Tool Bar/Tabs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "3f0d26a6-c6f1-427c-91a7-577d4df92823"
+      },
+      {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy",
         "Description": "",
         "Type": "WebElement",
@@ -5843,11 +5857,11 @@
         "Id": "42265a15-f7e2-4103-b994-027bdd5fbdf7"
       },
       {
-        "Title": "D365 FO Framework",
+        "Title": "Action Utilites",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "6aef23a4-fbb2-4081-ac09-91004665b52d"
+        "Id": "5a422cdd-513e-4262-bb5c-763ea35985ff"
       },
       {
         "Title": "Please wait. We're processing your request. <div> - Copy (1) - Copy (3) - Copy (1)",
@@ -5855,13 +5869,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "7ef96e58-58dc-4d2e-878f-b297cb727aa7"
-      },
-      {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "aeeba5dd-ffc9-4ef3-be48-ec816b788992"
       },
       {
         "Title": "Warehouse <span>",
@@ -5878,25 +5885,18 @@
         "Id": "b5314413-394e-4a82-901f-d2931ba9a2b8"
       },
       {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "bf151562-26ba-45cf-bd18-e983ca910d33"
+      },
+      {
         "Title": "Handle Toolbar actions",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "cf234af1-f606-4df8-a4c8-c6ed73b59fce"
-      },
-      {
-        "Title": "Tool Bar/Tabs",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e4fae72c-3ec5-4cc7-b70f-35031c8a6ce3"
-      },
-      {
-        "Title": "Action Utilites",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "ee9c48f6-dd65-4209-b4de-1a92df253ced"
       }
     ],
     "UsedTypes": [
@@ -6169,7 +6169,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchTableListPage",
         "Fields": "",
-        "StrategyListSource": "50d67557-a5a5-4eef-9e97-d6848c9fbd96",
+        "StrategyListSource": "5997fdbc-54fb-40f8-899f-1602e662d86b",
         "HasImage": "False",
         "RawId": "ec9b0bd1-09aa-407d-85f1-e5b0455119bd",
         "SelectedStrategyId": "552fc467-e5ec-4554-8c86-5fcaeaf5af50",
@@ -6185,7 +6185,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=VendInvoiceJournal",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "98f4b7d5-ee01-4781-a45c-9c8d6705dbf6",
+        "StrategyListSource": "e38f21ae-4015-4694-b70b-e24dc5e27593",
         "HasImage": "False",
         "RawId": "98e9bf03-984f-4c08-a2a8-b9fefee22a88",
         "SelectedStrategyId": "8fdc99c9-ee1d-4541-abbc-fbd3a51fcba3",
@@ -6201,7 +6201,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=InventTransferOrder",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a2278450-4898-459e-917e-70dc1520de3c",
+        "StrategyListSource": "0af3426e-6f50-4f8b-a909-7316c0b2ad4a",
         "HasImage": "False",
         "RawId": "e73c3c27-6d58-464d-b6da-226a9b4b0df7",
         "SelectedStrategyId": "603676e4-8b17-4379-93db-7ce60c2706ac",
@@ -6217,7 +6217,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "bb2fb5c8-e40e-426f-b760-81f3a6715813",
+        "StrategyListSource": "779af081-92ca-4de9-ac02-9a2c846d1adf",
         "HasImage": "False",
         "RawId": "89ffa500-7708-44be-9e3c-c7c258bb5e71",
         "SelectedStrategyId": "b2a3f0fb-e707-430e-a4a4-b1e5ca72e1a0",
@@ -6233,7 +6233,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "d80fd155-cfc8-4cf0-8b86-fde5ef5b441b",
+        "StrategyListSource": "0c58a139-dc63-481c-80eb-9c3905018ea0",
         "HasImage": "False",
         "RawId": "89ffa500-7708-44be-9e3c-c7c258bb5e71",
         "SelectedStrategyId": "e16520b2-3e29-424b-bd01-63c6a52e24e5",
@@ -6249,7 +6249,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "0829aca1-7c17-4160-95c1-56bf4bf281ff",
+        "StrategyListSource": "eacdc5bc-6981-4000-ac15-66856c217b2b",
         "HasImage": "False",
         "RawId": "6c57bc2d-9c16-4d9a-a13a-334d6db897c5",
         "SelectedStrategyId": "f25c3dbf-24d0-43e1-b0ab-bb001f9cea99",
@@ -6265,7 +6265,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=PurchTableListPage",
         "Fields": "",
-        "StrategyListSource": "eb8fc1dc-8dd5-4e6b-9f3e-8e1cbb880156",
+        "StrategyListSource": "d0692df2-4a88-4c59-815f-743eb4250961",
         "HasImage": "False",
         "RawId": "4c82a488-ff78-4e07-a63d-d73e4949379b",
         "SelectedStrategyId": "b5080c90-31b5-423a-916f-843871ebf98a",
