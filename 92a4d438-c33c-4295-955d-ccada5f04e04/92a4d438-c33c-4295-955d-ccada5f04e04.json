@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:20 AM +00:00",
-      "DateModify": "9/30/2026 8:10:20 AM +00:00",
+      "DateCreation": "9/30/2026 11:49:50 AM +00:00",
+      "DateModify": "9/30/2026 11:49:50 AM +00:00",
       "Title": "Check Option Under AppToolBar Tab(level 3)) is visible/enabled",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1504,7 +1504,7 @@
         "Id": "207518a0-ca58-4908-9ed9-1d8f1b0fcb0b"
       },
       {
-        "MetadataId": "76f2a801-2691-4d3b-8f82-0491ad8d9127",
+        "MetadataId": "996cbbc9-49ad-4c9b-b484-8d99b8509df3",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -1517,7 +1517,7 @@
         "Id": "42f1a24b-4ce5-4fad-9bac-06250e601b4f"
       },
       {
-        "MetadataId": "2f69ea1a-9ecd-4243-bfcd-c63be0adfa29",
+        "MetadataId": "e7e531b4-1a7d-4b3c-91a2-1876fbe302cc",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -1543,7 +1543,7 @@
         "Id": "e775b8ea-131d-4654-a6ad-b84d7dc101a1"
       },
       {
-        "MetadataId": "202e4e21-f31f-46bc-bbd4-baefc3d24535",
+        "MetadataId": "54d5f5df-1eb6-4049-8b1e-cdd3bcfa9453",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -1584,21 +1584,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "202e4e21-f31f-46bc-bbd4-baefc3d24535"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "2f69ea1a-9ecd-4243-bfcd-c63be0adfa29"
-      },
-      {
-        "Title": "New functionalities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "76f2a801-2691-4d3b-8f82-0491ad8d9127"
+        "Id": "54d5f5df-1eb6-4049-8b1e-cdd3bcfa9453"
       },
       {
         "Title": "Check Option Under AppToolBar Tab(level 3)) is visible/enabled",
@@ -1613,6 +1599,20 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "92918363-d975-4945-a893-71fd067c9c69"
+      },
+      {
+        "Title": "New functionalities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "996cbbc9-49ad-4c9b-b484-8d99b8509df3"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e7e531b4-1a7d-4b3c-91a2-1876fbe302cc"
       }
     ],
     "UsedTypes": [
@@ -1879,7 +1879,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cb2d3f3d-85b9-4b9c-813e-a4a41c1471da",
+        "StrategyListSource": "a4400328-92c5-4c32-ae44-412da11f34b4",
         "HasImage": "False",
         "RawId": "688a067b-124d-4733-97a3-fe98fcbd0fd4",
         "SelectedStrategyId": "701a80d0-dca7-42fa-9832-d547c916e480",
