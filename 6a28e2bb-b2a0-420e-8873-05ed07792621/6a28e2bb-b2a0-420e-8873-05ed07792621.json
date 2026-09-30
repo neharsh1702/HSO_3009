@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:03:44 AM +00:00",
-      "DateModify": "9/30/2026 8:03:44 AM +00:00",
+      "DateCreation": "9/30/2026 11:48:57 AM +00:00",
+      "DateModify": "9/30/2026 11:48:57 AM +00:00",
       "Title": "Enter Value Into Row",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2260,7 +2260,7 @@
         "Id": "66e0782a-8721-477a-bd0f-5ee2f461d2d3"
       },
       {
-        "MetadataId": "5fed2d33-0d0f-48b7-bf92-f69b3aa63beb",
+        "MetadataId": "c89ffbe7-ecfd-4265-96b0-d1bcc21e6179",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -2273,7 +2273,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "5f05be22-ce6f-4bc8-a5ca-7e151f0f58d1",
+        "MetadataId": "6baa99c8-d214-4c8a-bccb-060919f1819b",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order costs",
         "Description": "",
@@ -2286,7 +2286,7 @@
         "Id": "90d54c32-87e2-4cce-835c-9b0e9066b821"
       },
       {
-        "MetadataId": "0484f32a-31eb-49d9-86b3-7e66ec9d40e1",
+        "MetadataId": "ec578d33-6567-461b-b294-d35d36d2c3cc",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -2299,7 +2299,7 @@
         "Id": "d2294ba9-4083-4b5a-9df7-321429105448"
       },
       {
-        "MetadataId": "86a54bd8-e07e-44aa-bed9-f9707c4b068d",
+        "MetadataId": "7f4df808-a2e8-4950-b52f-d150b4d3f65c",
         "ParentId": "90d54c32-87e2-4cce-835c-9b0e9066b821",
         "Title": "Prerequisites 1(Order Cost Creating two items)",
         "Description": "",
@@ -2347,27 +2347,6 @@
         "Id": "007dc883-5086-4a2e-a41b-3bed255f0e46"
       },
       {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "0484f32a-31eb-49d9-86b3-7e66ec9d40e1"
-      },
-      {
-        "Title": "Order costs",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5f05be22-ce6f-4bc8-a5ca-7e151f0f58d1"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "5fed2d33-0d0f-48b7-bf92-f69b3aa63beb"
-      },
-      {
         "Title": "Credit <input> - Copy",
         "Description": "",
         "Type": "WebElement",
@@ -2375,11 +2354,32 @@
         "Id": "64466e0e-ab2a-413e-b3b9-29d58d77c372"
       },
       {
+        "Title": "Order costs",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "6baa99c8-d214-4c8a-bccb-060919f1819b"
+      },
+      {
         "Title": "Prerequisites 1(Order Cost Creating two items)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "86a54bd8-e07e-44aa-bed9-f9707c4b068d"
+        "Id": "7f4df808-a2e8-4950-b52f-d150b4d3f65c"
+      },
+      {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "c89ffbe7-ecfd-4265-96b0-d1bcc21e6179"
+      },
+      {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "ec578d33-6567-461b-b294-d35d36d2c3cc"
       }
     ],
     "UsedTypes": [
@@ -2632,7 +2632,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "2e627d76-7586-4b95-881e-17b449785397",
+        "StrategyListSource": "5a0622fe-f8f4-4cf8-af87-d16dd4142af6",
         "HasImage": "False",
         "RawId": "8c2697c4-3ed1-4da7-a1ca-6dcf1eb320f8",
         "SelectedStrategyId": "d29b1aff-c8b5-4162-9c15-996be1f785f0",
