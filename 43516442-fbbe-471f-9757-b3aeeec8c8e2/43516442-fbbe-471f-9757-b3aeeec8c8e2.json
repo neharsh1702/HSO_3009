@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:10:01 AM +00:00",
-      "DateModify": "9/30/2026 8:10:01 AM +00:00",
+      "DateCreation": "9/30/2026 11:49:37 AM +00:00",
+      "DateModify": "9/30/2026 11:49:37 AM +00:00",
       "Title": "Quick Filter Imported",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -2717,7 +2717,7 @@
         "Id": "6c73551c-f498-41fa-bfdc-3e7ffe7582ae"
       },
       {
-        "MetadataId": "9626ebf1-07ab-4e3e-96f8-1e05ed827015",
+        "MetadataId": "f66c9c86-a101-4870-b0b1-12c26414ee80",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -2730,7 +2730,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "f9d4fe4e-9082-40a6-b6a6-783456d8675a",
+        "MetadataId": "af9c54fd-4e11-4a8b-aa90-35880a3a420c",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "New Folder",
         "Description": "",
@@ -2812,18 +2812,18 @@
         "Id": "82289ecf-7823-4602-8975-11721d6d6e7c"
       },
       {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "9626ebf1-07ab-4e3e-96f8-1e05ed827015"
-      },
-      {
         "Title": "New Folder",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "f9d4fe4e-9082-40a6-b6a6-783456d8675a"
+        "Id": "af9c54fd-4e11-4a8b-aa90-35880a3a420c"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "f66c9c86-a101-4870-b0b1-12c26414ee80"
       }
     ],
     "UsedTypes": [
@@ -3084,7 +3084,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=LedgerCalendars",
         "Fields": "",
-        "StrategyListSource": "6c21995b-8d46-4b4d-94d2-83961d6dac44",
+        "StrategyListSource": "7c3be495-1e40-4dd1-bf67-cf77ae68d299",
         "HasImage": "False",
         "RawId": "edbbd0c2-75da-4b1c-a807-a3a954143e01",
         "SelectedStrategyId": "29b08ebf-484b-478f-9c76-0fae41f49243",
@@ -3100,7 +3100,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=tb_3&mi=OMLegalEntities",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "4afacc43-5359-4f1b-b586-3bc3032d3286",
+        "StrategyListSource": "59107295-cd7f-4de1-9d4f-c81cb006b863",
         "HasImage": "False",
         "RawId": "d28901f4-12a4-41b9-b740-6608bd22233a",
         "SelectedStrategyId": "4d074a0a-9f67-40f2-b5c2-a8f01346ae25",
@@ -3116,7 +3116,7 @@
       {
         "Uri": "",
         "Fields": "",
-        "StrategyListSource": "009d5aa4-bfca-44e0-b07b-fcc32ab2bb0c",
+        "StrategyListSource": "271dc374-d36d-4b46-a979-967e97b67925",
         "HasImage": "False",
         "RawId": "c77139b6-383b-4292-aede-b5dda43f0745",
         "SelectedStrategyId": "f0d97050-ad04-4431-bfe0-9400d1e505cd",

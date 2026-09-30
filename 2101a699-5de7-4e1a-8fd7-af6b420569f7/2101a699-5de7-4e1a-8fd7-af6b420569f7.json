@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:09:49 AM +00:00",
-      "DateModify": "9/30/2026 8:09:49 AM +00:00",
+      "DateCreation": "9/30/2026 11:49:35 AM +00:00",
+      "DateModify": "9/30/2026 11:49:35 AM +00:00",
       "Title": "Handling dialog forms",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -543,7 +543,7 @@
         "Id": "13bd0aad-82c8-42ae-b4a4-9777c86873c1"
       },
       {
-        "MetadataId": "b69dec6a-5c24-4bed-a4ea-f4b9978016cd",
+        "MetadataId": "9b66425b-a91d-4b89-8e8a-f1ba3a48192f",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Reviewed subflow",
         "Description": "",
@@ -556,7 +556,7 @@
         "Id": "636a2b41-9309-4e6f-9689-b16512df7190"
       },
       {
-        "MetadataId": "a6949715-c02f-4ce2-a369-547b1b230e65",
+        "MetadataId": "a7b9181b-c381-452f-b24d-aeeac5ce1e52",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -569,7 +569,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "7782aac8-0672-4bb2-95ea-b40b451aa515",
+        "MetadataId": "dd0d329b-a01c-42ee-b66c-771149dd2c97",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -626,25 +626,25 @@
         "Id": "208ab80b-8f99-4a14-b5ed-1f5ad4fc5e9c"
       },
       {
-        "Title": "Standard Test Cases",
+        "Title": "Reviewed subflow",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "7782aac8-0672-4bb2-95ea-b40b451aa515"
+        "Id": "9b66425b-a91d-4b89-8e8a-f1ba3a48192f"
       },
       {
         "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "a6949715-c02f-4ce2-a369-547b1b230e65"
+        "Id": "a7b9181b-c381-452f-b24d-aeeac5ce1e52"
       },
       {
-        "Title": "Reviewed subflow",
+        "Title": "Standard Test Cases",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "b69dec6a-5c24-4bed-a4ea-f4b9978016cd"
+        "Id": "dd0d329b-a01c-42ee-b66c-771149dd2c97"
       },
       {
         "Title": "Handling dialog forms",
@@ -904,7 +904,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=PurchTableListPage",
         "Fields": "",
-        "StrategyListSource": "06a4ff7b-21f8-4d07-b335-b786ca227139",
+        "StrategyListSource": "2b35fb9b-7428-4ced-a4a4-85d19257368b",
         "HasImage": "False",
         "RawId": "c0d9b41a-db97-4170-94b5-b95778b995d8",
         "SelectedStrategyId": "ae64563b-e314-4b6d-86bb-097adc48a69d",
