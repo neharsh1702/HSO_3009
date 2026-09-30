@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/30/2026 7:11:02 AM +00:00",
-      "DateModify": "9/30/2026 7:11:02 AM +00:00",
+      "DateCreation": "9/30/2026 10:53:25 AM +00:00",
+      "DateModify": "9/30/2026 10:53:25 AM +00:00",
       "Title": "Create a sales order with packaging item for customer X with packaging balance 0. Add a regular item and a packaging item (EURPAL-003) (quantity 2) to the sales order. Post the packing slip for this sales order(Balance Check)",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -132765,7 +132765,7 @@
         "Id": "0d30ab22-6e7b-4614-be9e-d4976554a1aa"
       },
       {
-        "MetadataId": "ece16529-c2a6-411d-8401-4d3562bc3ac5",
+        "MetadataId": "4b056835-c9d2-47c6-8031-e9a97003e08c",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Action Utilites",
         "Description": "",
@@ -132791,7 +132791,7 @@
         "Id": "0fc14834-8b03-4b1f-8c9b-aae52b4a7fa7"
       },
       {
-        "MetadataId": "0ff30973-5222-4f79-9c6e-485016903904",
+        "MetadataId": "cbb2a7aa-02a4-475a-8fb2-cb79b5e4981b",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Application Processing",
         "Description": "",
@@ -132830,7 +132830,7 @@
         "Id": "11e144c1-3359-44b6-846b-a2540f4a12c6"
       },
       {
-        "MetadataId": "04266cae-df02-4daf-bade-ef0cbb682693",
+        "MetadataId": "2a8e181a-81a1-4dff-b043-4f7e28577285",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Navigation",
         "Description": "",
@@ -132895,7 +132895,7 @@
         "Id": "2111fe50-6550-4a91-8f7f-33ac006e7437"
       },
       {
-        "MetadataId": "593a6a4b-b38e-4c03-88f2-3e7abc20142e",
+        "MetadataId": "2add95af-4126-424f-9c1f-55a16a2701cd",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Order completion",
         "Description": "",
@@ -132921,7 +132921,7 @@
         "Id": "24d2011d-cd9b-4141-ae66-d8e9da243fe3"
       },
       {
-        "MetadataId": "c221f9a9-61bc-4406-a9a3-d2bb4210f7c1",
+        "MetadataId": "7a196d2a-9111-4254-82ed-6871d64c336a",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "App Bar",
         "Description": "",
@@ -132934,7 +132934,7 @@
         "Id": "28a5d534-dd4b-4b17-ad8e-4adc1c0ca8e7"
       },
       {
-        "MetadataId": "b679b8f1-c9f1-4e8c-a785-18ec751ba37d",
+        "MetadataId": "fdae45f7-79ee-4b8e-8f2a-0f21b06e8e6f",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Text",
         "Description": "",
@@ -132960,7 +132960,7 @@
         "Id": "3ec3d1a8-15f6-469d-8002-981d4f779fb1"
       },
       {
-        "MetadataId": "0c04340e-0d36-460a-86f2-11b5515438a0",
+        "MetadataId": "48371601-f6f1-454f-9641-78a9cc3f3345",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "ComboBox",
         "Description": "",
@@ -132973,7 +132973,7 @@
         "Id": "42a9f89c-72d8-411d-8f52-50206069f5cc"
       },
       {
-        "MetadataId": "b9abb301-63f9-42cf-a45c-80d4c2e28fb3",
+        "MetadataId": "4fc23dca-838e-45c3-b8f1-fa93b97c376f",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "New functionalities",
         "Description": "",
@@ -133038,7 +133038,7 @@
         "Id": "4a8fc489-2a4d-4424-a964-ec6ced2bc6d8"
       },
       {
-        "MetadataId": "e47abc09-3971-4ece-b1df-bd00f507b626",
+        "MetadataId": "bdb6b08c-9b8c-4234-bb74-b9f8e9e4564a",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Packaging",
         "Description": "",
@@ -133090,7 +133090,7 @@
         "Id": "5f0114c1-0138-42b3-b80e-d71c4c7d661a"
       },
       {
-        "MetadataId": "c66c9bb8-17f9-4267-a7f1-a30eaec3562e",
+        "MetadataId": "58358b2e-d16e-4f7e-b8f3-868c198d7ef5",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Button/Checkbox",
         "Description": "",
@@ -133116,7 +133116,7 @@
         "Id": "60bc3cd8-a33e-4d68-a42e-f802917d089f"
       },
       {
-        "MetadataId": "7a7110ec-c2a8-4e23-bf07-72004ea87fdc",
+        "MetadataId": "9f4e4dd2-8d59-4770-afea-07f1404ac315",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Reviewed subflow",
         "Description": "",
@@ -133207,7 +133207,7 @@
         "Id": "72ad9c85-b5dd-439c-9e92-565f4e346b26"
       },
       {
-        "MetadataId": "dc2c3233-9f0e-4101-9e40-d284b9721a76",
+        "MetadataId": "687fcfde-7369-4ca6-96f5-4bece7267acb",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "TextBoxes",
         "Description": "",
@@ -133220,7 +133220,7 @@
         "Id": "78584042-0d3d-49ab-be64-2427b1ec0c14"
       },
       {
-        "MetadataId": "8bf24d0a-a680-4771-af18-ccb0c423cc49",
+        "MetadataId": "220f8f0b-346c-4d63-acab-9a44b5f5ca28",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Common Utilities",
         "Description": "",
@@ -133259,7 +133259,7 @@
         "Id": "7b028d6d-8b47-4605-a19c-f4ac56d90284"
       },
       {
-        "MetadataId": "b4e426b5-096e-4ad8-9617-1dc4f8916c5d",
+        "MetadataId": "fa34d04a-573a-4c14-a073-1665da4faf6c",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -133272,7 +133272,7 @@
         "Id": "7d4cee53-7605-4516-9310-c9daf22211e6"
       },
       {
-        "MetadataId": "7abe36b8-46f8-46ca-aee5-e1482f606e57",
+        "MetadataId": "2c2b2f2e-1030-4568-8a37-18acbc9c7c13",
         "ParentId": "f0b59641-21bb-4206-b054-a9a6443573c7",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -133285,7 +133285,7 @@
         "Id": "7e39e11a-855e-4a5f-8477-791e602f70bf"
       },
       {
-        "MetadataId": "04d9c4e0-668c-4c77-9ae6-434106483e42",
+        "MetadataId": "3f3d9902-3606-4c3e-b06d-500ac5ba8f2b",
         "ParentId": "2385443e-8994-4226-8b1c-340e6f3d308b",
         "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
         "Description": "",
@@ -133324,7 +133324,7 @@
         "Id": "877febf7-eef7-4e3e-b9c0-0c035f3719ef"
       },
       {
-        "MetadataId": "1396b35b-9312-4370-8502-6dbd919ae12f",
+        "MetadataId": "ed43f4ab-bc7f-460d-aff5-a9fa1f5568fc",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -133493,7 +133493,7 @@
         "Id": "a1eacd78-d312-4863-a62f-9807cbd36635"
       },
       {
-        "MetadataId": "1d9ce817-5de8-4f4a-acee-d061fa78b602",
+        "MetadataId": "5be4dac2-674e-44ca-8a3f-9c339bb041bd",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "New Folder",
         "Description": "",
@@ -133506,7 +133506,7 @@
         "Id": "a28853e7-5a18-459a-be40-64bd1390e696"
       },
       {
-        "MetadataId": "92068f68-59b0-4352-b378-7560b159d651",
+        "MetadataId": "699a9645-5d01-462a-acea-7b17fd34e61c",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -133545,7 +133545,7 @@
         "Id": "a83db4c7-a401-4cb9-ab8f-217d983df17f"
       },
       {
-        "MetadataId": "76a1e71c-8787-4898-b98c-a43a7b61691e",
+        "MetadataId": "41b4d03c-ca30-4f05-93c7-5ef750a35999",
         "ParentId": "7e39e11a-855e-4a5f-8477-791e602f70bf",
         "Title": "Validation Utilities",
         "Description": "",
@@ -133714,7 +133714,7 @@
         "Id": "bb62ec8b-0901-4831-a025-1176d00c82e0"
       },
       {
-        "MetadataId": "cbe481e2-3e51-4920-ad27-86cbf20c6427",
+        "MetadataId": "114d15f5-9ccc-43d6-909a-52d8e1241936",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Table",
         "Description": "",
@@ -133727,7 +133727,7 @@
         "Id": "bfb33d7b-cfaf-4897-851e-864f7f3be7f3"
       },
       {
-        "MetadataId": "e2bc9314-bc60-431b-a6e1-f120abc93b28",
+        "MetadataId": "dfa880f8-1768-4945-9450-aa882b6ecd90",
         "ParentId": "0f676f72-ef12-4349-9f1a-9d608a1bd93e",
         "Title": "Expand/Collapse",
         "Description": "",
@@ -133857,7 +133857,7 @@
         "Id": "d1494d85-ea75-4438-bf1a-33b07515ca0f"
       },
       {
-        "MetadataId": "af8072c0-ea1e-4340-a706-c774ebfcd965",
+        "MetadataId": "6fab2af2-86c3-4bb3-b113-b462d065dd7f",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -134026,7 +134026,7 @@
         "Id": "f0642590-392c-4de4-91dc-e86f1bef9228"
       },
       {
-        "MetadataId": "4c6b4cff-59c5-422c-bc27-cf1db8413605",
+        "MetadataId": "e389c588-0fc4-4562-956e-30929220a6f6",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "D365 FO Framework",
         "Description": "",
@@ -134678,20 +134678,6 @@
         "Id": "024f56a4-67fb-4e52-9e17-f394744839d5"
       },
       {
-        "Title": "Navigation",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "04266cae-df02-4daf-bade-ef0cbb682693"
-      },
-      {
-        "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "04d9c4e0-668c-4c77-9ae6-434106483e42"
-      },
-      {
         "Title": "Modules <div>",
         "Description": "",
         "Type": "WebElement",
@@ -134699,25 +134685,11 @@
         "Id": "0635ca0a-1bff-4534-9f3e-9d2130f5370c"
       },
       {
-        "Title": "ComboBox",
+        "Title": "Table",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "0c04340e-0d36-460a-86f2-11b5515438a0"
-      },
-      {
-        "Title": "Application Processing",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "0ff30973-5222-4f79-9c6e-485016903904"
-      },
-      {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "1396b35b-9312-4370-8502-6dbd919ae12f"
+        "Id": "114d15f5-9ccc-43d6-909a-52d8e1241936"
       },
       {
         "Title": "appBar-overflow overflow-button More-symbol <div>",
@@ -134755,13 +134727,6 @@
         "Id": "1c9e9145-5755-480d-9eaf-58ea1824c18b"
       },
       {
-        "Title": "New Folder",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "1d9ce817-5de8-4f4a-acee-d061fa78b602"
-      },
-      {
         "Title": "Activate pending price(s) <button>",
         "Description": "",
         "Type": "WebElement",
@@ -134783,6 +134748,13 @@
         "Id": "216535ae-64c6-4892-b6e7-1ecc4226db95"
       },
       {
+        "Title": "Common Utilities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "220f8f0b-346c-4d63-acab-9a44b5f5ca28"
+      },
+      {
         "Title": "appBar-overflow overflow-button More-symbol <div>",
         "Description": "",
         "Type": "WebElement",
@@ -134795,6 +134767,27 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "29af4156-4c06-4118-9b86-885599850872"
+      },
+      {
+        "Title": "Navigation",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2a8e181a-81a1-4dff-b043-4f7e28577285"
+      },
+      {
+        "Title": "Order completion",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2add95af-4126-424f-9c1f-55a16a2701cd"
+      },
+      {
+        "Title": "Reusable Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "2c2b2f2e-1030-4568-8a37-18acbc9c7c13"
       },
       {
         "Title": "Click Option Under AppToolBar Tab",
@@ -134825,6 +134818,20 @@
         "Id": "368adc50-4641-40fa-884b-61427e4fcaa7"
       },
       {
+        "Title": "Execute posting on the sales order header (confirmation, release to warehouse, packingslip, invoice)",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "3f3d9902-3606-4c3e-b06d-500ac5ba8f2b"
+      },
+      {
+        "Title": "Validation Utilities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "41b4d03c-ca30-4f05-93c7-5ef750a35999"
+      },
+      {
         "Title": "I can't use my Microsoft Authenticator app right n <a>",
         "Description": "",
         "Type": "WebElement",
@@ -134837,6 +134844,13 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "4448cc2f-9298-4682-ba36-247f9ad4b0e5"
+      },
+      {
+        "Title": "ComboBox",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "48371601-f6f1-454f-9641-78a9cc3f3345"
       },
       {
         "Title": "Sign out <span> - Copy (1)",
@@ -134853,18 +134867,18 @@
         "Id": "49050cf0-6428-4ecb-9d06-2cf316719b96"
       },
       {
+        "Title": "Action Utilites",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4b056835-c9d2-47c6-8031-e9a97003e08c"
+      },
+      {
         "Title": "Workspaces Vendor invoice entry Vendor invoice aut <div>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "4b221d04-f8bd-4210-941d-0692b5ca1901"
-      },
-      {
-        "Title": "D365 FO Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "4c6b4cff-59c5-422c-bc27-cf1db8413605"
       },
       {
         "Title": "ClickLink - Copy",
@@ -134879,6 +134893,13 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "4e74a70e-584c-4de0-a66e-1733fafe5fe2"
+      },
+      {
+        "Title": "New functionalities",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4fc23dca-838e-45c3-b8f1-fa93b97c376f"
       },
       {
         "Title": "submit <input> 2",
@@ -134902,6 +134923,13 @@
         "Id": "57b34b8b-fdbe-4ba9-80fd-59d373a51eb6"
       },
       {
+        "Title": "Button/Checkbox",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "58358b2e-d16e-4f7e-b8f3-868c198d7ef5"
+      },
+      {
         "Title": "Activate pending price(s) <button>",
         "Description": "",
         "Type": "WebElement",
@@ -134909,18 +134937,18 @@
         "Id": "591d8a90-a04a-4178-9254-f8fe00b88e9a"
       },
       {
-        "Title": "Order completion",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "593a6a4b-b38e-4c03-88f2-3e7abc20142e"
-      },
-      {
         "Title": "Expand Menu Item",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "5a10e190-bf27-420e-b15c-11e8f255c15c"
+      },
+      {
+        "Title": "New Folder",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "5be4dac2-674e-44ca-8a3f-9c339bb041bd"
       },
       {
         "Title": "toggle-box <span>",
@@ -134951,6 +134979,20 @@
         "Id": "61dd25dc-6604-4242-a123-ee79ae005d79"
       },
       {
+        "Title": "TextBoxes",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "687fcfde-7369-4ca6-96f5-4bece7267acb"
+      },
+      {
+        "Title": "Standard Test Cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "699a9645-5d01-462a-acea-7b17fd34e61c"
+      },
+      {
         "Title": "Create a sales order with packaging item for customer X with packaging balance 0. Add a regular item and a packaging item (EURPAL-003) (quantity 2) to the sales order. Post the packing slip for this sales order(Balance Check)",
         "Description": "",
         "Type": "Flow",
@@ -134979,6 +135021,13 @@
         "Id": "6c60a886-7201-4104-ae7f-02650672aaed"
       },
       {
+        "Title": "ST ASCM",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "6fab2af2-86c3-4bb3-b113-b462d065dd7f"
+      },
+      {
         "Title": "Update scheme <button>",
         "Description": "",
         "Type": "WebElement",
@@ -134991,13 +135040,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "738e021c-205e-41af-9958-79fe1f285274"
-      },
-      {
-        "Title": "Validation Utilities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "76a1e71c-8787-4898-b98c-a43a7b61691e"
       },
       {
         "Title": "Expand Section By Name",
@@ -135014,18 +135056,11 @@
         "Id": "771d6383-f411-429d-91aa-abfc2f93968d"
       },
       {
-        "Title": "Reviewed subflow",
+        "Title": "App Bar",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "7a7110ec-c2a8-4e23-bf07-72004ea87fdc"
-      },
-      {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "7abe36b8-46f8-46ca-aee5-e1482f606e57"
+        "Id": "7a196d2a-9111-4254-82ed-6871d64c336a"
       },
       {
         "Title": "Update scheme <button> - Copy",
@@ -135056,13 +135091,6 @@
         "Id": "898cf21e-eb2d-44bd-9576-848c312e4d15"
       },
       {
-        "Title": "Common Utilities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "8bf24d0a-a680-4771-af18-ccb0c423cc49"
-      },
-      {
         "Title": "button-commandRing PowerApps-symbol <span>",
         "Description": "",
         "Type": "WebElement",
@@ -135075,13 +135103,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "904ab3fb-8b60-4eef-a2e5-a25ef5d5238f"
-      },
-      {
-        "Title": "Standard Test Cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "92068f68-59b0-4352-b378-7560b159d651"
       },
       {
         "Title": "Service Account svc.dyn365fno.leap@leapwork.com Si <div>",
@@ -135124,6 +135145,13 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "9ec42494-0623-4264-947a-2d15d57c9f07"
+      },
+      {
+        "Title": "Reviewed subflow",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "9f4e4dd2-8d59-4770-afea-07f1404ac315"
       },
       {
         "Title": "Click Button Label",
@@ -135231,32 +135259,11 @@
         "Id": "af4a4f98-5c55-4aaa-af53-de4343f81651"
       },
       {
-        "Title": "ST ASCM",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "af8072c0-ea1e-4340-a706-c774ebfcd965"
-      },
-      {
-        "Title": "Advanced Order Management",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b4e426b5-096e-4ad8-9617-1dc4f8916c5d"
-      },
-      {
         "Title": "Launch & Login App_03 user",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "b529bdc9-2f26-44a0-a260-b226e51c8195"
-      },
-      {
-        "Title": "Text",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b679b8f1-c9f1-4e8c-a785-18ec751ba37d"
       },
       {
         "Title": "Set Combobox Value - without changing case",
@@ -135273,13 +135280,6 @@
         "Id": "b8da2e03-3290-483f-8466-3b706922c29f"
       },
       {
-        "Title": "New functionalities",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b9abb301-63f9-42cf-a45c-80d4c2e28fb3"
-      },
-      {
         "Title": "Finance and Operations <button>",
         "Description": "",
         "Type": "WebElement",
@@ -135287,18 +135287,11 @@
         "Id": "bda91404-c889-497b-80b2-94416f734833"
       },
       {
-        "Title": "App Bar",
+        "Title": "Packaging",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "c221f9a9-61bc-4406-a9a3-d2bb4210f7c1"
-      },
-      {
-        "Title": "Button/Checkbox",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "c66c9bb8-17f9-4267-a7f1-a30eaec3562e"
+        "Id": "bdb6b08c-9b8c-4234-bb74-b9f8e9e4564a"
       },
       {
         "Title": "Activate pending price(s) <button> - Copy",
@@ -135322,11 +135315,11 @@
         "Id": "caa641e4-d448-43de-9cfb-30637ef9fd14"
       },
       {
-        "Title": "Table",
+        "Title": "Application Processing",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "cbe481e2-3e51-4920-ad27-86cbf20c6427"
+        "Id": "cbb2a7aa-02a4-475a-8fb2-cb79b5e4981b"
       },
       {
         "Title": "Find_Button",
@@ -135336,18 +135329,18 @@
         "Id": "ceb8746d-ee66-450a-aca2-3d823a79e6fc"
       },
       {
-        "Title": "TextBoxes",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "dc2c3233-9f0e-4101-9e40-d284b9721a76"
-      },
-      {
         "Title": "Expand/Collapse",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "e2bc9314-bc60-431b-a6e1-f120abc93b28"
+        "Id": "dfa880f8-1768-4945-9450-aa882b6ecd90"
+      },
+      {
+        "Title": "D365 FO Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e389c588-0fc4-4562-956e-30929220a6f6"
       },
       {
         "Title": "Expand all <button>",
@@ -135362,13 +135355,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "e3b92d7b-44d8-45f7-ac1f-f25d40347b41"
-      },
-      {
-        "Title": "Packaging",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "e47abc09-3971-4ece-b1df-bd00f507b626"
       },
       {
         "Title": "Capitalize",
@@ -135413,11 +135399,11 @@
         "Id": "ebfa3f96-226d-4693-880d-83c521e7f187"
       },
       {
-        "Title": "Action Utilites",
+        "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "ece16529-c2a6-411d-8401-4d3562bc3ac5"
+        "Id": "ed43f4ab-bc7f-460d-aff5-a9fa1f5568fc"
       },
       {
         "Title": "submit <input> 3",
@@ -135455,11 +135441,25 @@
         "Id": "f915eba6-a1de-4880-8500-2fc0b0d1bfb6"
       },
       {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "fa34d04a-573a-4c14-a073-1665da4faf6c"
+      },
+      {
         "Title": "Navigate To Module Via Module Path",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "fd518836-3d44-46b0-8089-d4a9bdd83d15"
+      },
+      {
+        "Title": "Text",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "fdae45f7-79ee-4b8e-8f2a-0f21b06e8e6f"
       }
     ],
     "UsedTypes": [
@@ -135948,7 +135948,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=INMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "33896139-ffce-4418-b89d-80f4ce40fdd1",
+        "StrategyListSource": "a7771435-c858-485e-884e-85c07118301f",
         "HasImage": "False",
         "RawId": "c651def6-0ba8-4b85-b051-0892b1ed1504",
         "SelectedStrategyId": "4176e928-c014-4171-9357-58c838e2c661",
@@ -135964,7 +135964,7 @@
       {
         "Uri": "https://ascmpreviewtst01.operations.eu.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "088d64c4-b430-4977-b064-f9815b5787de",
+        "StrategyListSource": "15573b32-59f7-4747-9f43-af6d61b812ec",
         "HasImage": "False",
         "RawId": "07d30c57-ddef-4b73-ae36-50ebd413c85d",
         "SelectedStrategyId": "a31055fd-0706-4556-ba95-390d1a4d5d2e",
@@ -135980,7 +135980,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T11%3a58%3a33Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "9d372ee8-103f-4ffb-822f-f844062b4324",
+        "StrategyListSource": "b3f632f9-5071-4d64-9db6-e67b9cf2ed7d",
         "HasImage": "False",
         "RawId": "0ef012b5-ec82-452d-86cb-157d06baa1d7",
         "SelectedStrategyId": "77200823-4395-4efc-af41-352057e30efe",
@@ -135996,7 +135996,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c5919c9d-a136-4f63-81d4-5636b2887e2b",
+        "StrategyListSource": "89586550-ca30-4374-994b-e809f8b003f2",
         "HasImage": "False",
         "RawId": "5b027026-4f0a-4133-bfa9-c2b179337c89",
         "SelectedStrategyId": "6b985835-45e8-4c04-b344-1b1d2128ac9e",
@@ -136012,7 +136012,7 @@
       {
         "Uri": "https://tmf-if-acc.sandbox.operations.dynamics.com/?cmp=DK01&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "1b1bfe36-bd00-4077-94d1-90633b3bbb8d",
+        "StrategyListSource": "16f2a1a5-6cf6-4510-b6b2-d97bf4d4a097",
         "HasImage": "False",
         "RawId": "06ec6185-2913-4b87-b7a2-60ad98244bd8",
         "SelectedStrategyId": "d80552e3-6cce-4a01-b063-430379643f15",
@@ -136028,7 +136028,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "e55aede6-cd6b-45a7-8169-fcccb4782a80",
+        "StrategyListSource": "cd019bf4-8975-40fe-b0a9-cea953b82b73",
         "HasImage": "False",
         "RawId": "68ff3f2c-294a-4c37-b769-be8cbc922b11",
         "SelectedStrategyId": "707b9e3a-b364-43a7-87b8-3c787d92b0a0",
@@ -136044,7 +136044,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "be6416df-ad67-4c72-a83e-223e1fd7d683",
+        "StrategyListSource": "dc9c1a21-38e6-408b-adcf-b29bfab852b1",
         "HasImage": "False",
         "RawId": "15e21b8f-16cb-48ca-be23-bb3069e22073",
         "SelectedStrategyId": "d583316a-b53b-4c09-bd1d-6dce49dcc2ab",
@@ -136060,7 +136060,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=SalesQuotationListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "5ad46ba6-ec8f-4476-af43-8b7c0c8401c8",
+        "StrategyListSource": "26997219-f57f-491d-9171-bb7bc06de1d8",
         "HasImage": "False",
         "RawId": "a79ed72a-3e65-411d-94c0-7ab9a3bf5c46",
         "SelectedStrategyId": "99508dc1-e76a-4bde-93dc-d705e0710486",
@@ -136076,7 +136076,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T12%3a12%3a30Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f",
         "Fields": "",
-        "StrategyListSource": "0456d1f5-ca88-424b-8b08-a9835255e1f9",
+        "StrategyListSource": "356982d4-dea8-4c9b-84e6-be650b21ede9",
         "HasImage": "False",
         "RawId": "9e26ae79-be9a-4d25-91c1-49544d039474",
         "SelectedStrategyId": "73d7883d-6796-4ee2-bf38-57f9d93987aa",
@@ -136092,7 +136092,7 @@
       {
         "Uri": "https://lwtst-0108016eb3e79f3515devaos.axcloud.dynamics.com/?cmp=usmf&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "367a9247-efb6-4c59-8e9b-8b6b149657fd",
+        "StrategyListSource": "e3f9dbbb-ee84-49c9-b47c-35df5e7adc1c",
         "HasImage": "False",
         "RawId": "0730ea3e-6b43-4f33-a7d5-395be600f8de",
         "SelectedStrategyId": "5922291a-ad04-45d6-98e9-331dd261a54e",
@@ -136108,7 +136108,7 @@
       {
         "Uri": "https://lwtst-0108016eb3e79f3515devaos.axcloud.dynamics.com/?cmp=usmf&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "",
-        "StrategyListSource": "52732272-81d3-4949-ba69-b999c1850852",
+        "StrategyListSource": "38f71147-a0ac-400a-9c91-4ff5cf6f27e0",
         "HasImage": "False",
         "RawId": "b44069cc-5609-4b08-b7e8-87c25a15b7aa",
         "SelectedStrategyId": "86fd7007-b0e0-4078-9670-199f431c6a0c",
@@ -136124,7 +136124,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankTreasurerWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cec3e992-55f3-403a-a8d4-c07777354e12",
+        "StrategyListSource": "d0b1775b-a721-4666-9846-2c2ec3a2e453",
         "HasImage": "False",
         "RawId": "d79729e3-6cac-4d30-be26-c7aed1d94fe7",
         "SelectedStrategyId": "54939147-719f-4662-b3a9-aaf0968e7a48",
@@ -136140,7 +136140,7 @@
       {
         "Uri": "https://tmf-if-acc.sandbox.operations.dynamics.com/?cmp=DK01&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cb88d266-48c3-43d5-b8b2-cee1e2bf1777",
+        "StrategyListSource": "1e99068f-5f06-4d07-b330-5d89cbb3c4ed",
         "HasImage": "False",
         "RawId": "81153ecf-26c5-4796-b32f-93eb655607f5",
         "SelectedStrategyId": "89d17fa9-e7a9-413d-aaa8-4f2ea5405bf8",
@@ -136156,7 +136156,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "1162ea73-5dd6-415a-b29c-a5ccfa443187",
+        "StrategyListSource": "ca35a5b4-ff44-4238-9bdf-de09bd8ab95a",
         "HasImage": "False",
         "RawId": "5b027026-4f0a-4133-bfa9-c2b179337c89",
         "SelectedStrategyId": "b69fdf73-74e6-4597-8e67-3ccc809cd845",
@@ -136172,7 +136172,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T11%3a58%3a33Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f&sso_reload=true",
         "Fields": "",
-        "StrategyListSource": "f130eb91-506e-474e-a2c0-5a9de90e1ae8",
+        "StrategyListSource": "1abcc1a2-579f-41ec-aa53-ae186c06ee0d",
         "HasImage": "False",
         "RawId": "f3994396-a998-4837-ab24-8d5ee2e2d00a",
         "SelectedStrategyId": "3625bb5e-bf15-4727-ae43-ff600ea57319",
@@ -136188,7 +136188,7 @@
       {
         "Uri": "https://login.microsoftonline.com/742ca307-2151-43f2-91c4-f387572ae0b2/reprocess?ctx=rQQIARAApVO9j-NUEI83u3u7C3v7IXRAt8UdcEC8_kyclbZwEntjJ3bixN7EaSLHfkns-Cu2s45TIaorEDooKU6IE81VCCGBEMXVW921SCAkKNA1LNCsqHBy7F_AaDTz5v3m_V4xv9m5RcE4jMDIu1kURk_uIitDydwyvQz6zenGgsOd_VdO9p5DrxPlz68-_VK_89G3TyB6HEV-eHJ8PIphMMuZNork4ZEWgVhLYD_wDNgMbc01YN-LQaD5fgjrnnMcAN9OZoF9fIF-B0HPIOh3CHqyFubxIkKhOEGSOEoWiDxFwUJFiMUObwtnatSTlbmQIIgg85O6PInVjhSJFZUQHSlpVNhJQ-ZNUeatxhmD9iwuxWyzZyKIivFmXR4lYodLOaSFKJdM1RIIYTFKflzba9CzaIwtgxeYC_DX2vbQC5y-74XRZ9k_sw0fuJxR9lwX6BG8bANuZOpaZHpuM_B8EEQmCE9piaZpsSy4BlViDaZlVT06ZvplOxeWUoSmhKagi3g3YGZsSJFYzz5vKaMlQpdXkaal3qpm_rsp48SZ75SkWtR0SUM8m3TQi7zuIS0pQQPFMa1owKlEqRuUzuPV-8ZLOu6G8WxaqWt5VWBd3idldsiptQXhT2gpB0irMATFYpVwamGxg9mrfkplxnZx3ET6Xl1vtcUgRPlBg9YKSrmLXYwtPh_5jD_sy45EJs0F06fztj0Fc2EuREn-YkGUgz7pj4aJorSaTR5h4nqFT_Ka1RPnKDqrzlicbdXaMlebrP4D-fHYDttTU9NMvy-Fwfm4qY-mYodg50adGvl8TVYIJDd1dHdQ75ADN6c0jAo3IKjmhO4CWmt5bt0as16X74qB7GnCuPdWCxhmkI5K9k5X4ryH0_cwNnUbaH7sBRMEg5dTWw0wTFULG4mrOaa-kmba93X2boHAdA1HCjkMJdEcgQ-xXBHVidwQpwpkAdMAMsAus7dTGtc0jlKdD00bPF3_4PHGs3Xoxfqdra397BuZo8w7ryHZk62tnf3Msrpeh77YSNcIq90Hu0pD-OGby_u_UoeZy43jyF5QJONprO8LFKOnlWl0NUC1u0WFnKrxoCcXrMn83G_Fp4UT9OEm9HBz83Jzm6v0RUYmCtjVZvbBLej77f-_kB--uruVOdze_vufzttvJj9Xn-5mrm9__NOj3z55_OiP6uXeTrXdOGpHM8P0Xuy930pIbopwUk-pqF4xIKrmDMi2ZwWq3pvKznuIYlRntfOOM9NPv9rP_JL6QebqALo-2H9wmPkX0&sessionid=002e43da-1b3a-10e5-1968-f139099b0c82",
         "Fields": "",
-        "StrategyListSource": "815101bd-4adb-4ec2-a0a6-57098a3fcc10",
+        "StrategyListSource": "5a4450f1-0a49-45a2-ab12-b31ceb96fcf2",
         "HasImage": "False",
         "RawId": "419e117d-a17f-4847-8cb2-b679a0357d32",
         "SelectedStrategyId": "c34e4357-68f5-4106-a16b-a64ed2ec7158",
@@ -136204,7 +136204,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "44b67881-40fd-4b37-bde2-5986bb8c34d8",
+        "StrategyListSource": "4b29b357-9240-4026-b9ec-e50062776157",
         "HasImage": "False",
         "RawId": "8a1b802e-9eb9-4509-a09b-a9559fe9bd3d",
         "SelectedStrategyId": "bf6d17ce-045a-4db6-9160-b08aed15337d",
@@ -136220,7 +136220,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "9477dcb4-41fb-4f90-abfa-397a1795933e",
+        "StrategyListSource": "3da81dab-d0c7-466e-a796-a709e4bbdac9",
         "HasImage": "False",
         "RawId": "fdb87dde-492b-478e-a4fb-72cc47b7783c",
         "SelectedStrategyId": "7564fed4-e460-46db-96b0-2eb1421ee944",
@@ -136236,7 +136236,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankAccountTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "fbe10854-e7c5-4695-a527-196cfed5a3f1",
+        "StrategyListSource": "d0d17756-5566-4549-a9e1-5846ed4e2983",
         "HasImage": "False",
         "RawId": "3d1056ec-2265-4c94-baad-8274e799d57a",
         "SelectedStrategyId": "28182a19-f03d-4107-8e2f-35cded513a1e",
@@ -136252,7 +136252,7 @@
       {
         "Uri": "https://tmf-if-acc.sandbox.operations.dynamics.com/?cmp=DK01&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "79f176ed-68c0-48f5-aed7-e1e976de3f23",
+        "StrategyListSource": "6516f618-edd9-4d2f-b24f-ed754961ce3d",
         "HasImage": "False",
         "RawId": "dec47e3d-1939-49f8-86d6-e181057196eb",
         "SelectedStrategyId": "dd8bfdb0-e71a-45d4-a8eb-53e67269fbbf",
@@ -136268,7 +136268,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=HcmWorkforceWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "dc376fc4-b4f0-4d27-af1f-4e2a7de4d2f2",
+        "StrategyListSource": "a8cceff7-a144-47f6-a4bb-892db7ebaaa5",
         "HasImage": "False",
         "RawId": "a29118d9-1307-4214-825c-91f5798a8428",
         "SelectedStrategyId": "03cabb81-cdde-4fe7-80dc-6bb243547bc3",
@@ -136284,7 +136284,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=defaultdashboard",
         "Fields": "",
-        "StrategyListSource": "56100041-8cf6-4b2e-b6f0-05faecad4a41",
+        "StrategyListSource": "fe8bb0ed-e4ef-49c7-badd-f91520babd5a",
         "HasImage": "False",
         "RawId": "8430b54f-ca43-4edf-ba23-b303fb5aaead",
         "SelectedStrategyId": "ee91e242-a7ce-40a5-86c9-2943518939ff",
@@ -136300,7 +136300,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/login",
         "Fields": "",
-        "StrategyListSource": "b2ef9d44-ddcd-4aaa-8cf4-191ee461f453",
+        "StrategyListSource": "1164f6f6-ebb8-4291-8853-663ccf6848ae",
         "HasImage": "False",
         "RawId": "d7da5c80-6db9-4693-8575-3068a0b41e8c",
         "SelectedStrategyId": "3d9508ce-0d64-4b46-ae38-f06583765126",
@@ -136316,7 +136316,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=HcmWorkforceWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "b284e02b-3cec-4e2d-b44e-024048c2f914",
+        "StrategyListSource": "44de60c3-376e-48d7-ae89-15e6bc4cfd55",
         "HasImage": "False",
         "RawId": "a29118d9-1307-4214-825c-91f5798a8428",
         "SelectedStrategyId": "20b535d3-47a2-4060-aa41-737c08f9d587",
@@ -136332,7 +136332,7 @@
       {
         "Uri": "https://login.microsoftonline.com/742ca307-2151-43f2-91c4-f387572ae0b2/reprocess?ctx=rQQIARAApVO9j-NUEI83u3u7C3v7IXRAt8UdcEC8_kyclbZwEntjJ3bixN7EaSLHfkns-Cu2s45TIaorEDooKU6IE81VCCGBEMXVW921SCAkKNA1LNCsqHBy7F_AaDTz5v3m_V4xv9m5RcE4jMDIu1kURk_uIitDydwyvQz6zenGgsOd_VdO9p5DrxPlz68-_VK_89G3TyB6HEV-eHJ8PIphMMuZNork4ZEWgVhLYD_wDNgMbc01YN-LQaD5fgjrnnMcAN9OZoF9fIF-B0HPIOh3CHqyFubxIkKhOEGSOEoWiDxFwUJFiMUObwtnatSTlbmQIIgg85O6PInVjhSJFZUQHSlpVNhJQ-ZNUeatxhmD9iwuxWyzZyKIivFmXR4lYodLOaSFKJdM1RIIYTFKflzba9CzaIwtgxeYC_DX2vbQC5y-74XRZ9k_sw0fuJxR9lwX6BG8bANuZOpaZHpuM_B8EEQmCE9piaZpsSy4BlViDaZlVT06ZvplOxeWUoSmhKagi3g3YGZsSJFYzz5vKaMlQpdXkaal3qpm_rsp48SZ75SkWtR0SUM8m3TQi7zuIS0pQQPFMa1owKlEqRuUzuPV-8ZLOu6G8WxaqWt5VWBd3idldsiptQXhT2gpB0irMATFYpVwamGxg9mrfkplxnZx3ET6Xl1vtcUgRPlBg9YKSrmLXYwtPh_5jD_sy45EJs0F06fztj0Fc2EuREn-YkGUgz7pj4aJorSaTR5h4nqFT_Ka1RPnKDqrzlicbdXaMlebrP4D-fHYDttTU9NMvy-Fwfm4qY-mYodg50adGvl8TVYIJDd1dHdQ75ADN6c0jAo3IKjmhO4CWmt5bt0as16X74qB7GnCuPdWCxhmkI5K9k5X4ryH0_cwNnUbaH7sBRMEg5dTWw0wTFULG4mrOaa-kmba93X2boHAdA1HCjkMJdEcgQ-xXBHVidwQpwpkAdMAMsAus7dTGtc0jlKdD00bPF3_4PHGs3Xoxfqdra397BuZo8w7ryHZk62tnf3Msrpeh77YSNcIq90Hu0pD-OGby_u_UoeZy43jyF5QJONprO8LFKOnlWl0NUC1u0WFnKrxoCcXrMn83G_Fp4UT9OEm9HBz83Jzm6v0RUYmCtjVZvbBLej77f-_kB--uruVOdze_vufzttvJj9Xn-5mrm9__NOj3z55_OiP6uXeTrXdOGpHM8P0Xuy930pIbopwUk-pqF4xIKrmDMi2ZwWq3pvKznuIYlRntfOOM9NPv9rP_JL6QebqALo-2H9wmPkX0&sessionid=002e43da-1b3a-10e5-1968-f139099b0c82",
         "Fields": "",
-        "StrategyListSource": "1edf7d91-c159-4664-8e66-ea703e6ef272",
+        "StrategyListSource": "a738e5ef-c1b3-4c47-9c66-afa4591e2ffb",
         "HasImage": "False",
         "RawId": "815552ca-75d8-4210-81e4-68e4ac312fcf",
         "SelectedStrategyId": "e471e338-8ca9-4b51-8801-728e9bf7bfa8",
@@ -136348,7 +136348,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "6486bd4d-8485-47a9-906c-985864c9f558",
+        "StrategyListSource": "ab8bd2e1-2c5c-4ef4-ba3b-f8f012b47c7a",
         "HasImage": "False",
         "RawId": "82dd4278-0d42-4e04-82b1-7c7a13ddb84c",
         "SelectedStrategyId": "60ddf104-1df7-4df8-b195-8b0241e74aae",
@@ -136364,7 +136364,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankAccountTable",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "d9cf95c8-56f2-4857-8e52-38616ff315b3",
+        "StrategyListSource": "9709a665-a0cf-4a3c-845d-09c52d2236c3",
         "HasImage": "False",
         "RawId": "3d1056ec-2265-4c94-baad-8274e799d57a",
         "SelectedStrategyId": "cb615d8a-1d24-4992-bc82-8f2402d45069",
@@ -136380,7 +136380,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "1d4a3ca9-f63b-450b-878a-a4079d0cded9",
+        "StrategyListSource": "c6d593ea-3aae-4d42-8110-4a1df9f4d455",
         "HasImage": "False",
         "RawId": "fac888bf-fe31-4def-82f6-8728e88bb4d0",
         "SelectedStrategyId": "7c02a594-02c0-4f2d-8228-c407d0fe5012",
@@ -136396,7 +136396,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=PurchAgreementListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "824a166d-f78d-4ad9-8075-dcf3cddf7352",
+        "StrategyListSource": "a46bab42-ac1b-4db5-9e32-ae3f7673ad47",
         "HasImage": "False",
         "RawId": "13382b4d-a7a6-4325-9314-fd9bf376af61",
         "SelectedStrategyId": "67c0de80-7e70-45ce-831b-074f04caf7ce",
@@ -136412,7 +136412,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=970A&mi=LedgerTransSettlement",
         "Fields": "",
-        "StrategyListSource": "22a98f19-6862-42dc-b4b8-6d329ab75b31",
+        "StrategyListSource": "7af9f0d7-d69e-4ac3-9aa7-06f8a89d93e0",
         "HasImage": "False",
         "RawId": "7e1c07d2-6b5b-4026-b449-4451faf76d86",
         "SelectedStrategyId": "c69c1d8e-4d81-43e6-ae83-4f5b2a0400bc",
@@ -136428,7 +136428,7 @@
       {
         "Uri": "https://login.microsoftonline.com/common/SAS/ProcessAuth",
         "Fields": "",
-        "StrategyListSource": "dda3ca9e-a80b-4bf0-831c-30c73bd5572f",
+        "StrategyListSource": "1ad25bae-2d0d-4b67-8db9-4998d3eae04c",
         "HasImage": "False",
         "RawId": "15b6f176-2981-4b1b-b75e-e082d3e9a42c",
         "SelectedStrategyId": "371acc80-d9d3-4e7f-bd60-5298059054c1",
@@ -136444,7 +136444,7 @@
       {
         "Uri": "https://tmf-if-acc.sandbox.operations.dynamics.com/?cmp=DK01&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "db966bd8-6ecd-41d4-95d8-d0b68cd1b647",
+        "StrategyListSource": "fcae9eda-c34c-4acf-b2c3-47052ef814dd",
         "HasImage": "False",
         "RawId": "b6b358d9-b1aa-45d7-9479-7a3c0e4eebf9",
         "SelectedStrategyId": "eac98ade-8e78-4197-9384-9aa7766eeb10",
@@ -136460,7 +136460,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASCloudSearchConfiguration",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "70f7f383-b0f5-437c-b914-db9999298235",
+        "StrategyListSource": "3c99c648-eb02-47d8-8ffd-da24fbc2370e",
         "HasImage": "False",
         "RawId": "63aaa16d-fe13-4670-9202-4193100ae222",
         "SelectedStrategyId": "3dc485f4-f076-4aa9-92c0-f8b89a21bec5",
@@ -136476,7 +136476,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=defaultdashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "a6fdab46-e1d7-4828-97e9-e73b11d6e2f4",
+        "StrategyListSource": "7dee2d99-cad5-4b16-a3e4-8a7ea159b0db",
         "HasImage": "False",
         "RawId": "ac8c1575-ee75-4358-b80b-a5df3bdf0591",
         "SelectedStrategyId": "34edcb52-a1b4-4bce-86a0-c7b138b71052",
@@ -136492,7 +136492,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=SalesQuotationListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "cc97e9ac-1c11-4ae7-b125-d3cfec5c8f6a",
+        "StrategyListSource": "12950617-da83-401d-9dd8-dc19272ffdc8",
         "HasImage": "False",
         "RawId": "a79ed72a-3e65-411d-94c0-7ab9a3bf5c46",
         "SelectedStrategyId": "0f5e0a5c-01d7-4013-b2a6-987cbc68fe53",
@@ -136508,7 +136508,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSERPASCloudSearchConfiguration",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "ee469215-d4d8-43e8-95be-0aa6bd6d197f",
+        "StrategyListSource": "1d67d166-7731-4168-8137-aba9effb468c",
         "HasImage": "False",
         "RawId": "63aaa16d-fe13-4670-9202-4193100ae222",
         "SelectedStrategyId": "6de84907-f7dd-48ce-a95d-02199073537d",
@@ -136524,7 +136524,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=usmf&mi=LedgerJournalTable_CustPaym",
         "Fields": "",
-        "StrategyListSource": "61f568cc-283b-4221-81b8-f06d80a6c210",
+        "StrategyListSource": "740a56c6-8130-45ec-a59a-0d4f6b3d2e91",
         "HasImage": "False",
         "RawId": "a6043978-d1f6-4219-9caa-6c970f98f545",
         "SelectedStrategyId": "1acf3cae-dfcf-4e1d-9b99-423385768ea3",
@@ -136540,7 +136540,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "41b4ed4e-fa23-4bd7-b2db-74572f049e47",
+        "StrategyListSource": "a7f3b7e2-0afc-49eb-9cce-5e759eebba06",
         "HasImage": "False",
         "RawId": "cadcb652-9d63-4738-a428-3d37f5539193",
         "SelectedStrategyId": "85d0996d-acfc-4747-bba8-d354a38b1028",
@@ -136556,7 +136556,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "fb1a45c7-d291-4a0b-b278-a77006da628a",
+        "StrategyListSource": "0dc5e387-167c-4c70-b335-90007d74d5ec",
         "HasImage": "False",
         "RawId": "10993b05-87cf-42f0-b957-5a3dcbb47c37",
         "SelectedStrategyId": "bfcbbc12-4b3e-4c0e-b2e8-71b98446584d",
@@ -136572,7 +136572,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DYSPACPackagingWorkspace",
         "Fields": "",
-        "StrategyListSource": "68f27642-18cb-4823-a4c5-895713345b81",
+        "StrategyListSource": "138f141b-2e63-443d-90ed-beeae5394d90",
         "HasImage": "False",
         "RawId": "1a3a7c88-4a48-44cf-9caa-c13823232342",
         "SelectedStrategyId": "7161eb13-0e71-4b10-96a5-e3dedbc111c3",
@@ -136588,7 +136588,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=VendTableListPage",
         "Fields": "",
-        "StrategyListSource": "9c2b50e7-a898-4308-894f-6c5795a88994",
+        "StrategyListSource": "64db06f1-67fc-425d-883d-31d14c3562ed",
         "HasImage": "False",
         "RawId": "345110da-4cc0-4728-a0dc-a2004779b53a",
         "SelectedStrategyId": "bd4c4a2a-a8ba-4102-b4d9-70d9f286fa85",
@@ -136604,7 +136604,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "4669d09b-3de2-4f43-a92a-95b5364b8a45",
+        "StrategyListSource": "74c87283-307e-4063-aa80-d82b798499ca",
         "HasImage": "False",
         "RawId": "688a067b-124d-4733-97a3-fe98fcbd0fd4",
         "SelectedStrategyId": "fb0aa2e0-f2fd-44bc-8865-5fbe30516e86",
@@ -136620,7 +136620,7 @@
       {
         "Uri": "https://patagonia-uat.sandbox.operations.dynamics.com/?cmp=3000&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "78c6e9d6-920d-4143-b877-d06621b471f9",
+        "StrategyListSource": "e2e7ab0d-a3fa-46a1-aebd-8f035827e808",
         "HasImage": "False",
         "RawId": "86d2c941-e05e-48a7-a183-c4cd8d2878c0",
         "SelectedStrategyId": "9a7b74eb-4092-4977-a110-c148af683402",
@@ -136636,7 +136636,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?cmp=SGNS&mi=LedgerJournalTable4",
         "Fields": "",
-        "StrategyListSource": "7e816e55-d738-4e17-ba5c-3a30094af8de",
+        "StrategyListSource": "738ebd30-56fb-4796-bf59-ddd221fafbfb",
         "HasImage": "False",
         "RawId": "43b45da7-9b6d-4de6-aa2a-eb0ea15fda09",
         "SelectedStrategyId": "79773561-dc6c-4788-a1b9-031024d39d8e",
@@ -136652,7 +136652,7 @@
       {
         "Uri": "https://exflow-support102cb6a38924c4096aos.cloudax.dynamics.com/?t=2023-06-01T16%3A05%3A31.4433293Z&cmp=SGNS&mi=EXF_mdImportTableLog",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "1ce0ec59-5178-4396-ad43-5e04963bec2c",
+        "StrategyListSource": "d746cacc-106c-44e6-a562-4330cc2f87d3",
         "HasImage": "False",
         "RawId": "8366a505-1469-4b30-ba7d-951fdab5f5f0",
         "SelectedStrategyId": "ae026da1-c722-46ba-822c-b991089d2330",
@@ -136668,7 +136668,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "30a4b213-0c9e-473b-a445-9db2c80365cf",
+        "StrategyListSource": "0923d7d0-8fae-4711-9b9e-eb1dcb667a88",
         "HasImage": "False",
         "RawId": "b6288058-aebe-4b19-b7b7-343892bdc181",
         "SelectedStrategyId": "234290ea-667c-4313-961a-cef025b0c190",
@@ -136684,7 +136684,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "949cfda2-58c3-4a13-b694-f391ce2d721a",
+        "StrategyListSource": "d76ecac7-6621-436f-b8f2-94987e819c79",
         "HasImage": "False",
         "RawId": "a693122c-ced6-4272-8c3d-952b097c950c",
         "SelectedStrategyId": "bb142e98-845e-4305-83b9-c9d08ff4792b",
@@ -136700,7 +136700,7 @@
       {
         "Uri": "https://sond365foacc.sandbox.operations.dynamics.com/?cmp=949a&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "53ef8554-043c-4230-8e40-fce570bdadbc",
+        "StrategyListSource": "a6978216-bfd6-4e95-86c7-6e986e943dd0",
         "HasImage": "False",
         "RawId": "b3286ba6-f12c-4362-8a44-8c76f5ae41e7",
         "SelectedStrategyId": "01273658-c8f6-4083-89fe-fb9e79080409",
@@ -136716,7 +136716,7 @@
       {
         "Uri": "https://lwtst-0108016eb3e79f3515devaos.axcloud.dynamics.com/?cmp=usmf&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "7f71de32-f522-47ee-a41d-60a12979f848",
+        "StrategyListSource": "811ed350-119c-4be8-abf8-70b9da2c70ce",
         "HasImage": "False",
         "RawId": "4d355eb8-eb51-4200-a30e-ef55ca87f25f",
         "SelectedStrategyId": "66451969-6a55-47d3-ad0c-d46a0a73bb35",
@@ -136732,7 +136732,7 @@
       {
         "Uri": "https://login.microsoftonline.com/leapwork.com/wsfed?wa=wsignin1.0&wtrealm=spn%3a00000015-0000-0000-c000-000000000000&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2023-04-17T12%3a12%3a30Z&wreply=https%3a%2f%2fleapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com%2f",
         "Fields": "",
-        "StrategyListSource": "c4210891-d08f-4519-9087-7c92b9c3685a",
+        "StrategyListSource": "32508fe5-5402-4163-88b3-6d535fdc41eb",
         "HasImage": "False",
         "RawId": "1ce70bd3-7ccd-4982-af91-fa0cea6d6823",
         "SelectedStrategyId": "bfbeaa54-1461-451a-aabd-808d04d61499",
@@ -136748,7 +136748,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "2874116b-8bfc-495b-a5b3-3eab72c15caf",
+        "StrategyListSource": "f95008fd-08ec-4e1a-a105-e278bb77f0ce",
         "HasImage": "False",
         "RawId": "c0c5c002-b78e-4d24-b311-3c75ca9d23b8",
         "SelectedStrategyId": "aa6d51a3-016f-45a2-868b-23b97e43f943",
@@ -136764,7 +136764,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankReconciliationHeader",
         "Fields": "",
-        "StrategyListSource": "eb3b3f68-1144-4082-bf1d-84ee970f9288",
+        "StrategyListSource": "67f38a02-4baa-4121-a06c-77cb3d8b003b",
         "HasImage": "False",
         "RawId": "c552ac2f-2b8e-4031-890b-60c9aacfbb7a",
         "SelectedStrategyId": "ff2ba745-8161-47cf-a993-d6bd56cdfd10",
@@ -136780,7 +136780,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "9e63d043-ef05-48c1-a938-f529e17efb22",
+        "StrategyListSource": "e116aa4c-b522-4b89-aa9e-51b37855a70d",
         "HasImage": "False",
         "RawId": "6626eab7-bd6d-423a-aee8-6f1058e3c716",
         "SelectedStrategyId": "941f653e-32cd-4807-b24c-1d62601443a6",
@@ -136796,7 +136796,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=SalesTableListPage",
         "Fields": "",
-        "StrategyListSource": "e9fb0297-a4b5-45d7-aca5-f529e8722005",
+        "StrategyListSource": "659944b8-a2c5-4f2b-8643-b32d1886741e",
         "HasImage": "False",
         "RawId": "feba1018-3533-441c-99a1-3c13fe7d5c43",
         "SelectedStrategyId": "98cf1c75-fa25-42ca-ad4f-1a025379119b",
@@ -136812,7 +136812,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "603d80e9-3386-4ee5-890b-5638c8776942",
+        "StrategyListSource": "c2cc3621-3d77-41bd-afed-412c43647910",
         "HasImage": "False",
         "RawId": "d5629323-148e-4f26-8e4f-3046320be3e3",
         "SelectedStrategyId": "b91a503d-6ecf-46b2-8e27-4e71f75ffeb3",
@@ -136828,7 +136828,7 @@
       {
         "Uri": "https://lwtst-0108016eb3e79f3515devaos.axcloud.dynamics.com/?cmp=usmf&mi=EcoResProductDetailsExtendedGrid",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "f746e8b5-d7f2-4a82-9f10-4bfd31f362ea",
+        "StrategyListSource": "7db6cd49-d713-4ed3-aaec-fe7515d46b8b",
         "HasImage": "False",
         "RawId": "0730ea3e-6b43-4f33-a7d5-395be600f8de",
         "SelectedStrategyId": "da4ff42b-a41e-4598-af2c-3618045f3d86",
@@ -136844,7 +136844,7 @@
       {
         "Uri": "",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "46b4d5c8-21cc-4042-947c-22a6ea1283fc",
+        "StrategyListSource": "80d2375f-8690-406c-b343-c88d980178ba",
         "HasImage": "False",
         "RawId": "c0c5c002-b78e-4d24-b311-3c75ca9d23b8",
         "SelectedStrategyId": "0e88d8c7-35c4-4eda-8158-4580aabbe33f",
@@ -136860,7 +136860,7 @@
       {
         "Uri": "https://tmf-if-acc.sandbox.operations.dynamics.com/?cmp=DK01&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "05ca177c-3c09-4110-ada5-e0b91f035149",
+        "StrategyListSource": "8a4cb692-bf2a-4105-8ec9-1a5fa76acb6d",
         "HasImage": "False",
         "RawId": "037f0e06-96ea-47bc-8680-59b520bf5733",
         "SelectedStrategyId": "62ca45df-1e6a-4383-a9fd-73e3ac2dbc79",
@@ -136876,7 +136876,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=EcoResDistinctProductListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "34c27953-613f-45b5-be1f-9801e09a0433",
+        "StrategyListSource": "15781900-18d4-4de5-b13c-ab5f7fc7fb10",
         "HasImage": "False",
         "RawId": "0a8d7a22-bca2-4f8b-9abf-08207830f15a",
         "SelectedStrategyId": "9933fba8-1f9c-4b10-b1d3-d0d2fc167444",
@@ -136892,7 +136892,7 @@
       {
         "Uri": "https://login.microsoftonline.com/742ca307-2151-43f2-91c4-f387572ae0b2/reprocess?ctx=rQQIARAApVO9j-NUEI83u3u7C3v7IXRAt8UdcEC8_kyclbZwEntjJ3bixN7EaSLHfkns-Cu2s45TIaorEDooKU6IE81VCCGBEMXVW921SCAkKNA1LNCsqHBy7F_AaDTz5v3m_V4xv9m5RcE4jMDIu1kURk_uIitDydwyvQz6zenGgsOd_VdO9p5DrxPlz68-_VK_89G3TyB6HEV-eHJ8PIphMMuZNork4ZEWgVhLYD_wDNgMbc01YN-LQaD5fgjrnnMcAN9OZoF9fIF-B0HPIOh3CHqyFubxIkKhOEGSOEoWiDxFwUJFiMUObwtnatSTlbmQIIgg85O6PInVjhSJFZUQHSlpVNhJQ-ZNUeatxhmD9iwuxWyzZyKIivFmXR4lYodLOaSFKJdM1RIIYTFKflzba9CzaIwtgxeYC_DX2vbQC5y-74XRZ9k_sw0fuJxR9lwX6BG8bANuZOpaZHpuM_B8EEQmCE9piaZpsSy4BlViDaZlVT06ZvplOxeWUoSmhKagi3g3YGZsSJFYzz5vKaMlQpdXkaal3qpm_rsp48SZ75SkWtR0SUM8m3TQi7zuIS0pQQPFMa1owKlEqRuUzuPV-8ZLOu6G8WxaqWt5VWBd3idldsiptQXhT2gpB0irMATFYpVwamGxg9mrfkplxnZx3ET6Xl1vtcUgRPlBg9YKSrmLXYwtPh_5jD_sy45EJs0F06fztj0Fc2EuREn-YkGUgz7pj4aJorSaTR5h4nqFT_Ka1RPnKDqrzlicbdXaMlebrP4D-fHYDttTU9NMvy-Fwfm4qY-mYodg50adGvl8TVYIJDd1dHdQ75ADN6c0jAo3IKjmhO4CWmt5bt0as16X74qB7GnCuPdWCxhmkI5K9k5X4ryH0_cwNnUbaH7sBRMEg5dTWw0wTFULG4mrOaa-kmba93X2boHAdA1HCjkMJdEcgQ-xXBHVidwQpwpkAdMAMsAus7dTGtc0jlKdD00bPF3_4PHGs3Xoxfqdra397BuZo8w7ryHZk62tnf3Msrpeh77YSNcIq90Hu0pD-OGby_u_UoeZy43jyF5QJONprO8LFKOnlWl0NUC1u0WFnKrxoCcXrMn83G_Fp4UT9OEm9HBz83Jzm6v0RUYmCtjVZvbBLej77f-_kB--uruVOdze_vufzttvJj9Xn-5mrm9__NOj3z55_OiP6uXeTrXdOGpHM8P0Xuy930pIbopwUk-pqF4xIKrmDMi2ZwWq3pvKznuIYlRntfOOM9NPv9rP_JL6QebqALo-2H9wmPkX0&sessionid=002e43da-1b3a-10e5-1968-f139099b0c82",
         "Fields": "",
-        "StrategyListSource": "62bf2408-03f5-43a8-b5e9-61a97b085d42",
+        "StrategyListSource": "957f9081-ca91-4b9a-b6b7-0ffa169b81de",
         "HasImage": "False",
         "RawId": "1c16233b-b71b-42d2-a924-be9937481045",
         "SelectedStrategyId": "954fee09-e535-4851-940d-5fa288349d9f",
@@ -136908,7 +136908,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=BankTreasurerWorkspace",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "396148af-835b-4d96-bde9-bb89c6d997a5",
+        "StrategyListSource": "3bedede2-652d-4173-b12d-eee789568a3b",
         "HasImage": "False",
         "RawId": "d79729e3-6cac-4d30-be26-c7aed1d94fe7",
         "SelectedStrategyId": "143579c5-2d03-4aa5-9baf-090c040fac2a",
@@ -136924,7 +136924,7 @@
       {
         "Uri": "https://login.microsoftonline.com/742ca307-2151-43f2-91c4-f387572ae0b2/reprocess?ctx=rQQIARAApVO9j-NUEI83u3u7C3v7IXRAt8UdcEC8_kyclbZwEntjJ3bixN7EaSLHfkns-Cu2s45TIaorEDooKU6IE81VCCGBEMXVW921SCAkKNA1LNCsqHBy7F_AaDTz5v3m_V4xv9m5RcE4jMDIu1kURk_uIitDydwyvQz6zenGgsOd_VdO9p5DrxPlz68-_VK_89G3TyB6HEV-eHJ8PIphMMuZNork4ZEWgVhLYD_wDNgMbc01YN-LQaD5fgjrnnMcAN9OZoF9fIF-B0HPIOh3CHqyFubxIkKhOEGSOEoWiDxFwUJFiMUObwtnatSTlbmQIIgg85O6PInVjhSJFZUQHSlpVNhJQ-ZNUeatxhmD9iwuxWyzZyKIivFmXR4lYodLOaSFKJdM1RIIYTFKflzba9CzaIwtgxeYC_DX2vbQC5y-74XRZ9k_sw0fuJxR9lwX6BG8bANuZOpaZHpuM_B8EEQmCE9piaZpsSy4BlViDaZlVT06ZvplOxeWUoSmhKagi3g3YGZsSJFYzz5vKaMlQpdXkaal3qpm_rsp48SZ75SkWtR0SUM8m3TQi7zuIS0pQQPFMa1owKlEqRuUzuPV-8ZLOu6G8WxaqWt5VWBd3idldsiptQXhT2gpB0irMATFYpVwamGxg9mrfkplxnZx3ET6Xl1vtcUgRPlBg9YKSrmLXYwtPh_5jD_sy45EJs0F06fztj0Fc2EuREn-YkGUgz7pj4aJorSaTR5h4nqFT_Ka1RPnKDqrzlicbdXaMlebrP4D-fHYDttTU9NMvy-Fwfm4qY-mYodg50adGvl8TVYIJDd1dHdQ75ADN6c0jAo3IKjmhO4CWmt5bt0as16X74qB7GnCuPdWCxhmkI5K9k5X4ryH0_cwNnUbaH7sBRMEg5dTWw0wTFULG4mrOaa-kmba93X2boHAdA1HCjkMJdEcgQ-xXBHVidwQpwpkAdMAMsAus7dTGtc0jlKdD00bPF3_4PHGs3Xoxfqdra397BuZo8w7ryHZk62tnf3Msrpeh77YSNcIq90Hu0pD-OGby_u_UoeZy43jyF5QJONprO8LFKOnlWl0NUC1u0WFnKrxoCcXrMn83G_Fp4UT9OEm9HBz83Jzm6v0RUYmCtjVZvbBLej77f-_kB--uruVOdze_vufzttvJj9Xn-5mrm9__NOj3z55_OiP6uXeTrXdOGpHM8P0Xuy930pIbopwUk-pqF4xIKrmDMi2ZwWq3pvKznuIYlRntfOOM9NPv9rP_JL6QebqALo-2H9wmPkX0&sessionid=002e43da-1b3a-10e5-1968-f139099b0c82",
         "Fields": "",
-        "StrategyListSource": "051db8bc-9e41-4e4a-8740-23591638fd98",
+        "StrategyListSource": "b9698276-3aee-46f8-98ab-b9e411f25a2d",
         "HasImage": "False",
         "RawId": "72386212-a51b-404c-87b5-6c5e55631422",
         "SelectedStrategyId": "4f5e5e8f-3903-4803-972e-a06dbd2a100a",
@@ -136940,7 +136940,7 @@
       {
         "Uri": "https://lwtst-02d79a82ebaf0782f2devaos.axcloud.dynamics.com/?cmp=usrt&mi=DefaultDashboard",
         "Fields": "",
-        "StrategyListSource": "4d0b878d-22ca-4cc2-9079-b5f98d43cde0",
+        "StrategyListSource": "4c48916c-8111-4397-adba-5a8fdbdca595",
         "HasImage": "False",
         "RawId": "459fcc31-177a-40fb-892f-7a57eceb4157",
         "SelectedStrategyId": "9b20ff5c-ec27-44f0-ae6c-88b2a51240d2",
@@ -136956,7 +136956,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=VendTableListPage",
         "Fields": "",
-        "StrategyListSource": "8c4cff95-f609-4d9f-b9e8-0e6a5e242c97",
+        "StrategyListSource": "00340954-b120-4363-aaab-07b1cb84a1ab",
         "HasImage": "False",
         "RawId": "bbed919e-d309-4414-afe7-e081a972d309",
         "SelectedStrategyId": "7e549f9b-e9ef-4b29-ac3d-d2090d8abcf6",
@@ -136972,7 +136972,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=USMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "1afbf176-be28-4a3f-b029-44213dcc5dc8",
+        "StrategyListSource": "66d7c418-523e-4135-8248-d3a1190fb5af",
         "HasImage": "False",
         "RawId": "5b027026-4f0a-4133-bfa9-c2b179337c89",
         "SelectedStrategyId": "c1906580-03fc-4a71-8a9e-a057a9acd229",
@@ -136988,7 +136988,7 @@
       {
         "Uri": "https://leapworkdynamicsfoa70aa775a2f148abdevaos.axcloud.dynamics.com/?cmp=INMF&mi=CustTableListPage",
         "Fields": "System.Collections.Generic.List`1[LeapTest.Entities.UIElements.Web.WebDynamicFieldEntity]",
-        "StrategyListSource": "c2c67729-1e01-4b58-87fa-110a92b9a16e",
+        "StrategyListSource": "0d6e80b9-b1c6-4b49-bc4b-5e6baef75934",
         "HasImage": "False",
         "RawId": "c651def6-0ba8-4b85-b051-0892b1ed1504",
         "SelectedStrategyId": "f51c34ab-53a9-4e79-ae0e-fe500982ebe8",
