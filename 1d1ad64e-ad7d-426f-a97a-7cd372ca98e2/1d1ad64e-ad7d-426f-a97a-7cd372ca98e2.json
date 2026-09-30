@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/30/2026 5:11:11 AM +00:00",
-      "DateModify": "9/30/2026 5:11:11 AM +00:00",
+      "DateCreation": "9/30/2026 7:29:39 AM +00:00",
+      "DateModify": "9/30/2026 7:29:39 AM +00:00",
       "Title": "Try to add a Packaging item to a already Invoiced order, with the Outbound mobile device menu item for Packaging.",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -2864,7 +2864,7 @@
     ],
     "DesktopElementInfo13": [
       {
-        "StrategyListSource": "c970e74a-461d-4b64-8316-6ef8ddd28c0c",
+        "StrategyListSource": "884849b1-3ce1-4cef-bf7c-5b830b4774d7",
         "ClickPointX": "80",
         "ClickPointY": "11",
         "InspectedHight": "110",
@@ -2885,7 +2885,7 @@
         "Id": "93e949dc-cbe6-44cb-a83d-710a94f157aa"
       },
       {
-        "StrategyListSource": "7155d03d-e9a9-4fe8-893a-215ceef689d4",
+        "StrategyListSource": "118775de-a9f4-4147-b28e-180390968312",
         "ClickPointX": "1029",
         "ClickPointY": "117",
         "InspectedHight": "150",
@@ -2906,7 +2906,7 @@
         "Id": "9acd1d8c-7879-4c0c-b24d-12cadf383200"
       },
       {
-        "StrategyListSource": "db4f7913-2da3-49e0-8b64-1501b0ab5387",
+        "StrategyListSource": "1c276fed-7668-412f-9fba-840f9db4b3f5",
         "ClickPointX": "117",
         "ClickPointY": "5",
         "InspectedHight": "19",
@@ -2927,7 +2927,7 @@
         "Id": "b56b47b7-26d1-40dc-9ce0-8b87329038df"
       },
       {
-        "StrategyListSource": "58a4a4a8-d74c-40fd-994a-3271d97e549e",
+        "StrategyListSource": "a9b94c87-c716-4e5a-b0a1-02c82eec3dfc",
         "ClickPointX": "832",
         "ClickPointY": "37",
         "InspectedHight": "62",
@@ -3077,7 +3077,7 @@
     ],
     "FlowTreeHierarchyItem0": [
       {
-        "MetadataId": "1ba2bae3-d415-4076-981c-5e9a6a97f346",
+        "MetadataId": "36cc6c4b-6c5f-4e1f-8ab1-c817ea6b2ddd",
         "ParentId": "db9a3d3d-46fd-4f74-b64e-ab114447518e",
         "Title": "Reusable Subflows",
         "Description": "",
@@ -3090,7 +3090,7 @@
         "Id": "01165203-63b0-482d-8985-79ca6d3063a0"
       },
       {
-        "MetadataId": "681d7396-668c-44f8-81cf-95f47c32c526",
+        "MetadataId": "636a953e-6e6a-4f4c-a9ff-e768dceb0344",
         "ParentId": "7606b4c6-d3eb-4d2e-872b-f49ec1549e95",
         "Title": "Button",
         "Description": "",
@@ -3129,7 +3129,7 @@
         "Id": "46864d50-4c5b-4c1f-8d93-65c61b18408e"
       },
       {
-        "MetadataId": "39c432c4-251e-4005-93e8-e5976cd67929",
+        "MetadataId": "e34b6f09-230a-4909-9571-6b35ce4686b8",
         "ParentId": "7d4cee53-7605-4516-9310-c9daf22211e6",
         "Title": "Packaging",
         "Description": "",
@@ -3155,7 +3155,7 @@
         "Id": "55b5bbec-69e0-4440-a46b-9ef9135a204c"
       },
       {
-        "MetadataId": "3d4f0d34-a09e-4bdc-ac31-3a01c10b0d61",
+        "MetadataId": "73406e35-c800-4bbe-bc85-37c0b833542d",
         "ParentId": "50334c0c-3c3e-4b8b-83c3-6d7c37d21563",
         "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse. Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item in the Warehou",
         "Description": "",
@@ -3194,7 +3194,7 @@
         "Id": "6932ab5b-2c2f-4844-9aa1-5153016ba628"
       },
       {
-        "MetadataId": "b9cc970f-e029-4ef3-ac52-1b49f3bbd674",
+        "MetadataId": "dba4bcb3-23e3-4719-ba2a-a65b0bbc59d0",
         "ParentId": "01165203-63b0-482d-8985-79ca6d3063a0",
         "Title": "Action Utilities",
         "Description": "",
@@ -3207,7 +3207,7 @@
         "Id": "7606b4c6-d3eb-4d2e-872b-f49ec1549e95"
       },
       {
-        "MetadataId": "9db3368b-0a02-4725-a569-722e4db2c5bc",
+        "MetadataId": "26227d13-246a-4c0b-8e32-64bd8a725ad4",
         "ParentId": "50334c0c-3c3e-4b8b-83c3-6d7c37d21563",
         "Title": "Create a purchase order, add a regular WHS item, confirm the order. Process work for the purchase order via Warehouse management app. Start the Packaging (Inbound)",
         "Description": "",
@@ -3220,7 +3220,7 @@
         "Id": "79708333-00b4-4d93-b9db-38c60cfc035d"
       },
       {
-        "MetadataId": "9ca54382-597f-4aad-9f9f-5788dc21b948",
+        "MetadataId": "d7fdcc9f-0c68-44e5-940f-030c7300dc2e",
         "ParentId": "d2294ba9-4083-4b5a-9df7-321429105448",
         "Title": "Advanced Order Management",
         "Description": "",
@@ -3246,7 +3246,7 @@
         "Id": "81091e15-57db-464f-84c8-a8f5baaa333b"
       },
       {
-        "MetadataId": "890de7b0-6c34-4dcb-87ef-5df50b09c3cc",
+        "MetadataId": "70504648-5ffa-466a-acd1-3210e5819830",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -3259,7 +3259,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "20ae477e-3fad-4cc3-b67c-aad6240d902e",
+        "MetadataId": "af8e2f5b-9ecc-407f-b4c2-5ffd9b205384",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "ST ASCM",
         "Description": "",
@@ -3272,7 +3272,7 @@
         "Id": "d2294ba9-4083-4b5a-9df7-321429105448"
       },
       {
-        "MetadataId": "800497b0-a1b4-4c53-b48d-ba217ba2715e",
+        "MetadataId": "bb2a2da8-6ef5-4bc1-b3ea-1670fcf368ff",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "WareHouseManagement",
         "Description": "",
@@ -3285,7 +3285,7 @@
         "Id": "db9a3d3d-46fd-4f74-b64e-ab114447518e"
       },
       {
-        "MetadataId": "b982a541-5d3a-40f2-b5a4-171a290f3709",
+        "MetadataId": "fd85de1c-28f0-4e3c-9040-15add9be168d",
         "ParentId": "50334c0c-3c3e-4b8b-83c3-6d7c37d21563",
         "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse.(Validation 1) Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item",
         "Description": "",
@@ -3370,13 +3370,6 @@
     ],
     "HierarchyItemMetadata1": [
       {
-        "Title": "Reusable Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "1ba2bae3-d415-4076-981c-5e9a6a97f346"
-      },
-      {
         "Title": "Try to add a Packaging item to a already Invoiced order, with the Outbound mobile device menu item for Packaging.",
         "Description": "",
         "Type": "Flow",
@@ -3384,25 +3377,18 @@
         "Id": "1f70d208-25e0-430b-becd-349c702f5b22"
       },
       {
-        "Title": "ST ASCM",
+        "Title": "Create a purchase order, add a regular WHS item, confirm the order. Process work for the purchase order via Warehouse management app. Start the Packaging (Inbound)",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "20ae477e-3fad-4cc3-b67c-aad6240d902e"
+        "Id": "26227d13-246a-4c0b-8e32-64bd8a725ad4"
       },
       {
-        "Title": "Packaging",
+        "Title": "Reusable Subflows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "39c432c4-251e-4005-93e8-e5976cd67929"
-      },
-      {
-        "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse. Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item in the Warehou",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "3d4f0d34-a09e-4bdc-ac31-3a01c10b0d61"
+        "Id": "36cc6c4b-6c5f-4e1f-8ab1-c817ea6b2ddd"
       },
       {
         "Title": "Click on the options",
@@ -3416,21 +3402,21 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "681d7396-668c-44f8-81cf-95f47c32c526"
-      },
-      {
-        "Title": "WareHouseManagement",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "800497b0-a1b4-4c53-b48d-ba217ba2715e"
+        "Id": "636a953e-6e6a-4f4c-a9ff-e768dceb0344"
       },
       {
         "Title": "D365 Framework",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "890de7b0-6c34-4dcb-87ef-5df50b09c3cc"
+        "Id": "70504648-5ffa-466a-acd1-3210e5819830"
+      },
+      {
+        "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse. Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item in the Warehou",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "73406e35-c800-4bbe-bc85-37c0b833542d"
       },
       {
         "Title": "Inbound (Menu item)",
@@ -3447,18 +3433,11 @@
         "Id": "9acd1d8c-7879-4c0c-b24d-12cadf383200"
       },
       {
-        "Title": "Advanced Order Management",
+        "Title": "ST ASCM",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "9ca54382-597f-4aad-9f9f-5788dc21b948"
-      },
-      {
-        "Title": "Create a purchase order, add a regular WHS item, confirm the order. Process work for the purchase order via Warehouse management app. Start the Packaging (Inbound)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "9db3368b-0a02-4725-a569-722e4db2c5bc"
+        "Id": "af8e2f5b-9ecc-407f-b4c2-5ffd9b205384"
       },
       {
         "Title": "Scan or enter here (Edit) 14",
@@ -3468,18 +3447,32 @@
         "Id": "b56b47b7-26d1-40dc-9ce0-8b87329038df"
       },
       {
-        "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse.(Validation 1) Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item",
+        "Title": "WareHouseManagement",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "b982a541-5d3a-40f2-b5a4-171a290f3709"
+        "Id": "bb2a2da8-6ef5-4bc1-b3ea-1670fcf368ff"
+      },
+      {
+        "Title": "Advanced Order Management",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "d7fdcc9f-0c68-44e5-940f-030c7300dc2e"
       },
       {
         "Title": "Action Utilities",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "b9cc970f-e029-4ef3-ac52-1b49f3bbd674"
+        "Id": "dba4bcb3-23e3-4719-ba2a-a65b0bbc59d0"
+      },
+      {
+        "Title": "Packaging",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e34b6f09-230a-4909-9571-6b35ce4686b8"
       },
       {
         "Title": "Scan or enter here (Edit) 1",
@@ -3487,6 +3480,13 @@
         "Type": "DesktopElement",
         "LinkedWith": "None",
         "Id": "fa6174bb-b2fc-4407-834b-860599c764c6"
+      },
+      {
+        "Title": "Create a sales order, add a regular WHS item, make sure quantity is reserved and order is set  order complete. Release the order to warehouse.(Validation 1) Go to the Warehouse management app and process the work. Start the Packaging (Outbound) menu item",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "fd85de1c-28f0-4e3c-9040-15add9be168d"
       }
     ],
     "UsedTypes": [
