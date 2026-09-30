@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/30/2026 8:08:56 AM +00:00",
-      "DateModify": "9/30/2026 8:08:56 AM +00:00",
+      "DateCreation": "9/30/2026 11:47:16 AM +00:00",
+      "DateModify": "9/30/2026 11:47:16 AM +00:00",
       "Title": "Verify Record Title",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -1474,7 +1474,7 @@
         "Id": "33455623-defa-4fc4-bd61-734649a21ba4"
       },
       {
-        "MetadataId": "381e0fe9-c2a8-49a0-923a-ad8afe73abfc",
+        "MetadataId": "873afc86-25ac-4ffb-b66e-6000e2c4e318",
         "ParentId": "a4043b70-aace-4791-8abf-8e91bdcaa8b8",
         "Title": "Test Flows",
         "Description": "",
@@ -1487,7 +1487,7 @@
         "Id": "58fe6274-7ca8-4b8e-be76-761949899942"
       },
       {
-        "MetadataId": "07377ef8-4b86-4b19-bcbe-1915b357f195",
+        "MetadataId": "3d168db7-e7f6-4543-ac21-1ef32dcb36b7",
         "ParentId": "58fe6274-7ca8-4b8e-be76-761949899942",
         "Title": "Order to Cash",
         "Description": "",
@@ -1513,7 +1513,7 @@
         "Id": "74d99166-e465-44be-a16a-1b83ade5df2b"
       },
       {
-        "MetadataId": "b40ef5ce-f972-4c31-8947-58eaaf0d4c62",
+        "MetadataId": "6418fd0a-4ca0-404d-af88-1d8ac70343ff",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "D365 Framework",
         "Description": "",
@@ -1526,7 +1526,7 @@
         "Id": "8988cfc2-bd06-4a5a-8af9-5ff73176e416"
       },
       {
-        "MetadataId": "6c5be6a0-67df-4637-9712-4fe5022ebc87",
+        "MetadataId": "254ae72a-a67a-472e-a39e-1fd4a38ddadd",
         "ParentId": "8988cfc2-bd06-4a5a-8af9-5ff73176e416",
         "Title": "Standard Test Cases",
         "Description": "",
@@ -1539,7 +1539,7 @@
         "Id": "a4043b70-aace-4791-8abf-8e91bdcaa8b8"
       },
       {
-        "MetadataId": "d41956dd-84cf-4b00-bfe3-79f1abd77d8e",
+        "MetadataId": "46d8d37e-b505-449d-8f30-30585c399f85",
         "ParentId": "70707c1a-be70-4eda-87c0-735506226e47",
         "Title": "O2C-Main test cases",
         "Description": "",
@@ -1552,7 +1552,7 @@
         "Id": "dc37df51-ed0a-479b-9a8f-df00cb807fba"
       },
       {
-        "MetadataId": "dd90c92f-ec39-4062-8513-1e3127bbc09a",
+        "MetadataId": "aa00983c-e877-4168-a05e-fd67841a18f0",
         "ParentId": "dc37df51-ed0a-479b-9a8f-df00cb807fba",
         "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
         "Description": "",
@@ -1601,25 +1601,46 @@
     ],
     "HierarchyItemMetadata1": [
       {
+        "Title": "Standard Test Cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "254ae72a-a67a-472e-a39e-1fd4a38ddadd"
+      },
+      {
         "Title": "Order to Cash",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "07377ef8-4b86-4b19-bcbe-1915b357f195"
+        "Id": "3d168db7-e7f6-4543-ac21-1ef32dcb36b7"
+      },
+      {
+        "Title": "O2C-Main test cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "46d8d37e-b505-449d-8f30-30585c399f85"
+      },
+      {
+        "Title": "D365 Framework",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "6418fd0a-4ca0-404d-af88-1d8ac70343ff"
       },
       {
         "Title": "Test Flows",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "381e0fe9-c2a8-49a0-923a-ad8afe73abfc"
+        "Id": "873afc86-25ac-4ffb-b66e-6000e2c4e318"
       },
       {
-        "Title": "Standard Test Cases",
+        "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "6c5be6a0-67df-4637-9712-4fe5022ebc87"
+        "Id": "aa00983c-e877-4168-a05e-fd67841a18f0"
       },
       {
         "Title": "Salesid-003506  AW-93662 <span>",
@@ -1629,32 +1650,11 @@
         "Id": "ae4fc29e-4f2f-4931-9672-1d84186852b4"
       },
       {
-        "Title": "D365 Framework",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "b40ef5ce-f972-4c31-8947-58eaaf0d4c62"
-      },
-      {
-        "Title": "O2C-Main test cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "d41956dd-84cf-4b00-bfe3-79f1abd77d8e"
-      },
-      {
         "Title": "Verify Record Title",
         "Description": "",
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "d9572571-d5e9-4a5f-8dbd-6a2d97c028e9"
-      },
-      {
-        "Title": "1. Create Sales order from sales quotation: Add freight and other chrges to orders",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "dd90c92f-ec39-4062-8513-1e3127bbc09a"
       }
     ],
     "UsedTypes": [
@@ -1907,7 +1907,7 @@
       {
         "Uri": "https://d365fo-rsat8e9c33b37ad47820devaos.cloudax.dynamics.com/?cmp=USMF&mi=SalesTableDetails",
         "Fields": "",
-        "StrategyListSource": "95b75bf4-2d5a-4026-90ec-9510bd91e0d3",
+        "StrategyListSource": "a427341a-7433-4bbf-8212-fe8c5b73ae99",
         "HasImage": "False",
         "RawId": "6d32466d-5c3c-4105-b1ac-e7d5f04d4f7d",
         "SelectedStrategyId": "e849aa7e-8c7b-44b6-895d-ecaaaf287ac1",
